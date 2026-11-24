@@ -9,4 +9,4 @@
 # Names should be added to this file as:
 # Name <email address>
 
-David Martínez
+David Martínez (designer, Paraula)
