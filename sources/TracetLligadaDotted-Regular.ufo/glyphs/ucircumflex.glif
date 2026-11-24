@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ucircumflex" format="2">
+  <advance width="484"/>
+  <unicode hex="00FB"/>
+  <outline>
+    <component base="_dot" xOffset="336" yOffset="296"/>
+    <component base="_dot" xOffset="336" yOffset="347"/>
+    <component base="_dot" xOffset="327" yOffset="407"/>
+    <component base="_dot" xOffset="284" yOffset="439"/>
+    <component base="_dot" xOffset="102" yOffset="346"/>
+    <component base="_dot" xOffset="108" yOffset="406"/>
+    <component base="_dot" xOffset="151" yOffset="438"/>
+    <component base="_dot" xOffset="336" yOffset="246"/>
+    <component base="_dot" xOffset="94" yOffset="279"/>
+    <component base="_dot" xOffset="241" yOffset="470"/>
+    <component base="_dot" xOffset="193" yOffset="471"/>
+    <component base="_dot" xOffset="383" yOffset="19"/>
+    <component base="_dot" xOffset="430" yOffset="34"/>
+    <component base="_dot" xOffset="484" yOffset="118"/>
+    <component base="_dot" xOffset="334" yOffset="145"/>
+    <component base="_dot" xOffset="343" yOffset="47"/>
+    <component base="_dot" xOffset="284" yOffset="56"/>
+    <component base="_dot" xOffset="459" yOffset="76"/>
+    <component base="_dot" xOffset="328" yOffset="94"/>
+    <component base="_dot" xOffset="336" yOffset="195"/>
+    <component base="_dot" xOffset="31" yOffset="177"/>
+    <component base="_dot" xOffset="103" yOffset="223"/>
+    <component base="_dot" xOffset="57" yOffset="233"/>
+    <component base="_dot" xOffset="103" yOffset="164"/>
+    <component base="_dot" yOffset="118"/>
+    <component base="_dot" xOffset="175" yOffset="21"/>
+    <component base="_dot" xOffset="234" yOffset="26"/>
+    <component base="_dot" xOffset="125" yOffset="50"/>
+    <component base="_dot" xOffset="104" yOffset="104"/>
+  </outline>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="endash" format="2">
+  <advance width="584"/>
+  <unicode hex="2013"/>
+  <outline>
+    <component base="_dot" xOffset="67" yOffset="117"/>
+    <component base="_dot" xOffset="123" yOffset="117"/>
+    <component base="_dot" xOffset="180" yOffset="117"/>
+    <component base="_dot" xOffset="236" yOffset="117"/>
+    <component base="_dot" xOffset="292" yOffset="117"/>
+    <component base="_dot" xOffset="348" yOffset="117"/>
+    <component base="_dot" xOffset="405" yOffset="117"/>
+    <component base="_dot" xOffset="461" yOffset="117"/>
+    <component base="_dot" xOffset="517" yOffset="117"/>
+  </outline>
+</glyph>

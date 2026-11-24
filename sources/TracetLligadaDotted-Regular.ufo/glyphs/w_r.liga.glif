@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="w_r.liga" format="2">
+  <advance width="1225"/>
+  <outline>
+    <component base="_dot" xOffset="449" yOffset="292"/>
+    <component base="_dot" xOffset="617" yOffset="293"/>
+    <component base="_dot" xOffset="899" yOffset="294"/>
+    <component base="_dot" xOffset="718" yOffset="303"/>
+    <component base="_dot" xOffset="633" yOffset="341"/>
+    <component base="_dot" xOffset="684" yOffset="342"/>
+    <component base="_dot" xOffset="451" yOffset="347"/>
+    <component base="_dot" xOffset="965" yOffset="347"/>
+    <component base="_dot" xOffset="902" yOffset="379"/>
+    <component base="_dot" xOffset="728" yOffset="252"/>
+    <component base="_dot" xOffset="190" yOffset="321"/>
+    <component base="_dot" xOffset="94" yOffset="329"/>
+    <component base="_dot" xOffset="144" yOffset="347"/>
+    <component base="_dot" xOffset="449" yOffset="237"/>
+    <component base="_dot" xOffset="635" yOffset="244"/>
+    <component base="_dot" xOffset="873" yOffset="246"/>
+    <component base="_dot" xOffset="73" yOffset="277"/>
+    <component base="_dot" xOffset="561" yOffset="19"/>
+    <component base="_dot" xOffset="270" yOffset="21"/>
+    <component base="_dot" xOffset="325" yOffset="22"/>
+    <component base="_dot" xOffset="615" yOffset="23"/>
+    <component base="_dot" xOffset="511" yOffset="41"/>
+    <component base="_dot" xOffset="448" yOffset="127"/>
+    <component base="_dot" xOffset="716" yOffset="141"/>
+    <component base="_dot" xOffset="376" yOffset="44"/>
+    <component base="_dot" xOffset="663" yOffset="47"/>
+    <component base="_dot" xOffset="477" yOffset="83"/>
+    <component base="_dot" xOffset="415" yOffset="84"/>
+    <component base="_dot" xOffset="696" yOffset="90"/>
+    <component base="_dot" xOffset="449" yOffset="182"/>
+    <component base="_dot" xOffset="727" yOffset="193"/>
+    <component base="_dot" xOffset="781" yOffset="195"/>
+    <component base="_dot" xOffset="832" yOffset="212"/>
+    <component base="_dot" xOffset="676" yOffset="213"/>
+    <component base="_dot" xOffset="196" yOffset="265"/>
+    <component base="_dot" xOffset="1021" yOffset="345"/>
+    <component base="_dot" xOffset="30" yOffset="174"/>
+    <component base="_dot" xOffset="196" yOffset="209"/>
+    <component base="_dot" xOffset="52" yOffset="225"/>
+    <component base="_dot" yOffset="118"/>
+    <component base="_dot" xOffset="196" yOffset="153"/>
+    <component base="_dot" xOffset="222" yOffset="48"/>
+    <component base="_dot" xOffset="198" yOffset="98"/>
+    <component base="_dot" xOffset="1062" yOffset="312"/>
+    <component base="_dot" xOffset="1063" yOffset="257"/>
+    <component base="_dot" xOffset="1057" yOffset="202"/>
+    <component base="_dot" xOffset="1197" yOffset="78"/>
+    <component base="_dot" xOffset="1046" yOffset="91"/>
+    <component base="_dot" xOffset="1112" yOffset="20"/>
+    <component base="_dot" xOffset="1165" yOffset="32"/>
+    <component base="_dot" xOffset="1062" yOffset="40"/>
+    <component base="_dot" xOffset="1225" yOffset="118"/>
+    <component base="_dot" xOffset="1051" yOffset="146"/>
+  </outline>
+</glyph>

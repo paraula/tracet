@@ -1,0 +1,10 @@
+sources:
+  - TracetLligada-Regular.ufo
+  - TracetLligada-Bold.ufo
+familyName: Tracet Lligada
+buildVariable: false
+buildStatic: true
+buildOTF: false
+buildWebfont: false
+outputDir: ../fonts
+autohintTTF: false

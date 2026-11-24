@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphen" format="2">
+  <advance width="380"/>
+  <unicode hex="002D"/>
+  <outline>
+    <component base="_dot" xOffset="309" yOffset="117"/>
+    <component base="_dot" xOffset="249" yOffset="117"/>
+    <component base="_dot" xOffset="69" yOffset="117"/>
+    <component base="_dot" xOffset="129" yOffset="117"/>
+    <component base="_dot" xOffset="189" yOffset="117"/>
+  </outline>
+</glyph>

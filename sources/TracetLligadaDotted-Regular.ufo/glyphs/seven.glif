@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven" format="2">
+  <advance width="476"/>
+  <unicode hex="0037"/>
+  <outline>
+    <component base="_dot" xOffset="344" yOffset="353"/>
+    <component base="_dot" xOffset="282" yOffset="408"/>
+    <component base="_dot" xOffset="307" yOffset="461"/>
+    <component base="_dot" xOffset="331" yOffset="515"/>
+    <component base="_dot" xOffset="356" yOffset="569"/>
+    <component base="_dot" xOffset="381" yOffset="622"/>
+    <component base="_dot" xOffset="398" yOffset="678"/>
+    <component base="_dot" xOffset="289" yOffset="681"/>
+    <component base="_dot" xOffset="344" yOffset="681"/>
+    <component base="_dot" xOffset="264" yOffset="352"/>
+    <component base="_dot" xOffset="232" yOffset="300"/>
+    <component base="_dot" xOffset="168" yOffset="351"/>
+    <component base="_dot" xOffset="71" yOffset="681"/>
+    <component base="_dot" xOffset="125" yOffset="681"/>
+    <component base="_dot" xOffset="180" yOffset="681"/>
+    <component base="_dot" xOffset="235" yOffset="681"/>
+    <component base="_dot" xOffset="210" yOffset="252"/>
+    <component base="_dot" xOffset="188" yOffset="203"/>
+    <component base="_dot" xOffset="165" yOffset="155"/>
+    <component base="_dot" xOffset="98" yOffset="11"/>
+    <component base="_dot" xOffset="121" yOffset="59"/>
+    <component base="_dot" xOffset="143" yOffset="107"/>
+  </outline>
+</glyph>

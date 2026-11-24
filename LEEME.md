@@ -8,7 +8,8 @@ No es la fuente interna de Paraula. La interna (Paraula Pal v1.200) se genera a 
 |---|---|
 | Tracet Pal (Thin, Regular, Bold, ExtraBold) | Paraula Pal |
 | Tracet Pal Dotted (Regular) | Paraula Pal Punteada |
-| Tracet Lligada (pendiente) | Paraula Lligada 26 |
+| Tracet Lligada (Regular, Bold) — en preparación | Paraula Lligada 26 |
+| Tracet Lligada Dotted (Regular) — en preparación | Paraula Lligada 26 Puntejada R31 |
 
 ## Carpetas
 
@@ -55,11 +56,22 @@ Git está configurado con la dirección oculta de GitHub (`…@users.noreply.git
 - Los signos matemáticos tienen todos la misma anchura. Se han añadido los separadores U+2028 y U+2029.
 - Se han añadido las tablas gasp/prep, STAT y meta.
 
-## Pendiente
+## Estado
 
-1. Dirección del repositorio de GitHub en el copyright.
-2. Revisar el kerning de las letras nuevas (ahora copiado de su letra base). En ď ľ ť el apóstrofo queda muy cerca de la letra siguiente.
-3. Limpieza de los avisos de contornos.
-4. Tracet Lligada.
+Tracet Pal y Tracet Pal Dotted: juego GF Latin Core completo (319/319). Enviadas a Google Fonts: https://github.com/google/fonts/issues/11470
 
-El juego de caracteres GF Latin Core está completo: 319 de 319 en los 5 estilos.
+## Tracet Lligada (en preparación)
+
+- `sources/TracetLligada-*.ufo` y `TracetLligadaDotted-Regular.ufo` salen de Paraula Lligada 26 v1.100 con `lligada_otf_a_ufo.py` (en Drive, como `otf_a_ufo.py`). Las reglas de unión de Fontself están en el `features.fea` de cada UFO.
+- `lligada_verificar.py` (en Drive) compara la Tracet Lligada compilada con la interna en 57.065 textos. El 24-11-2026 dio 0 diferencias en los 3 estilos: las uniones son idénticas.
+- En la Dotted, cada punto es un componente del glifo `_dot` (`scripts/puntos_componentes.py`). Así el TTF pasa de 10,8 a 5,2 MB.
+- Se compila sin hinting (`autohintTTF: false`) para no multiplicar el tamaño.
+- Los scripts de la Pal (`componer_acentos.py`, `trazos_svg.py`, `calidad.py`, `build.py`) solo actúan sobre `TracetPal*.ufo`.
+- Los TTF de la Lligada no se suben al repositorio hasta que esté completa (`.gitignore`).
+- Falta: 153 caracteres de GF Latin Core (acentos nuevos, Æ Œ Ð Þ Ø Ł…), que deben funcionar con las uniones.
+
+```
+cd sources
+gftools builder config-lligada.yaml
+gftools builder config-lligada-dotted.yaml
+```

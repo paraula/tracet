@@ -38,7 +38,7 @@ def add_stat(f):
     buildStatTable(f, [dict(tag="wght", name="Weight", values=[value])])
 
 
-for ufo in sorted(glob.glob(os.path.join(ROOT, "sources", "*.ufo"))):
+for ufo in sorted(glob.glob(os.path.join(ROOT, "sources", "TracetPal*.ufo"))):
     subprocess.run([sys.executable, "-m", "fontmake", "-u", ufo, "-o", "ttf",
                     "--output-dir", OUT, "--overlaps-backend", "pathops"], check=True)
     ttf = os.path.join(OUT, os.path.basename(ufo)[:-4] + ".ttf")

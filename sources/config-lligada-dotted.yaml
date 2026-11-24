@@ -1,0 +1,9 @@
+sources:
+  - TracetLligadaDotted-Regular.ufo
+familyName: Tracet Lligada Dotted
+buildVariable: false
+buildStatic: true
+buildOTF: false
+buildWebfont: false
+outputDir: ../fonts
+autohintTTF: false

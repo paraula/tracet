@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="questiondown" format="2">
+  <advance width="450"/>
+  <unicode hex="00BF"/>
+  <outline>
+    <component base="_dot" xOffset="97" yOffset="287"/>
+    <component base="_dot" xOffset="123" yOffset="338"/>
+    <component base="_dot" xOffset="154" yOffset="385"/>
+    <component base="_dot" xOffset="182" yOffset="435"/>
+    <component base="_dot" xOffset="366" yOffset="239"/>
+    <component base="_dot" xOffset="202" yOffset="488"/>
+    <component base="_dot" xOffset="308" yOffset="41"/>
+    <component base="_dot" xOffset="376" yOffset="129"/>
+    <component base="_dot" xOffset="351" yOffset="78"/>
+    <component base="_dot" xOffset="381" yOffset="185"/>
+    <component base="_dot" xOffset="216" yOffset="543"/>
+    <component base="_dot" xOffset="221" yOffset="632"/>
+    <component base="_dot" xOffset="255" yOffset="21"/>
+    <component base="_dot" xOffset="67" yOffset="178"/>
+    <component base="_dot" xOffset="77" yOffset="234"/>
+    <component base="_dot" xOffset="73" yOffset="122"/>
+    <component base="_dot" xOffset="198" yOffset="19"/>
+    <component base="_dot" xOffset="144" yOffset="36"/>
+    <component base="_dot" xOffset="100" yOffset="72"/>
+  </outline>
+</glyph>

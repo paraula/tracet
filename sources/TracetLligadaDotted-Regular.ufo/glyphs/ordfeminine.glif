@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordfeminine" format="2">
+  <advance width="393"/>
+  <unicode hex="00AA"/>
+  <outline>
+    <component base="_dot" xOffset="312" yOffset="488"/>
+    <component base="_dot" xOffset="274" yOffset="564"/>
+    <component base="_dot" xOffset="313" yOffset="634"/>
+    <component base="_dot" xOffset="255" yOffset="488"/>
+    <component base="_dot" xOffset="83" yOffset="487"/>
+    <component base="_dot" xOffset="140" yOffset="488"/>
+    <component base="_dot" xOffset="198" yOffset="488"/>
+    <component base="_dot" xOffset="130" yOffset="564"/>
+    <component base="_dot" xOffset="184" yOffset="578"/>
+    <component base="_dot" xOffset="82" yOffset="589"/>
+    <component base="_dot" xOffset="231" yOffset="607"/>
+    <component base="_dot" xOffset="67" yOffset="642"/>
+    <component base="_dot" xOffset="237" yOffset="662"/>
+    <component base="_dot" xOffset="84" yOffset="695"/>
+    <component base="_dot" xOffset="223" yOffset="716"/>
+    <component base="_dot" xOffset="123" yOffset="734"/>
+    <component base="_dot" xOffset="177" yOffset="745"/>
+  </outline>
+</glyph>

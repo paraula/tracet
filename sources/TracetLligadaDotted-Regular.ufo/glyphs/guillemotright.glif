@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemotright" format="2">
+  <advance width="305"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <component base="_dot" xOffset="138" yOffset="204"/>
+    <component base="_dot" xOffset="138" yOffset="163"/>
+    <component base="_dot" xOffset="238" yOffset="163"/>
+    <component base="_dot" xOffset="238" yOffset="204"/>
+    <component base="_dot" xOffset="167" yOffset="79"/>
+    <component base="_dot" xOffset="167" yOffset="288"/>
+    <component base="_dot" xOffset="67" yOffset="79"/>
+    <component base="_dot" xOffset="67" yOffset="288"/>
+    <component base="_dot" xOffset="102" yOffset="121"/>
+    <component base="_dot" xOffset="203" yOffset="121"/>
+    <component base="_dot" xOffset="102" yOffset="246"/>
+    <component base="_dot" xOffset="203" yOffset="246"/>
+  </outline>
+</glyph>

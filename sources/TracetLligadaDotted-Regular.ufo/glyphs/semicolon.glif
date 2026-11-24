@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolon" format="2">
+  <advance width="191"/>
+  <unicode hex="003B"/>
+  <outline>
+    <component base="_dot" xOffset="108" yOffset="312"/>
+    <component base="_dot" xOffset="118" yOffset="-18"/>
+    <component base="_dot" xOffset="66" yOffset="-103"/>
+    <component base="_dot" xOffset="98" yOffset="-64"/>
+    <component base="_dot" xOffset="109" yOffset="28"/>
+  </outline>
+</glyph>

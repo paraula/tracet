@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign" format="2">
+  <advance width="579"/>
+  <unicode hex="0023"/>
+  <outline>
+    <contour>
+      <point x="206" y="203" type="curve" smooth="yes"/>
+      <point x="206" y="208"/>
+      <point x="204" y="212"/>
+      <point x="201" y="215" type="curve"/>
+      <point x="203" y="218"/>
+      <point x="204" y="222"/>
+      <point x="204" y="226" type="curve" smooth="yes"/>
+      <point x="204" y="235"/>
+      <point x="196" y="243"/>
+      <point x="187" y="243" type="curve" smooth="yes"/>
+      <point x="178" y="243"/>
+      <point x="170" y="235"/>
+      <point x="170" y="226" type="curve" smooth="yes"/>
+      <point x="170" y="221"/>
+      <point x="172" y="216"/>
+      <point x="176" y="213" type="curve"/>
+      <point x="174" y="210"/>
+      <point x="172" y="207"/>
+      <point x="172" y="203" type="curve" smooth="yes"/>
+      <point x="172" y="193"/>
+      <point x="180" y="186"/>
+      <point x="189" y="186" type="curve" smooth="yes"/>
+      <point x="199" y="186"/>
+      <point x="206" y="193"/>
+    </contour>
+    <contour>
+      <point x="386" y="203" type="curve" smooth="yes"/>
+      <point x="386" y="208"/>
+      <point x="384" y="212"/>
+      <point x="381" y="215" type="curve"/>
+      <point x="383" y="218"/>
+      <point x="384" y="222"/>
+      <point x="384" y="226" type="curve" smooth="yes"/>
+      <point x="384" y="235"/>
+      <point x="376" y="243"/>
+      <point x="367" y="243" type="curve" smooth="yes"/>
+      <point x="358" y="243"/>
+      <point x="350" y="235"/>
+      <point x="350" y="226" type="curve" smooth="yes"/>
+      <point x="350" y="221"/>
+      <point x="352" y="216"/>
+      <point x="356" y="213" type="curve"/>
+      <point x="354" y="210"/>
+      <point x="352" y="207"/>
+      <point x="352" y="203" type="curve" smooth="yes"/>
+      <point x="352" y="193"/>
+      <point x="360" y="186"/>
+      <point x="369" y="186" type="curve" smooth="yes"/>
+      <point x="379" y="186"/>
+      <point x="386" y="193"/>
+    </contour>
+    <contour>
+      <point x="229" y="438" type="curve" smooth="yes"/>
+      <point x="229" y="447"/>
+      <point x="221" y="455"/>
+      <point x="212" y="455" type="curve" smooth="yes"/>
+      <point x="207" y="455"/>
+      <point x="202" y="452"/>
+      <point x="199" y="449" type="curve"/>
+      <point x="193" y="446"/>
+      <point x="189" y="440"/>
+      <point x="189" y="433" type="curve" smooth="yes"/>
+      <point x="189" y="424"/>
+      <point x="196" y="416"/>
+      <point x="206" y="416" type="curve" smooth="yes"/>
+      <point x="211" y="416"/>
+      <point x="216" y="418"/>
+      <point x="219" y="422" type="curve"/>
+      <point x="225" y="425"/>
+      <point x="229" y="431"/>
+    </contour>
+    <contour>
+      <point x="409" y="438" type="curve" smooth="yes"/>
+      <point x="409" y="447"/>
+      <point x="401" y="455"/>
+      <point x="392" y="455" type="curve" smooth="yes"/>
+      <point x="387" y="455"/>
+      <point x="382" y="452"/>
+      <point x="379" y="449" type="curve"/>
+      <point x="373" y="446"/>
+      <point x="369" y="440"/>
+      <point x="369" y="433" type="curve" smooth="yes"/>
+      <point x="369" y="424"/>
+      <point x="376" y="416"/>
+      <point x="386" y="416" type="curve" smooth="yes"/>
+      <point x="391" y="416"/>
+      <point x="396" y="418"/>
+      <point x="399" y="422" type="curve"/>
+      <point x="405" y="425"/>
+      <point x="409" y="431"/>
+    </contour>
+    <component base="_dot" xOffset="210" yOffset="491"/>
+    <component base="_dot" xOffset="197" yOffset="318"/>
+    <component base="_dot" xOffset="377" yOffset="318"/>
+    <component base="_dot" xOffset="185" yOffset="145"/>
+    <component base="_dot" xOffset="67" yOffset="226"/>
+    <component base="_dot" xOffset="92" yOffset="438"/>
+    <component base="_dot" xOffset="177" yOffset="30"/>
+    <component base="_dot" xOffset="357" yOffset="30"/>
+    <component base="_dot" xOffset="181" yOffset="88"/>
+    <component base="_dot" xOffset="361" yOffset="88"/>
+    <component base="_dot" xOffset="365" yOffset="145"/>
+    <component base="_dot" xOffset="127" yOffset="226"/>
+    <component base="_dot" xOffset="247" yOffset="226"/>
+    <component base="_dot" xOffset="307" yOffset="226"/>
+    <component base="_dot" xOffset="427" yOffset="226"/>
+    <component base="_dot" xOffset="487" yOffset="226"/>
+    <component base="_dot" xOffset="373" yOffset="260"/>
+    <component base="_dot" xOffset="202" yOffset="375"/>
+    <component base="_dot" xOffset="382" yOffset="375"/>
+    <component base="_dot" xOffset="152" yOffset="438"/>
+    <component base="_dot" xOffset="272" yOffset="438"/>
+    <component base="_dot" xOffset="332" yOffset="438"/>
+    <component base="_dot" xOffset="452" yOffset="438"/>
+    <component base="_dot" xOffset="512" yOffset="438"/>
+    <component base="_dot" xOffset="390" yOffset="491"/>
+    <component base="_dot" xOffset="214" yOffset="548"/>
+    <component base="_dot" xOffset="394" yOffset="548"/>
+    <component base="_dot" xOffset="218" yOffset="606"/>
+    <component base="_dot" xOffset="398" yOffset="606"/>
+    <component base="_dot" xOffset="222" yOffset="663"/>
+    <component base="_dot" xOffset="402" yOffset="663"/>
+    <component base="_dot" xOffset="193" yOffset="260"/>
+  </outline>
+</glyph>

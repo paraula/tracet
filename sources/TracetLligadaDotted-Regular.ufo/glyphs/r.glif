@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="r" format="2">
+  <advance width="407"/>
+  <unicode hex="0072"/>
+  <outline>
+    <component base="_dot" xOffset="255" yOffset="285"/>
+    <component base="_dot" xOffset="220" yOffset="326"/>
+    <component base="_dot" xOffset="162" yOffset="329"/>
+    <component base="_dot" xOffset="102" yOffset="358"/>
+    <component base="_dot" xOffset="82" yOffset="278"/>
+    <component base="_dot" xOffset="285" yOffset="22"/>
+    <component base="_dot" xOffset="341" yOffset="26"/>
+    <component base="_dot" xOffset="407" yOffset="118"/>
+    <component base="_dot" xOffset="378" yOffset="69"/>
+    <component base="_dot" xOffset="252" yOffset="228"/>
+    <component base="_dot" xOffset="247" yOffset="170"/>
+    <component base="_dot" xOffset="30" yOffset="173"/>
+    <component base="_dot" xOffset="57" yOffset="224"/>
+    <component base="_dot" xOffset="241" yOffset="113"/>
+    <component base="_dot" yOffset="118"/>
+    <component base="_dot" xOffset="241" yOffset="56"/>
+  </outline>
+</glyph>

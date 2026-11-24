@@ -491,7 +491,7 @@ class Tracer:
 
 def main():
     drawing = Drawing(SVG_FILE)
-    for path in sorted(glob.glob(os.path.join(ROOT, "sources", "*.ufo"))):
+    for path in sorted(glob.glob(os.path.join(ROOT, "sources", "TracetPal*.ufo"))):
         u = ufoLib2.Font.open(path)
         t = Tracer(u, drawing)
         t.run()

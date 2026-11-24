@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iacute" format="2">
+  <advance width="257"/>
+  <unicode hex="00ED"/>
+  <outline>
+    <component base="_dot" xOffset="99" yOffset="153"/>
+    <component base="_dot" xOffset="99" yOffset="206"/>
+    <component base="_dot" xOffset="226" yOffset="65"/>
+    <component base="_dot" xOffset="104" yOffset="45"/>
+    <component base="_dot" xOffset="99" yOffset="99"/>
+    <component base="_dot" xOffset="195" yOffset="21"/>
+    <component base="_dot" xOffset="91" yOffset="257"/>
+    <component base="_dot" xOffset="99" yOffset="333"/>
+    <component base="_dot" xOffset="28" yOffset="162"/>
+    <component base="_dot" xOffset="54" yOffset="215"/>
+    <component base="_dot" xOffset="143" yOffset="12"/>
+    <component base="_dot" yOffset="118"/>
+    <component base="_dot" xOffset="257" yOffset="118"/>
+    <component base="_dot" xOffset="109" yOffset="410"/>
+    <component base="_dot" xOffset="156" yOffset="440"/>
+    <component base="_dot" xOffset="204" yOffset="468"/>
+    <component base="_dot" xOffset="252" yOffset="498"/>
+  </outline>
+</glyph>

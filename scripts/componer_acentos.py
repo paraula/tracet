@@ -256,7 +256,7 @@ class Composer:
 
 
 def main():
-    for path in sorted(glob.glob(os.path.join(ROOT, "sources", "*.ufo"))):
+    for path in sorted(glob.glob(os.path.join(ROOT, "sources", "TracetPal*.ufo"))):
         u = ufoLib2.Font.open(path)
         c = Composer(u)
         c.run()

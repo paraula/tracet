@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divide" format="2">
+  <advance width="465"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <component base="_dot" xOffset="233" yOffset="167"/>
+    <component base="_dot" xOffset="233" yOffset="407"/>
+    <component base="_dot" xOffset="122" yOffset="287"/>
+    <component base="_dot" xOffset="67" yOffset="287"/>
+    <component base="_dot" xOffset="177" yOffset="287"/>
+    <component base="_dot" xOffset="233" yOffset="287"/>
+    <component base="_dot" xOffset="288" yOffset="287"/>
+    <component base="_dot" xOffset="343" yOffset="287"/>
+    <component base="_dot" xOffset="398" yOffset="287"/>
+  </outline>
+</glyph>

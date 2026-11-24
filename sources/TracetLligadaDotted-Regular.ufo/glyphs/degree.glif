@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="degree" format="2">
+  <advance width="292"/>
+  <unicode hex="00B0"/>
+  <outline>
+    <component base="_dot" xOffset="124" yOffset="561"/>
+    <component base="_dot" xOffset="178" yOffset="564"/>
+    <component base="_dot" xOffset="80" yOffset="592"/>
+    <component base="_dot" xOffset="216" yOffset="601"/>
+    <component base="_dot" xOffset="68" yOffset="645"/>
+    <component base="_dot" xOffset="222" yOffset="655"/>
+    <component base="_dot" xOffset="92" yOffset="693"/>
+    <component base="_dot" xOffset="192" yOffset="700"/>
+    <component base="_dot" xOffset="141" yOffset="714"/>
+  </outline>
+</glyph>

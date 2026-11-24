@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteright" format="2">
+  <advance width="169"/>
+  <unicode hex="2019"/>
+  <outline>
+    <component base="_dot" xOffset="67" yOffset="558"/>
+    <component base="_dot" xOffset="97" yOffset="678"/>
+    <component base="_dot" xOffset="102" yOffset="616"/>
+  </outline>
+</glyph>

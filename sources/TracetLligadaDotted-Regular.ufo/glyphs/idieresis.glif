@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idieresis" format="2">
+  <advance width="253"/>
+  <unicode hex="00EF"/>
+  <outline>
+    <contour>
+      <point x="156" y="514" type="curve" smooth="yes"/>
+      <point x="140" y="514"/>
+      <point x="126" y="500"/>
+      <point x="126" y="483" type="curve" smooth="yes"/>
+      <point x="126" y="465"/>
+      <point x="140" y="451"/>
+      <point x="156" y="451" type="curve" smooth="yes"/>
+      <point x="172" y="451"/>
+      <point x="186" y="465"/>
+      <point x="186" y="483" type="curve" smooth="yes"/>
+      <point x="186" y="500"/>
+      <point x="172" y="514"/>
+    </contour>
+    <contour>
+      <point x="47" y="514" type="curve" smooth="yes"/>
+      <point x="30" y="514"/>
+      <point x="17" y="500"/>
+      <point x="17" y="483" type="curve" smooth="yes"/>
+      <point x="17" y="465"/>
+      <point x="30" y="451"/>
+      <point x="47" y="451" type="curve" smooth="yes"/>
+      <point x="63" y="451"/>
+      <point x="76" y="465"/>
+      <point x="76" y="483" type="curve" smooth="yes"/>
+      <point x="76" y="500"/>
+      <point x="63" y="514"/>
+    </contour>
+    <component base="_dot" xOffset="104" yOffset="107"/>
+    <component base="_dot" xOffset="104" yOffset="161"/>
+    <component base="_dot" xOffset="148" yOffset="21"/>
+    <component base="_dot" xOffset="58" yOffset="223"/>
+    <component base="_dot" xOffset="96" yOffset="266"/>
+    <component base="_dot" xOffset="103" yOffset="346"/>
+    <component base="_dot" xOffset="104" yOffset="215"/>
+    <component base="_dot" xOffset="109" yOffset="54"/>
+    <component base="_dot" xOffset="230" yOffset="74"/>
+    <component base="_dot" yOffset="118"/>
+    <component base="_dot" xOffset="253" yOffset="118"/>
+    <component base="_dot" xOffset="30" yOffset="170"/>
+    <component base="_dot" xOffset="199" yOffset="30"/>
+  </outline>
+</glyph>

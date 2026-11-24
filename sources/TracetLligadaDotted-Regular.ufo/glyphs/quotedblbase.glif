@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblbase" format="2">
+  <advance width="268"/>
+  <unicode hex="201E"/>
+  <outline>
+    <component base="_dot" xOffset="157" yOffset="-103"/>
+    <component base="_dot" xOffset="67" yOffset="-101"/>
+    <component base="_dot" xOffset="184" yOffset="-66"/>
+    <component base="_dot" xOffset="102" yOffset="-43"/>
+    <component base="_dot" xOffset="201" yOffset="-23"/>
+    <component base="_dot" xOffset="97" yOffset="19"/>
+    <component base="_dot" xOffset="189" yOffset="19"/>
+  </outline>
+</glyph>

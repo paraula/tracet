@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="y" format="2">
+  <advance width="457"/>
+  <unicode hex="0079"/>
+  <outline>
+    <component base="_dot" xOffset="337" yOffset="279"/>
+    <component base="_dot" xOffset="281" yOffset="-330"/>
+    <component base="_dot" xOffset="316" yOffset="-287"/>
+    <component base="_dot" xOffset="337" yOffset="342"/>
+    <component base="_dot" xOffset="239" yOffset="-300"/>
+    <component base="_dot" xOffset="103" yOffset="341"/>
+    <component base="_dot" xOffset="330" yOffset="-232"/>
+    <component base="_dot" xOffset="337" yOffset="19"/>
+    <component base="_dot" xOffset="386" yOffset="38"/>
+    <component base="_dot" xOffset="457" yOffset="118"/>
+    <component base="_dot" xOffset="336" yOffset="154"/>
+    <component base="_dot" xOffset="286" yOffset="55"/>
+    <component base="_dot" xOffset="427" yOffset="72"/>
+    <component base="_dot" xOffset="329" yOffset="92"/>
+    <component base="_dot" xOffset="333" yOffset="-175"/>
+    <component base="_dot" xOffset="334" yOffset="-118"/>
+    <component base="_dot" xOffset="334" yOffset="-61"/>
+    <component base="_dot" xOffset="285" yOffset="-32"/>
+    <component base="_dot" xOffset="337" yOffset="217"/>
+    <component base="_dot" xOffset="94" yOffset="262"/>
+    <component base="_dot" xOffset="253" yOffset="-79"/>
+    <component base="_dot" xOffset="224" yOffset="-245"/>
+    <component base="_dot" xOffset="223" yOffset="-188"/>
+    <component base="_dot" xOffset="30" yOffset="168"/>
+    <component base="_dot" xOffset="103" yOffset="208"/>
+    <component base="_dot" xOffset="57" yOffset="220"/>
+    <component base="_dot" yOffset="118"/>
+    <component base="_dot" xOffset="103" yOffset="150"/>
+    <component base="_dot" xOffset="234" yOffset="-132"/>
+    <component base="_dot" xOffset="181" yOffset="18"/>
+    <component base="_dot" xOffset="238" yOffset="25"/>
+    <component base="_dot" xOffset="130" yOffset="42"/>
+    <component base="_dot" xOffset="105" yOffset="92"/>
+  </outline>
+</glyph>

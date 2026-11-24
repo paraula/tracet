@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclam" format="2">
+  <advance width="161"/>
+  <unicode hex="0021"/>
+  <outline>
+    <component base="_dot" xOffset="79" yOffset="331"/>
+    <component base="_dot" xOffset="79" yOffset="387"/>
+    <component base="_dot" xOffset="79" yOffset="444"/>
+    <component base="_dot" xOffset="79" yOffset="275"/>
+    <component base="_dot" xOffset="79" yOffset="500"/>
+    <component base="_dot" xOffset="79" yOffset="556"/>
+    <component base="_dot" xOffset="79" yOffset="612"/>
+    <component base="_dot" xOffset="79" yOffset="668"/>
+    <component base="_dot" xOffset="79" yOffset="724"/>
+    <component base="_dot" xOffset="79" yOffset="219"/>
+    <component base="_dot" xOffset="79" yOffset="163"/>
+    <component base="_dot" xOffset="81" yOffset="31"/>
+    <component base="_dot" xOffset="81" yOffset="107"/>
+  </outline>
+</glyph>

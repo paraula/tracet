@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bar" format="2">
+  <advance width="134"/>
+  <unicode hex="007C"/>
+  <outline>
+    <component base="_dot" xOffset="67" yOffset="17"/>
+    <component base="_dot" xOffset="67" yOffset="134"/>
+    <component base="_dot" xOffset="67" yOffset="193"/>
+    <component base="_dot" xOffset="67" yOffset="76"/>
+    <component base="_dot" xOffset="67" yOffset="251"/>
+    <component base="_dot" xOffset="67" yOffset="310"/>
+    <component base="_dot" xOffset="67" yOffset="368"/>
+    <component base="_dot" xOffset="67" yOffset="427"/>
+    <component base="_dot" xOffset="67" yOffset="485"/>
+    <component base="_dot" xOffset="67" yOffset="544"/>
+    <component base="_dot" xOffset="67" yOffset="602"/>
+    <component base="_dot" xOffset="67" yOffset="661"/>
+    <component base="_dot" xOffset="67" yOffset="719"/>
+    <component base="_dot" xOffset="67" yOffset="778"/>
+    <component base="_dot" xOffset="67" yOffset="836"/>
+  </outline>
+</glyph>

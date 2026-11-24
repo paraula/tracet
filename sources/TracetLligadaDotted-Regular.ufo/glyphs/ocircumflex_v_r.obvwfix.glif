@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ocircumflex_v_r.obvwfix" format="2">
+  <advance width="1390"/>
+  <outline>
+    <component base="_dot" xOffset="452" yOffset="273"/>
+    <component base="_dot" xOffset="622" yOffset="294"/>
+    <component base="_dot" xOffset="500" yOffset="301"/>
+    <component base="_dot" xOffset="782" yOffset="315"/>
+    <component base="_dot" xOffset="875" yOffset="316"/>
+    <component base="_dot" xOffset="377" yOffset="317"/>
+    <component base="_dot" xOffset="594" yOffset="340"/>
+    <component base="_dot" xOffset="539" yOffset="341"/>
+    <component base="_dot" xOffset="826" yOffset="346"/>
+    <component base="_dot" xOffset="329" yOffset="354"/>
+    <component base="_dot" xOffset="268" yOffset="362"/>
+    <component base="_dot" xOffset="348" yOffset="406"/>
+    <component base="_dot" xOffset="305" yOffset="438"/>
+    <component base="_dot" xOffset="341" yOffset="253"/>
+    <component base="_dot" xOffset="789" yOffset="257"/>
+    <component base="_dot" xOffset="892" yOffset="259"/>
+    <component base="_dot" xOffset="397" yOffset="259"/>
+    <component base="_dot" xOffset="285" yOffset="260"/>
+    <component base="_dot" xOffset="262" yOffset="470"/>
+    <component base="_dot" xOffset="236" yOffset="289"/>
+    <component base="_dot" xOffset="157" yOffset="316"/>
+    <component base="_dot" xOffset="213" yOffset="338"/>
+    <component base="_dot" xOffset="128" yOffset="406"/>
+    <component base="_dot" xOffset="171" yOffset="438"/>
+    <component base="_dot" xOffset="613" yOffset="239"/>
+    <component base="_dot" xOffset="114" yOffset="272"/>
+    <component base="_dot" xOffset="214" yOffset="471"/>
+    <component base="_dot" xOffset="714" yOffset="21"/>
+    <component base="_dot" xOffset="770" yOffset="21"/>
+    <component base="_dot" xOffset="659" yOffset="36"/>
+    <component base="_dot" xOffset="600" yOffset="127"/>
+    <component base="_dot" xOffset="879" yOffset="138"/>
+    <component base="_dot" xOffset="381" yOffset="145"/>
+    <component base="_dot" xOffset="822" yOffset="43"/>
+    <component base="_dot" xOffset="307" yOffset="60"/>
+    <component base="_dot" xOffset="618" yOffset="73"/>
+    <component base="_dot" xOffset="859" yOffset="85"/>
+    <component base="_dot" xOffset="350" yOffset="97"/>
+    <component base="_dot" xOffset="600" yOffset="183"/>
+    <component base="_dot" xOffset="889" yOffset="193"/>
+    <component base="_dot" xOffset="943" yOffset="195"/>
+    <component base="_dot" xOffset="397" yOffset="200"/>
+    <component base="_dot" xOffset="995" yOffset="211"/>
+    <component base="_dot" xOffset="832" yOffset="216"/>
+    <component base="_dot" xOffset="254" yOffset="38"/>
+    <component base="_dot" xOffset="32" yOffset="191"/>
+    <component base="_dot" xOffset="105" yOffset="216"/>
+    <component base="_dot" xOffset="66" yOffset="241"/>
+    <component base="_dot" xOffset="1" yOffset="139"/>
+    <component base="_dot" xOffset="98" yOffset="160"/>
+    <component base="_dot" xOffset="197" yOffset="36"/>
+    <component base="_dot" xOffset="145" yOffset="59"/>
+    <component base="_dot" xOffset="110" yOffset="104"/>
+    <component base="_dot" xOffset="1063" yOffset="293"/>
+    <component base="_dot" xOffset="1226" yOffset="311"/>
+    <component base="_dot" xOffset="1186" yOffset="344"/>
+    <component base="_dot" xOffset="1130" yOffset="346"/>
+    <component base="_dot" xOffset="1067" yOffset="377"/>
+    <component base="_dot" xOffset="1227" yOffset="255"/>
+    <component base="_dot" xOffset="1221" yOffset="200"/>
+    <component base="_dot" xOffset="1361" yOffset="78"/>
+    <component base="_dot" xOffset="1211" yOffset="89"/>
+    <component base="_dot" xOffset="1277" yOffset="19"/>
+    <component base="_dot" xOffset="1329" yOffset="32"/>
+    <component base="_dot" xOffset="1226" yOffset="38"/>
+    <component base="_dot" xOffset="1390" yOffset="118"/>
+    <component base="_dot" xOffset="1215" yOffset="145"/>
+    <component base="_dot" xOffset="1036" yOffset="246"/>
+  </outline>
+</glyph>
