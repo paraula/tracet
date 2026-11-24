@@ -1,0 +1,11 @@
+sources:
+  - TracetPal-Thin.ufo
+  - TracetPal-Regular.ufo
+  - TracetPal-Bold.ufo
+  - TracetPal-ExtraBold.ufo
+familyName: Tracet Pal
+buildVariable: false
+buildStatic: true
+buildOTF: false
+buildWebfont: false
+outputDir: ../fonts

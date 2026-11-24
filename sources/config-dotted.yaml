@@ -1,0 +1,8 @@
+sources:
+  - TracetPalDotted-Regular.ufo
+familyName: Tracet Pal Dotted
+buildVariable: false
+buildStatic: true
+buildOTF: false
+buildWebfont: false
+outputDir: ../fonts
