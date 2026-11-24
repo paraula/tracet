@@ -398,6 +398,8 @@
     <string>imacron.glif</string>
     <key>iogonek</key>
     <string>iogonek.glif</string>
+    <key>iogonek.dotless</key>
+    <string>iogonek.dotless.glif</string>
     <key>j</key>
     <string>j.glif</string>
     <key>k</key>

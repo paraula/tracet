@@ -117,10 +117,7 @@
       <point x="325.0" y="539.0"/>
       <point x="324.0" y="538.0"/>
       <point x="324.0" y="537.0" type="curve"/>
-      <point x="323.0" y="537.0"/>
-      <point x="323.0" y="537.0"/>
-      <point x="323.0" y="537.0" type="curve"/>
-      <point x="321.0" y="537.0"/>
+      <point x="322.0" y="537.0"/>
       <point x="319.0" y="535.0"/>
       <point x="319.0" y="533.0" type="curve" smooth="yes"/>
       <point x="319.0" y="186.0" type="line" smooth="yes"/>

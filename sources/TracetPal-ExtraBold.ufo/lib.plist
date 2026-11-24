@@ -340,6 +340,7 @@
       <string>ohungarumlaut</string>
       <string>uhungarumlaut</string>
       <string>uni0123</string>
+      <string>iogonek.dotless</string>
     </array>
     <key>public.openTypeCategories</key>
     <dict>
@@ -438,6 +439,8 @@
       <key>hbar</key>
       <string>base</string>
       <key>i</key>
+      <string>base</string>
+      <key>iogonek.dotless</key>
       <string>base</string>
       <key>j</key>
       <string>base</string>

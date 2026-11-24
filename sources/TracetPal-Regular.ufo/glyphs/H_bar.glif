@@ -96,7 +96,7 @@
     <contour>
       <point x="516.0" y="523.6542358398438" type="line"/>
       <point x="516.0" y="390.0" type="line"/>
-      <point x="193.0" y="391.0" type="line"/>
+      <point x="193.0" y="390.0" type="line"/>
       <point x="193.0" y="523.6542358398438" type="line"/>
     </contour>
   </outline>

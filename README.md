@@ -1,6 +1,10 @@
 # Tracet
 
-![Tracet Pal glyphs](documentation/img/proof-glyphs.png)
+![Tracet Pal](documentation/img/image1.png)
+
+![Tracet Pal Dotted](documentation/img/image2.png)
+
+![Character set](documentation/img/image3.png)
 
 Tracet is a family of handwriting-model typefaces for learning to read and write, designed by David Martínez at [Paraula](https://paraula.com).
 
@@ -34,6 +38,8 @@ The fonts are written to `fonts/ttf/`.
 
 - `componer_acentos.py`: composes accented letters from the accents already drawn, adds the combining marks and the mark anchors.
 - `trazos_svg.py`: imports the letters and accents drawn as centre-line strokes in `sources/dibujos/*.svg`. It strokes them at the width of each weight and dots them for the Dotted style.
+- `calidad.py`: outline clean-up, kerning after ď ľ ť Ľ, and dotless i/j when a combining accent follows (`ccmp`). Run it after the two scripts above.
+- `muestras.py`: renders the specimen images in `documentation/img/`.
 - `build.py`: a local build with fontmake that does not require gftools.
 
 ## License

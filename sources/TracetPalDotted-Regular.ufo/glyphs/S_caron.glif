@@ -489,8 +489,7 @@
     </contour>
     <contour>
       <point x="242.0" y="665.0" type="curve"/>
-      <point x="243.0" y="665.0" type="line" smooth="yes"/>
-      <point x="252.0" y="665.0"/>
+      <point x="251.0" y="665.0"/>
       <point x="259.0" y="672.0"/>
       <point x="260.0" y="681.0" type="curve"/>
       <point x="260.0" y="691.0"/>

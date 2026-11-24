@@ -72,8 +72,7 @@
       <point x="277.0" y="213.0"/>
       <point x="280.0" y="185.0"/>
       <point x="280.0" y="185.0" type="curve"/>
-      <point x="280.0" y="184.0" type="line" smooth="yes"/>
-      <point x="280.0" y="183.0"/>
+      <point x="280.0" y="184.0"/>
       <point x="290.0" y="109.0"/>
     </contour>
   </outline>

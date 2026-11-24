@@ -161,7 +161,6 @@
       <point x="187.0" y="334.0"/>
       <point x="194.0" y="338.0"/>
       <point x="199.0" y="340.0" type="curve"/>
-      <point x="200.0" y="340.0" type="line"/>
       <point x="205.0" y="343.0" type="line"/>
     </contour>
     <contour>

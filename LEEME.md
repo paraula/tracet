@@ -29,7 +29,10 @@ Si se han cambiado los dibujos o los acentos, primero se regeneran esos glifos:
 ```
 python scripts/componer_acentos.py
 python scripts/trazos_svg.py
+python scripts/calidad.py
 ```
+
+`calidad.py` limpia los contornos, pone el kerning detrás de ď ľ ť Ľ y quita el punto de la i/j cuando llevan un acento combinable. `muestras.py` regenera las imágenes de `documentation/img/` después de compilar.
 
 Compilación oficial de Google Fonts (con hinting automático):
 

@@ -25616,54 +25616,350 @@
       <integer>-36</integer>
       <key>Atilde</key>
       <integer>-36</integer>
+      <key>B</key>
+      <integer>25</integer>
+      <key>C</key>
+      <integer>15</integer>
+      <key>Cacute</key>
+      <integer>15</integer>
+      <key>Ccaron</key>
+      <integer>15</integer>
+      <key>Ccedilla</key>
+      <integer>15</integer>
+      <key>Cdotaccent</key>
+      <integer>15</integer>
+      <key>D</key>
+      <integer>25</integer>
+      <key>Dcaron</key>
+      <integer>25</integer>
+      <key>E</key>
+      <integer>25</integer>
+      <key>Eacute</key>
+      <integer>25</integer>
+      <key>Ecaron</key>
+      <integer>25</integer>
+      <key>Ecircumflex</key>
+      <integer>25</integer>
+      <key>Edieresis</key>
+      <integer>25</integer>
+      <key>Edotaccent</key>
+      <integer>25</integer>
+      <key>Egrave</key>
+      <integer>15</integer>
+      <key>Emacron</key>
+      <integer>25</integer>
+      <key>Eogonek</key>
+      <integer>25</integer>
+      <key>Euro</key>
+      <integer>20</integer>
+      <key>F</key>
+      <integer>25</integer>
+      <key>G</key>
+      <integer>15</integer>
+      <key>Gbreve</key>
+      <integer>15</integer>
+      <key>Gdotaccent</key>
+      <integer>15</integer>
+      <key>H</key>
+      <integer>25</integer>
+      <key>Hbar</key>
+      <integer>25</integer>
+      <key>I</key>
+      <integer>25</integer>
+      <key>Iacute</key>
+      <integer>25</integer>
+      <key>Idieresis</key>
+      <integer>25</integer>
+      <key>Idotaccent</key>
+      <integer>25</integer>
+      <key>Imacron</key>
+      <integer>25</integer>
+      <key>Iogonek</key>
+      <integer>25</integer>
       <key>J</key>
       <integer>-50</integer>
+      <key>K</key>
+      <integer>25</integer>
+      <key>L</key>
+      <integer>25</integer>
+      <key>Lacute</key>
+      <integer>25</integer>
+      <key>Ldot</key>
+      <integer>25</integer>
+      <key>M</key>
+      <integer>25</integer>
+      <key>N</key>
+      <integer>25</integer>
+      <key>Nacute</key>
+      <integer>25</integer>
+      <key>Ncaron</key>
+      <integer>25</integer>
+      <key>Ntilde</key>
+      <integer>25</integer>
+      <key>O</key>
+      <integer>15</integer>
+      <key>OE</key>
+      <integer>10</integer>
+      <key>Oacute</key>
+      <integer>15</integer>
+      <key>Ocircumflex</key>
+      <integer>15</integer>
+      <key>Odieresis</key>
+      <integer>15</integer>
+      <key>Ograve</key>
+      <integer>15</integer>
+      <key>Ohungarumlaut</key>
+      <integer>15</integer>
+      <key>Omacron</key>
+      <integer>15</integer>
+      <key>Oslash</key>
+      <integer>15</integer>
+      <key>Otilde</key>
+      <integer>15</integer>
+      <key>P</key>
+      <integer>25</integer>
+      <key>Q</key>
+      <integer>15</integer>
+      <key>R</key>
+      <integer>25</integer>
+      <key>Racute</key>
+      <integer>25</integer>
+      <key>Rcaron</key>
+      <integer>25</integer>
+      <key>S</key>
+      <integer>10</integer>
+      <key>Sacute</key>
+      <integer>10</integer>
+      <key>Scaron</key>
+      <integer>10</integer>
+      <key>Scedilla</key>
+      <integer>10</integer>
       <key>T</key>
-      <integer>-63</integer>
+      <integer>25</integer>
       <key>Tcaron</key>
-      <integer>-63</integer>
+      <integer>25</integer>
+      <key>Thorn</key>
+      <integer>20</integer>
+      <key>U</key>
+      <integer>25</integer>
+      <key>Uacute</key>
+      <integer>25</integer>
+      <key>Ucircumflex</key>
+      <integer>25</integer>
+      <key>Udieresis</key>
+      <integer>25</integer>
+      <key>Ugrave</key>
+      <integer>25</integer>
+      <key>Uhungarumlaut</key>
+      <integer>25</integer>
+      <key>Umacron</key>
+      <integer>25</integer>
+      <key>Uogonek</key>
+      <integer>25</integer>
+      <key>Uring</key>
+      <integer>25</integer>
       <key>V</key>
-      <integer>-54</integer>
+      <integer>25</integer>
       <key>W</key>
-      <integer>-50</integer>
+      <integer>25</integer>
       <key>Wacute</key>
-      <integer>-50</integer>
+      <integer>25</integer>
       <key>Wcircumflex</key>
-      <integer>-50</integer>
+      <integer>25</integer>
       <key>Wdieresis</key>
-      <integer>-50</integer>
+      <integer>25</integer>
       <key>Wgrave</key>
-      <integer>-50</integer>
+      <integer>25</integer>
       <key>X</key>
-      <integer>-32</integer>
+      <integer>25</integer>
       <key>Y</key>
-      <integer>-59</integer>
+      <integer>25</integer>
       <key>Yacute</key>
-      <integer>-59</integer>
+      <integer>25</integer>
       <key>Ycircumflex</key>
-      <integer>-59</integer>
+      <integer>25</integer>
       <key>Ydieresis</key>
-      <integer>-59</integer>
+      <integer>25</integer>
       <key>Ygrave</key>
-      <integer>-59</integer>
+      <integer>25</integer>
+      <key>Z</key>
+      <integer>25</integer>
+      <key>Zacute</key>
+      <integer>25</integer>
+      <key>Zcaron</key>
+      <integer>25</integer>
+      <key>Zdotaccent</key>
+      <integer>25</integer>
+      <key>acute</key>
+      <integer>25</integer>
+      <key>asciicircum</key>
+      <integer>25</integer>
+      <key>asterisk</key>
+      <integer>25</integer>
+      <key>b</key>
+      <integer>25</integer>
+      <key>bar</key>
+      <integer>25</integer>
+      <key>bracketleft</key>
+      <integer>25</integer>
+      <key>bracketright</key>
+      <integer>5</integer>
+      <key>breve</key>
+      <integer>65</integer>
+      <key>brokenbar</key>
+      <integer>25</integer>
+      <key>caron</key>
+      <integer>25</integer>
+      <key>circumflex</key>
+      <integer>25</integer>
+      <key>copyright</key>
+      <integer>15</integer>
+      <key>dagger</key>
+      <integer>25</integer>
+      <key>degree</key>
+      <integer>25</integer>
+      <key>dieresis</key>
+      <integer>25</integer>
+      <key>dollar</key>
+      <integer>10</integer>
+      <key>ecaron</key>
+      <integer>25</integer>
+      <key>ecircumflex</key>
+      <integer>5</integer>
+      <key>eight</key>
+      <integer>10</integer>
+      <key>emacron</key>
+      <integer>10</integer>
+      <key>five</key>
+      <integer>5</integer>
+      <key>four</key>
+      <integer>25</integer>
+      <key>germandbls</key>
+      <integer>25</integer>
+      <key>grave</key>
+      <integer>25</integer>
+      <key>h</key>
+      <integer>25</integer>
+      <key>hbar</key>
+      <integer>25</integer>
+      <key>hungarumlaut</key>
+      <integer>115</integer>
+      <key>i</key>
+      <integer>25</integer>
+      <key>iacute</key>
+      <integer>25</integer>
+      <key>icircumflex</key>
+      <integer>25</integer>
+      <key>idieresis</key>
+      <integer>25</integer>
+      <key>igrave</key>
+      <integer>25</integer>
+      <key>imacron</key>
+      <integer>90</integer>
+      <key>iogonek</key>
+      <integer>25</integer>
       <key>j</key>
       <integer>-54</integer>
+      <key>k</key>
+      <integer>25</integer>
+      <key>l</key>
+      <integer>25</integer>
+      <key>lacute</key>
+      <integer>25</integer>
+      <key>ldot</key>
+      <integer>25</integer>
+      <key>macron</key>
+      <integer>25</integer>
+      <key>ncaron</key>
+      <integer>5</integer>
+      <key>nine</key>
+      <integer>25</integer>
+      <key>ocircumflex</key>
+      <integer>25</integer>
+      <key>ohungarumlaut</key>
+      <integer>65</integer>
+      <key>omacron</key>
+      <integer>10</integer>
+      <key>one</key>
+      <integer>25</integer>
+      <key>ordfeminine</key>
+      <integer>25</integer>
+      <key>ordmasculine</key>
+      <integer>15</integer>
+      <key>otilde</key>
+      <integer>5</integer>
+      <key>paragraph</key>
+      <integer>25</integer>
+      <key>parenleft</key>
+      <integer>20</integer>
+      <key>parenright</key>
+      <integer>15</integer>
+      <key>percent</key>
+      <integer>25</integer>
+      <key>perthousand</key>
+      <integer>25</integer>
+      <key>question</key>
+      <integer>25</integer>
       <key>quotedbl</key>
-      <integer>-14</integer>
+      <integer>25</integer>
       <key>quotedblleft</key>
-      <integer>-14</integer>
+      <integer>25</integer>
       <key>quotedblright</key>
-      <integer>-14</integer>
+      <integer>25</integer>
       <key>quoteleft</key>
-      <integer>-14</integer>
+      <integer>25</integer>
       <key>quoteright</key>
-      <integer>-14</integer>
+      <integer>25</integer>
       <key>quotesingle</key>
-      <integer>-14</integer>
+      <integer>25</integer>
+      <key>rcaron</key>
+      <integer>25</integer>
+      <key>registered</key>
+      <integer>15</integer>
+      <key>ring</key>
+      <integer>25</integer>
+      <key>scaron</key>
+      <integer>25</integer>
+      <key>seven</key>
+      <integer>25</integer>
+      <key>six</key>
+      <integer>15</integer>
+      <key>thorn</key>
+      <integer>20</integer>
+      <key>three</key>
+      <integer>5</integer>
+      <key>tilde</key>
+      <integer>25</integer>
+      <key>trademark</key>
+      <integer>25</integer>
+      <key>two</key>
+      <integer>15</integer>
+      <key>uni00B2</key>
+      <integer>20</integer>
+      <key>uni00B3</key>
+      <integer>15</integer>
+      <key>uni00B9</key>
+      <integer>25</integer>
+      <key>uni0122</key>
+      <integer>15</integer>
+      <key>uni0136</key>
+      <integer>25</integer>
+      <key>uni0137</key>
+      <integer>25</integer>
+      <key>uni013B</key>
+      <integer>25</integer>
+      <key>uni013C</key>
+      <integer>25</integer>
+      <key>uni0145</key>
+      <integer>25</integer>
+      <key>uni0218</key>
+      <integer>10</integer>
       <key>uni021A</key>
-      <integer>-63</integer>
+      <integer>25</integer>
       <key>uni0237</key>
       <integer>-54</integer>
+      <key>uni1E9E</key>
+      <integer>15</integer>
       <key>v</key>
       <integer>-14</integer>
       <key>w</key>
@@ -25686,8 +25982,12 @@
       <integer>-9</integer>
       <key>ydieresis</key>
       <integer>-18</integer>
+      <key>yen</key>
+      <integer>25</integer>
       <key>ygrave</key>
       <integer>-9</integer>
+      <key>zero</key>
+      <integer>15</integer>
     </dict>
     <key>dcroat</key>
     <dict>
@@ -29872,8 +30172,16 @@
       <integer>-63</integer>
       <key>Ygrave</key>
       <integer>-63</integer>
+      <key>breve</key>
+      <integer>40</integer>
+      <key>hungarumlaut</key>
+      <integer>90</integer>
+      <key>imacron</key>
+      <integer>65</integer>
       <key>j</key>
       <integer>-50</integer>
+      <key>ohungarumlaut</key>
+      <integer>40</integer>
       <key>quotedbl</key>
       <integer>-14</integer>
       <key>quotedblleft</key>
@@ -36833,6 +37141,8 @@
       <integer>-32</integer>
       <key>bracketright</key>
       <integer>-23</integer>
+      <key>breve</key>
+      <integer>40</integer>
       <key>c</key>
       <integer>-23</integer>
       <key>cacute</key>
@@ -36905,6 +37215,8 @@
       <integer>-32</integer>
       <key>hbar</key>
       <integer>-32</integer>
+      <key>hungarumlaut</key>
+      <integer>90</integer>
       <key>hyphen</key>
       <integer>-54</integer>
       <key>i</key>
@@ -36918,7 +37230,7 @@
       <key>igrave</key>
       <integer>-18</integer>
       <key>imacron</key>
-      <integer>-23</integer>
+      <integer>65</integer>
       <key>iogonek</key>
       <integer>-27</integer>
       <key>j</key>
@@ -36956,7 +37268,7 @@
       <key>ograve</key>
       <integer>-41</integer>
       <key>ohungarumlaut</key>
-      <integer>-23</integer>
+      <integer>40</integer>
       <key>omacron</key>
       <integer>-23</integer>
       <key>oslash</key>

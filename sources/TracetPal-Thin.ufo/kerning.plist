@@ -24559,54 +24559,258 @@
       <integer>-45</integer>
       <key>Atilde</key>
       <integer>-45</integer>
+      <key>B</key>
+      <integer>30</integer>
+      <key>D</key>
+      <integer>30</integer>
+      <key>Dcaron</key>
+      <integer>30</integer>
+      <key>E</key>
+      <integer>30</integer>
+      <key>Eacute</key>
+      <integer>30</integer>
+      <key>Ecaron</key>
+      <integer>30</integer>
+      <key>Ecircumflex</key>
+      <integer>30</integer>
+      <key>Edieresis</key>
+      <integer>30</integer>
+      <key>Edotaccent</key>
+      <integer>30</integer>
+      <key>Egrave</key>
+      <integer>15</integer>
+      <key>Emacron</key>
+      <integer>30</integer>
+      <key>Eogonek</key>
+      <integer>30</integer>
+      <key>F</key>
+      <integer>30</integer>
+      <key>H</key>
+      <integer>30</integer>
+      <key>Hbar</key>
+      <integer>30</integer>
+      <key>I</key>
+      <integer>30</integer>
+      <key>Iacute</key>
+      <integer>30</integer>
+      <key>Idieresis</key>
+      <integer>25</integer>
+      <key>Idotaccent</key>
+      <integer>30</integer>
+      <key>Imacron</key>
+      <integer>30</integer>
+      <key>Iogonek</key>
+      <integer>30</integer>
       <key>J</key>
       <integer>-55</integer>
+      <key>K</key>
+      <integer>30</integer>
+      <key>L</key>
+      <integer>30</integer>
+      <key>Lacute</key>
+      <integer>30</integer>
+      <key>Ldot</key>
+      <integer>30</integer>
+      <key>M</key>
+      <integer>30</integer>
+      <key>N</key>
+      <integer>30</integer>
+      <key>Nacute</key>
+      <integer>30</integer>
+      <key>Ncaron</key>
+      <integer>30</integer>
+      <key>Ntilde</key>
+      <integer>30</integer>
+      <key>P</key>
+      <integer>30</integer>
+      <key>R</key>
+      <integer>30</integer>
+      <key>Racute</key>
+      <integer>30</integer>
+      <key>Rcaron</key>
+      <integer>30</integer>
+      <key>S</key>
+      <integer>10</integer>
+      <key>Sacute</key>
+      <integer>10</integer>
+      <key>Scaron</key>
+      <integer>10</integer>
+      <key>Scedilla</key>
+      <integer>10</integer>
       <key>T</key>
-      <integer>-70</integer>
+      <integer>30</integer>
       <key>Tcaron</key>
-      <integer>-70</integer>
+      <integer>30</integer>
+      <key>Thorn</key>
+      <integer>30</integer>
+      <key>U</key>
+      <integer>30</integer>
+      <key>Uacute</key>
+      <integer>30</integer>
+      <key>Ucircumflex</key>
+      <integer>30</integer>
+      <key>Udieresis</key>
+      <integer>30</integer>
+      <key>Ugrave</key>
+      <integer>30</integer>
+      <key>Uhungarumlaut</key>
+      <integer>30</integer>
+      <key>Umacron</key>
+      <integer>30</integer>
+      <key>Uogonek</key>
+      <integer>30</integer>
+      <key>Uring</key>
+      <integer>30</integer>
       <key>V</key>
-      <integer>-60</integer>
+      <integer>25</integer>
       <key>W</key>
-      <integer>-55</integer>
+      <integer>25</integer>
       <key>Wacute</key>
-      <integer>-55</integer>
+      <integer>25</integer>
       <key>Wcircumflex</key>
-      <integer>-55</integer>
+      <integer>25</integer>
       <key>Wdieresis</key>
-      <integer>-55</integer>
+      <integer>25</integer>
       <key>Wgrave</key>
-      <integer>-55</integer>
+      <integer>25</integer>
       <key>X</key>
-      <integer>-50</integer>
+      <integer>25</integer>
       <key>Y</key>
-      <integer>-65</integer>
+      <integer>25</integer>
       <key>Yacute</key>
-      <integer>-65</integer>
+      <integer>25</integer>
       <key>Ycircumflex</key>
-      <integer>-65</integer>
+      <integer>25</integer>
       <key>Ydieresis</key>
-      <integer>-65</integer>
+      <integer>25</integer>
       <key>Ygrave</key>
-      <integer>-65</integer>
+      <integer>25</integer>
+      <key>Z</key>
+      <integer>30</integer>
+      <key>Zacute</key>
+      <integer>30</integer>
+      <key>Zcaron</key>
+      <integer>30</integer>
+      <key>Zdotaccent</key>
+      <integer>30</integer>
+      <key>asciicircum</key>
+      <integer>30</integer>
+      <key>asterisk</key>
+      <integer>30</integer>
+      <key>b</key>
+      <integer>30</integer>
+      <key>bar</key>
+      <integer>30</integer>
+      <key>bracketleft</key>
+      <integer>30</integer>
+      <key>breve</key>
+      <integer>75</integer>
+      <key>brokenbar</key>
+      <integer>30</integer>
+      <key>caron</key>
+      <integer>25</integer>
+      <key>degree</key>
+      <integer>30</integer>
+      <key>dollar</key>
+      <integer>10</integer>
+      <key>ecaron</key>
+      <integer>25</integer>
+      <key>eight</key>
+      <integer>10</integer>
+      <key>exclam</key>
+      <integer>20</integer>
+      <key>exclamdown</key>
+      <integer>20</integer>
+      <key>four</key>
+      <integer>30</integer>
+      <key>germandbls</key>
+      <integer>30</integer>
+      <key>grave</key>
+      <integer>25</integer>
+      <key>h</key>
+      <integer>30</integer>
+      <key>hbar</key>
+      <integer>30</integer>
+      <key>igrave</key>
+      <integer>30</integer>
       <key>j</key>
       <integer>-60</integer>
+      <key>k</key>
+      <integer>30</integer>
+      <key>l</key>
+      <integer>30</integer>
+      <key>lacute</key>
+      <integer>30</integer>
+      <key>ldot</key>
+      <integer>30</integer>
+      <key>ncaron</key>
+      <integer>5</integer>
+      <key>nine</key>
+      <integer>30</integer>
+      <key>ordfeminine</key>
+      <integer>30</integer>
+      <key>ordmasculine</key>
+      <integer>30</integer>
+      <key>paragraph</key>
+      <integer>25</integer>
+      <key>parenleft</key>
+      <integer>20</integer>
+      <key>percent</key>
+      <integer>30</integer>
+      <key>perthousand</key>
+      <integer>20</integer>
+      <key>question</key>
+      <integer>30</integer>
       <key>quotedbl</key>
-      <integer>-15</integer>
+      <integer>30</integer>
       <key>quotedblleft</key>
-      <integer>-10</integer>
+      <integer>30</integer>
       <key>quotedblright</key>
-      <integer>-15</integer>
+      <integer>30</integer>
       <key>quoteleft</key>
-      <integer>-10</integer>
+      <integer>30</integer>
       <key>quoteright</key>
-      <integer>-15</integer>
+      <integer>30</integer>
       <key>quotesingle</key>
-      <integer>-15</integer>
+      <integer>30</integer>
+      <key>rcaron</key>
+      <integer>30</integer>
+      <key>scaron</key>
+      <integer>25</integer>
+      <key>seven</key>
+      <integer>30</integer>
+      <key>six</key>
+      <integer>5</integer>
+      <key>thorn</key>
+      <integer>30</integer>
+      <key>three</key>
+      <integer>10</integer>
+      <key>two</key>
+      <integer>15</integer>
+      <key>uni00B2</key>
+      <integer>20</integer>
+      <key>uni00B3</key>
+      <integer>15</integer>
+      <key>uni00B9</key>
+      <integer>30</integer>
+      <key>uni0136</key>
+      <integer>30</integer>
+      <key>uni0137</key>
+      <integer>30</integer>
+      <key>uni013B</key>
+      <integer>30</integer>
+      <key>uni013C</key>
+      <integer>30</integer>
+      <key>uni0145</key>
+      <integer>30</integer>
+      <key>uni0218</key>
+      <integer>10</integer>
       <key>uni021A</key>
-      <integer>-70</integer>
+      <integer>30</integer>
       <key>uni0237</key>
       <integer>-60</integer>
+      <key>uni1E9E</key>
+      <integer>10</integer>
       <key>v</key>
       <integer>-20</integer>
       <key>w</key>
@@ -24629,6 +24833,8 @@
       <integer>-10</integer>
       <key>ydieresis</key>
       <integer>-10</integer>
+      <key>yen</key>
+      <integer>25</integer>
       <key>ygrave</key>
       <integer>-10</integer>
     </dict>
@@ -28695,6 +28901,8 @@
       <integer>-70</integer>
       <key>Ygrave</key>
       <integer>-70</integer>
+      <key>breve</key>
+      <integer>45</integer>
       <key>j</key>
       <integer>-55</integer>
       <key>quotedbl</key>
@@ -35364,6 +35572,8 @@
       <integer>-35</integer>
       <key>bracketright</key>
       <integer>-25</integer>
+      <key>breve</key>
+      <integer>45</integer>
       <key>c</key>
       <integer>-50</integer>
       <key>cacute</key>
