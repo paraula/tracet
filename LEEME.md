@@ -24,11 +24,24 @@ No es la fuente interna de Paraula. La interna (Paraula Pal v1.200) se genera a 
 
 ## Compilar
 
+Si se han cambiado los dibujos o los acentos, primero se regeneran esos glifos:
+
 ```
 python scripts/componer_acentos.py
 python scripts/trazos_svg.py
-python scripts/build.py
 ```
+
+Compilación oficial de Google Fonts (con hinting automático):
+
+```
+cd sources
+gftools builder config.yaml
+gftools builder config-dotted.yaml
+```
+
+`python scripts/build.py` hace una compilación rápida, sin gftools, para pruebas.
+
+Git está configurado con la dirección oculta de GitHub (`…@users.noreply.github.com`), no con el correo de Paraula. El repositorio será `github.com/paraula/tracet`.
 
 ## Cambios respecto a la versión interna
 
