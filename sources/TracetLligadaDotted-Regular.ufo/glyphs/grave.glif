@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave" format="2">
+  <advance width="337"/>
+  <unicode hex="0060"/>
+  <outline>
+    <component base="_dot" xOffset="77" yOffset="507"/>
+    <component base="_dot" xOffset="260" yOffset="397"/>
+    <component base="_dot" xOffset="214" yOffset="425"/>
+    <component base="_dot" xOffset="169" yOffset="452"/>
+    <component base="_dot" xOffset="123" yOffset="480"/>
+  </outline>
+</glyph>

@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="w_r.liga" format="2">
   <advance width="1225"/>
+  <anchor x="372" y="347" name="top_1"/>
+  <anchor x="435" y="0" name="bottom_1"/>
+  <anchor x="960" y="380" name="top_2"/>
+  <anchor x="1012" y="0" name="bottom_2"/>
   <outline>
     <contour>
       <point x="1243" y="120" type="curve"/>

@@ -1,6 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ograve_v_iacute.obvwfix" format="2">
   <advance width="1243"/>
+  <anchor x="268" y="347" name="top_1"/>
+  <anchor x="227" y="0" name="bottom_1"/>
+  <anchor x="227" y="174" name="center_1"/>
+  <anchor x="681" y="347" name="top_2"/>
+  <anchor x="744" y="0" name="bottom_2"/>
+  <anchor x="1262" y="365" name="top_3"/>
+  <anchor x="1262" y="0" name="bottom_3"/>
+  <anchor x="1202" y="0" name="ogonek_3"/>
   <outline>
     <contour>
       <point x="1252" y="104" type="line"/>

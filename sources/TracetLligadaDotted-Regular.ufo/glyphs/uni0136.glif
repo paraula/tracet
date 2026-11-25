@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0136" format="2">
+  <advance width="457"/>
+  <unicode hex="0136"/>
+  <outline>
+    <component base="_dot" xOffset="200" yOffset="-151"/>
+    <component base="_dot" xOffset="221" yOffset="-99"/>
+    <component base="_dot" xOffset="222" yOffset="-43"/>
+    <component base="_dot" xOffset="167" yOffset="-197"/>
+    <component base="_dot" xOffset="234" yOffset="521"/>
+    <component base="_dot" xOffset="67" yOffset="525"/>
+    <component base="_dot" xOffset="273" yOffset="563"/>
+    <component base="_dot" xOffset="67" yOffset="583"/>
+    <component base="_dot" xOffset="312" yOffset="605"/>
+    <component base="_dot" xOffset="67" yOffset="641"/>
+    <component base="_dot" xOffset="351" yOffset="647"/>
+    <component base="_dot" xOffset="389" yOffset="689"/>
+    <component base="_dot" xOffset="67" yOffset="699"/>
+    <component base="_dot" xOffset="67" yOffset="125"/>
+    <component base="_dot" xOffset="350" yOffset="59"/>
+    <component base="_dot" xOffset="67" yOffset="66"/>
+    <component base="_dot" xOffset="311" yOffset="102"/>
+    <component base="_dot" xOffset="67" yOffset="8"/>
+    <component base="_dot" xOffset="388" yOffset="17"/>
+    <component base="_dot" xOffset="272" yOffset="144"/>
+    <component base="_dot" xOffset="67" yOffset="183"/>
+    <component base="_dot" xOffset="234" yOffset="186"/>
+    <component base="_dot" xOffset="196" yOffset="229"/>
+    <component base="_dot" xOffset="67" yOffset="241"/>
+    <component base="_dot" xOffset="157" yOffset="272"/>
+    <component base="_dot" xOffset="67" yOffset="299"/>
+    <component base="_dot" xOffset="119" yOffset="314"/>
+    <component base="_dot" xOffset="78" yOffset="354"/>
+    <component base="_dot" xOffset="118" yOffset="394"/>
+    <component base="_dot" xOffset="67" yOffset="408"/>
+    <component base="_dot" xOffset="157" yOffset="436"/>
+    <component base="_dot" xOffset="67" yOffset="466"/>
+    <component base="_dot" xOffset="196" yOffset="478"/>
+  </outline>
+</glyph>

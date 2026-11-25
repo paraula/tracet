@@ -1,6 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="b_o_o.ref7" format="2">
   <advance width="1348"/>
+  <anchor x="142" y="689" name="top_1"/>
+  <anchor x="142" y="0" name="bottom_1"/>
+  <anchor x="702" y="345" name="top_2"/>
+  <anchor x="659" y="0" name="bottom_2"/>
+  <anchor x="659" y="174" name="center_2"/>
+  <anchor x="1142" y="345" name="top_3"/>
+  <anchor x="1099" y="0" name="bottom_3"/>
+  <anchor x="1099" y="174" name="center_3"/>
   <outline>
     <component base="_dot" xOffset="457" yOffset="266"/>
     <component base="_dot" xOffset="975" yOffset="266"/>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="458"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <component base="_dot" xOffset="352" yOffset="503"/>
+    <component base="_dot" xOffset="305" yOffset="537"/>
+    <component base="_dot" xOffset="249" yOffset="551"/>
+    <component base="_dot" xOffset="126" yOffset="224"/>
+    <component base="_dot" xOffset="378" yOffset="340"/>
+    <component base="_dot" xOffset="183" yOffset="230"/>
+    <component base="_dot" xOffset="343" yOffset="293"/>
+    <component base="_dot" xOffset="68" yOffset="369"/>
+    <component base="_dot" xOffset="390" yOffset="396"/>
+    <component base="_dot" xOffset="68" yOffset="428"/>
+    <component base="_dot" xOffset="295" yOffset="262"/>
+    <component base="_dot" xOffset="381" yOffset="453"/>
+    <component base="_dot" xOffset="68" yOffset="486"/>
+    <component base="_dot" xOffset="68" yOffset="192"/>
+    <component base="_dot" xOffset="68" yOffset="545"/>
+    <component base="_dot" xOffset="68" yOffset="604"/>
+    <component base="_dot" xOffset="68" yOffset="663"/>
+    <component base="_dot" xOffset="68" yOffset="75"/>
+    <component base="_dot" xOffset="68" yOffset="16"/>
+    <component base="_dot" xOffset="240" yOffset="242"/>
+    <component base="_dot" xOffset="68" yOffset="134"/>
+    <component base="_dot" xOffset="68" yOffset="251"/>
+    <component base="_dot" xOffset="68" yOffset="310"/>
+    <component base="_dot" xOffset="133" yOffset="552"/>
+    <component base="_dot" xOffset="191" yOffset="552"/>
+  </outline>
+</glyph>

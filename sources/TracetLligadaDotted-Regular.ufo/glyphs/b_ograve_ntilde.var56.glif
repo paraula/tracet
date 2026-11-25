@@ -1,6 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="b_ograve_ntilde.var56" format="2">
   <advance width="1448"/>
+  <anchor x="142" y="689" name="top_1"/>
+  <anchor x="142" y="0" name="bottom_1"/>
+  <anchor x="702" y="345" name="top_2"/>
+  <anchor x="659" y="0" name="bottom_2"/>
+  <anchor x="659" y="174" name="center_2"/>
+  <anchor x="1166" y="346" name="top_3"/>
+  <anchor x="1136" y="0" name="bottom_3"/>
   <outline>
     <component base="_dot" xOffset="649" yOffset="273"/>
     <component base="_dot" xOffset="486" yOffset="273"/>

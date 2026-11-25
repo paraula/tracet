@@ -1,6 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o_b_u.obvwfix" format="2">
   <advance width="1410"/>
+  <anchor x="265" y="357" name="top_1"/>
+  <anchor x="231" y="0" name="bottom_1"/>
+  <anchor x="231" y="174" name="center_1"/>
+  <anchor x="601" y="705" name="top_2"/>
+  <anchor x="601" y="0" name="bottom_2"/>
+  <anchor x="1188" y="376" name="top_3"/>
+  <anchor x="1171" y="0" name="bottom_3"/>
+  <anchor x="1322" y="0" name="ogonek_3"/>
   <outline>
     <contour>
       <point x="1427" y="94" type="curve"/>

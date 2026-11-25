@@ -2,6 +2,9 @@
 <glyph name="ecircumflex" format="2">
   <advance width="342"/>
   <unicode hex="00EA"/>
+  <anchor x="224" y="356" name="top"/>
+  <anchor x="174" y="0" name="bottom"/>
+  <anchor x="284" y="0" name="ogonek"/>
   <outline>
     <contour>
       <point x="321" y="130" type="curve" smooth="yes"/>

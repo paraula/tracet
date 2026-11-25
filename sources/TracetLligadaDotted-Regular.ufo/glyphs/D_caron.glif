@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dcaron" format="2">
+  <advance width="568"/>
+  <unicode hex="010E"/>
+  <outline>
+    <contour>
+      <point x="202.0" y="857.0" type="curve" smooth="yes"/>
+      <point x="197.0" y="857.0"/>
+      <point x="193.0" y="855.0"/>
+      <point x="190.0" y="852.0" type="curve" smooth="yes"/>
+      <point x="183.0" y="845.0"/>
+      <point x="183.0" y="834.0"/>
+      <point x="190.0" y="828.0" type="curve"/>
+      <point x="197.0" y="821.0"/>
+      <point x="208.0" y="821.0"/>
+      <point x="215.0" y="828.0" type="curve"/>
+      <point x="221.0" y="835.0"/>
+      <point x="221.0" y="846.0"/>
+      <point x="214.0" y="853.0" type="curve"/>
+      <point x="210.0" y="856.0"/>
+      <point x="206.0" y="857.0"/>
+    </contour>
+    <contour>
+      <point x="364.0" y="857.0" type="curve" smooth="yes"/>
+      <point x="359.0" y="857.0"/>
+      <point x="355.0" y="856.0"/>
+      <point x="352.0" y="853.0" type="curve" smooth="yes"/>
+      <point x="345.0" y="846.0"/>
+      <point x="345.0" y="835.0"/>
+      <point x="351.0" y="828.0" type="curve"/>
+      <point x="358.0" y="821.0"/>
+      <point x="368.0" y="821.0"/>
+      <point x="375.0" y="828.0" type="curve"/>
+      <point x="382.0" y="834.0"/>
+      <point x="383.0" y="845.0"/>
+      <point x="376.0" y="852.0" type="curve" smooth="yes"/>
+      <point x="373.0" y="855.0"/>
+      <point x="368.0" y="857.0"/>
+    </contour>
+    <contour>
+      <point x="283.0" y="782.0" type="curve" smooth="yes"/>
+      <point x="279.0" y="782.0"/>
+      <point x="274.0" y="780.0"/>
+      <point x="271.0" y="777.0" type="curve"/>
+      <point x="264.0" y="771.0"/>
+      <point x="264.0" y="760.0"/>
+      <point x="270.0" y="753.0" type="curve"/>
+      <point x="277.0" y="746.0"/>
+      <point x="287.0" y="746.0"/>
+      <point x="294.0" y="752.0" type="curve"/>
+      <point x="301.0" y="759.0"/>
+      <point x="302.0" y="769.0"/>
+      <point x="295.0" y="776.0" type="curve"/>
+      <point x="292.0" y="780.0"/>
+      <point x="287.0" y="782.0"/>
+    </contour>
+    <contour>
+      <point x="323.0" y="819.0" type="curve" smooth="yes"/>
+      <point x="319.0" y="819.0"/>
+      <point x="315.0" y="818.0"/>
+      <point x="312.0" y="815.0" type="curve" smooth="yes"/>
+      <point x="305.0" y="808.0"/>
+      <point x="304.0" y="798.0"/>
+      <point x="311.0" y="791.0" type="curve"/>
+      <point x="317.0" y="784.0"/>
+      <point x="328.0" y="783.0"/>
+      <point x="335.0" y="790.0" type="curve"/>
+      <point x="342.0" y="796.0"/>
+      <point x="342.0" y="807.0"/>
+      <point x="336.0" y="814.0" type="curve"/>
+      <point x="332.0" y="818.0"/>
+      <point x="328.0" y="819.0"/>
+    </contour>
+    <contour>
+      <point x="242.0" y="819.0" type="curve" smooth="yes"/>
+      <point x="238.0" y="819.0"/>
+      <point x="233.0" y="818.0"/>
+      <point x="230.0" y="814.0" type="curve"/>
+      <point x="224.0" y="807.0"/>
+      <point x="224.0" y="796.0"/>
+      <point x="231.0" y="790.0" type="curve"/>
+      <point x="238.0" y="783.0"/>
+      <point x="249.0" y="784.0"/>
+      <point x="255.0" y="791.0" type="curve" smooth="yes"/>
+      <point x="261.0" y="798.0"/>
+      <point x="261.0" y="808.0"/>
+      <point x="254.0" y="815.0" type="curve" smooth="yes"/>
+      <point x="251.0" y="818.0"/>
+      <point x="247.0" y="819.0"/>
+    </contour>
+    <component base="_dot" xOffset="67" yOffset="525"/>
+    <component base="_dot" xOffset="461" yOffset="540"/>
+    <component base="_dot" xOffset="67" yOffset="581"/>
+    <component base="_dot" xOffset="432" yOffset="587"/>
+    <component base="_dot" xOffset="393" yOffset="626"/>
+    <component base="_dot" xOffset="67" yOffset="636"/>
+    <component base="_dot" xOffset="347" yOffset="656"/>
+    <component base="_dot" xOffset="296" yOffset="676"/>
+    <component base="_dot" xOffset="241" yOffset="686"/>
+    <component base="_dot" xOffset="76" yOffset="687"/>
+    <component base="_dot" xOffset="131" yOffset="687"/>
+    <component base="_dot" xOffset="186" yOffset="687"/>
+    <component base="_dot" xOffset="427" yOffset="118"/>
+    <component base="_dot" xOffset="343" yOffset="48"/>
+    <component base="_dot" xOffset="389" yOffset="78"/>
+    <component base="_dot" xOffset="67" yOffset="83"/>
+    <component base="_dot" xOffset="125" yOffset="26"/>
+    <component base="_dot" xOffset="180" yOffset="26"/>
+    <component base="_dot" xOffset="235" yOffset="26"/>
+    <component base="_dot" xOffset="70" yOffset="29"/>
+    <component base="_dot" xOffset="290" yOffset="31"/>
+    <component base="_dot" xOffset="67" yOffset="138"/>
+    <component base="_dot" xOffset="455" yOffset="165"/>
+    <component base="_dot" xOffset="67" yOffset="194"/>
+    <component base="_dot" xOffset="476" yOffset="217"/>
+    <component base="_dot" xOffset="67" yOffset="249"/>
+    <component base="_dot" xOffset="490" yOffset="270"/>
+    <component base="_dot" xOffset="67" yOffset="304"/>
+    <component base="_dot" xOffset="498" yOffset="325"/>
+    <component base="_dot" xOffset="67" yOffset="359"/>
+    <component base="_dot" xOffset="498" yOffset="380"/>
+    <component base="_dot" xOffset="67" yOffset="415"/>
+    <component base="_dot" xOffset="493" yOffset="435"/>
+    <component base="_dot" xOffset="67" yOffset="470"/>
+    <component base="_dot" xOffset="481" yOffset="488"/>
+  </outline>
+</glyph>

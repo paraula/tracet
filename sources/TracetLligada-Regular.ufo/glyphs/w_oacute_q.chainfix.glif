@@ -1,6 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="w_oacute_q.chainfix" format="2">
   <advance width="1717"/>
+  <anchor x="372" y="347" name="top_1"/>
+  <anchor x="435" y="0" name="bottom_1"/>
+  <anchor x="1060" y="347" name="top_2"/>
+  <anchor x="1019" y="0" name="bottom_2"/>
+  <anchor x="1019" y="174" name="center_2"/>
+  <anchor x="1447" y="345" name="top_3"/>
+  <anchor x="1475" y="0" name="bottom_3"/>
   <outline>
     <contour>
       <point x="1473" y="9" type="curve" smooth="yes"/>

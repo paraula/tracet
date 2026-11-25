@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni030B" format="2">
+  <unicode hex="030B"/>
+  <anchor x="0" y="339" name="_top"/>
+  <outline>
+    <component base="_dot" xOffset="137" yOffset="489"/>
+    <component base="_dot" xOffset="-137" yOffset="401"/>
+    <component base="_dot" xOffset="81" yOffset="445"/>
+    <component base="_dot" xOffset="24" yOffset="401"/>
+    <component base="_dot" xOffset="-24" yOffset="489"/>
+    <component base="_dot" xOffset="-80" yOffset="445"/>
+    <component base="_dot" xOffset="52" yOffset="423"/>
+    <component base="_dot" xOffset="-52" yOffset="467"/>
+    <component base="_dot" xOffset="109" yOffset="467"/>
+    <component base="_dot" xOffset="-109" yOffset="423"/>
+  </outline>
+</glyph>

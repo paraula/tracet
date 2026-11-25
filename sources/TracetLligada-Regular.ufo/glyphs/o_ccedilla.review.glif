@@ -1,6 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o_ccedilla.review" format="2">
   <advance width="763"/>
+  <anchor x="265" y="347" name="top_1"/>
+  <anchor x="224" y="0" name="bottom_1"/>
+  <anchor x="224" y="174" name="center_1"/>
+  <anchor x="603" y="347" name="top_2"/>
+  <anchor x="591" y="0" name="bottom_2"/>
   <outline>
     <contour>
       <point x="630" y="2" type="line"/>

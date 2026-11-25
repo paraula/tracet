@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbar" format="2">
+  <advance width="687"/>
+  <unicode hex="0126"/>
+  <outline>
+    <component base="_dot" xOffset="619" yOffset="526"/>
+    <component base="_dot" xOffset="251" yOffset="526"/>
+    <component base="_dot" xOffset="312" yOffset="526"/>
+    <component base="_dot" xOffset="374" yOffset="526"/>
+    <component base="_dot" xOffset="435" yOffset="526"/>
+    <component base="_dot" xOffset="67" yOffset="526"/>
+    <component base="_dot" xOffset="344" yOffset="350"/>
+    <component base="_dot" xOffset="163" yOffset="628"/>
+    <component base="_dot" xOffset="163" yOffset="16"/>
+    <component base="_dot" xOffset="163" yOffset="183"/>
+    <component base="_dot" xOffset="163" yOffset="350"/>
+    <component base="_dot" xOffset="284" yOffset="350"/>
+    <component base="_dot" xOffset="405" yOffset="350"/>
+    <component base="_dot" xOffset="466" yOffset="350"/>
+    <component base="_dot" xOffset="163" yOffset="461"/>
+    <component base="_dot" xOffset="523" yOffset="628"/>
+    <component base="_dot" xOffset="523" yOffset="16"/>
+    <component base="_dot" xOffset="523" yOffset="183"/>
+    <component base="_dot" xOffset="523" yOffset="350"/>
+    <component base="_dot" xOffset="523" yOffset="461"/>
+    <component base="_dot" xOffset="163" yOffset="128"/>
+    <component base="_dot" xOffset="163" yOffset="406"/>
+    <component base="_dot" xOffset="163" yOffset="238"/>
+    <component base="_dot" xOffset="163" yOffset="516"/>
+    <component base="_dot" xOffset="163" yOffset="684"/>
+    <component base="_dot" xOffset="523" yOffset="516"/>
+    <component base="_dot" xOffset="523" yOffset="238"/>
+    <component base="_dot" xOffset="163" yOffset="572"/>
+    <component base="_dot" xOffset="523" yOffset="128"/>
+    <component base="_dot" xOffset="523" yOffset="406"/>
+    <component base="_dot" xOffset="523" yOffset="684"/>
+    <component base="_dot" xOffset="523" yOffset="572"/>
+    <component base="_dot" xOffset="163" yOffset="72"/>
+    <component base="_dot" xOffset="223" yOffset="350"/>
+    <component base="_dot" xOffset="163" yOffset="294"/>
+    <component base="_dot" xOffset="523" yOffset="72"/>
+    <component base="_dot" xOffset="523" yOffset="294"/>
+  </outline>
+</glyph>

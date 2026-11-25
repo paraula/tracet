@@ -1,6 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="v_oacute_l.chainfix" format="2">
   <advance width="1260"/>
+  <anchor x="246" y="343" name="top_1"/>
+  <anchor x="306" y="0" name="bottom_1"/>
+  <anchor x="794" y="345" name="top_2"/>
+  <anchor x="751" y="0" name="bottom_2"/>
+  <anchor x="751" y="174" name="center_2"/>
+  <anchor x="1141" y="690" name="top_3"/>
+  <anchor x="1141" y="0" name="bottom_3"/>
+  <anchor x="1128" y="433" name="slash_3"/>
+  <anchor x="1236" y="690" name="caronvert_3"/>
   <outline>
     <component base="_dot" xOffset="587" yOffset="274"/>
     <component base="_dot" xOffset="359" yOffset="280"/>

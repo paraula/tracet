@@ -2,6 +2,9 @@
 <glyph name="uacute" format="2">
   <advance width="485"/>
   <unicode hex="00FA"/>
+  <anchor x="262" y="376" name="top"/>
+  <anchor x="244" y="0" name="bottom"/>
+  <anchor x="395" y="0" name="ogonek"/>
   <outline>
     <contour>
       <point x="464" y="133" type="curve" smooth="yes"/>

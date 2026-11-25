@@ -1,6 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o_ccedilla.review.hiEntry.odieresis" format="2">
   <advance width="769"/>
+  <anchor x="272" y="357" name="top_1"/>
+  <anchor x="232" y="0" name="bottom_1"/>
+  <anchor x="232" y="174" name="center_1"/>
+  <anchor x="606" y="356" name="top_2"/>
+  <anchor x="595" y="0" name="bottom_2"/>
   <outline>
     <contour>
       <point x="714" y="262" type="curve"/>

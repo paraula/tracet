@@ -1,6 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ocircumflex_w_acircumflex.obvwfix" format="2">
   <advance width="1713"/>
+  <anchor x="266" y="345" name="top_1"/>
+  <anchor x="223" y="0" name="bottom_1"/>
+  <anchor x="223" y="174" name="center_1"/>
+  <anchor x="800" y="343" name="top_2"/>
+  <anchor x="861" y="0" name="bottom_2"/>
+  <anchor x="1492" y="339" name="top_3"/>
+  <anchor x="1463" y="0" name="bottom_3"/>
+  <anchor x="1606" y="0" name="ogonek_3"/>
   <outline>
     <component base="_dot" xOffset="396" yOffset="268"/>
     <component base="_dot" xOffset="285" yOffset="270"/>

@@ -2,6 +2,9 @@
 <glyph name="adieresis" format="2">
   <advance width="477"/>
   <unicode hex="00E4"/>
+  <anchor x="272" y="339" name="top"/>
+  <anchor x="243" y="0" name="bottom"/>
+  <anchor x="386" y="0" name="ogonek"/>
   <outline>
     <contour>
       <point x="194" y="467" type="curve" smooth="yes"/>

@@ -1,6 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ocircumflex_v_l.obvwfix.hiEntry" format="2">
   <advance width="1208"/>
+  <anchor x="276" y="357" name="top_1"/>
+  <anchor x="236" y="0" name="bottom_1"/>
+  <anchor x="236" y="174" name="center_1"/>
+  <anchor x="685" y="356" name="top_2"/>
+  <anchor x="748" y="0" name="bottom_2"/>
+  <anchor x="1100" y="707" name="top_3"/>
+  <anchor x="1100" y="0" name="bottom_3"/>
+  <anchor x="1096" y="437" name="slash_3"/>
+  <anchor x="1213" y="707" name="caronvert_3"/>
   <outline>
     <contour>
       <point x="426" y="202" type="curve" smooth="yes"/>

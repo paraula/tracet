@@ -1,6 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o_v_edieresis.obvwfix.hiEntry" format="2">
   <advance width="1374"/>
+  <anchor x="282" y="345" name="top_1"/>
+  <anchor x="239" y="0" name="bottom_1"/>
+  <anchor x="239" y="174" name="center_1"/>
+  <anchor x="694" y="343" name="top_2"/>
+  <anchor x="754" y="0" name="bottom_2"/>
+  <anchor x="1247" y="345" name="top_3"/>
+  <anchor x="1195" y="0" name="bottom_3"/>
+  <anchor x="1300" y="0" name="ogonek_3"/>
   <outline>
     <component base="_dot" xOffset="270" yOffset="266"/>
     <component base="_dot" xOffset="451" yOffset="273"/>

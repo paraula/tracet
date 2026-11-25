@@ -1,6 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o_n.high3.hiEntry.ograve" format="2">
   <advance width="986"/>
+  <anchor x="273" y="347" name="top_1"/>
+  <anchor x="232" y="0" name="bottom_1"/>
+  <anchor x="232" y="174" name="center_1"/>
+  <anchor x="717" y="349" name="top_2"/>
+  <anchor x="690" y="0" name="bottom_2"/>
   <outline>
     <contour>
       <point x="590" y="17" type="curve"/>

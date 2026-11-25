@@ -1,6 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="v_icircumflex.liga" format="2">
   <advance width="812"/>
+  <anchor x="241" y="347" name="top_1"/>
+  <anchor x="304" y="0" name="bottom_1"/>
+  <anchor x="830" y="365" name="top_2"/>
+  <anchor x="830" y="0" name="bottom_2"/>
+  <anchor x="770" y="0" name="ogonek_2"/>
   <outline>
     <contour>
       <point x="-15" y="140" type="curve" smooth="yes"/>

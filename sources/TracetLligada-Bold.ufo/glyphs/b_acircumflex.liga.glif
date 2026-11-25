@@ -1,6 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="b_acircumflex.liga" format="2">
   <advance width="928"/>
+  <anchor x="141" y="705" name="top_1"/>
+  <anchor x="141" y="0" name="bottom_1"/>
+  <anchor x="709" y="349" name="top_2"/>
+  <anchor x="676" y="0" name="bottom_2"/>
+  <anchor x="825" y="0" name="ogonek_2"/>
   <outline>
     <contour>
       <point x="-22" y="128" type="curve"/>

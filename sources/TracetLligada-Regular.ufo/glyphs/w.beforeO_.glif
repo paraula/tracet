@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="w.beforeO" format="2">
   <advance width="783"/>
+  <anchor x="372" y="347" name="top"/>
+  <anchor x="435" y="0" name="bottom"/>
   <outline>
     <contour>
       <point x="747" y="234" type="curve"/>

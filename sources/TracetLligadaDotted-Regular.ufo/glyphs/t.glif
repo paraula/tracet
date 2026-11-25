@@ -2,6 +2,9 @@
 <glyph name="t" format="2">
   <advance width="254"/>
   <unicode hex="0074"/>
+  <anchor x="103" y="709" name="top"/>
+  <anchor x="103" y="0" name="bottom"/>
+  <anchor x="150" y="709" name="caronvert"/>
   <outline>
     <component base="_dot" xOffset="103" yOffset="342"/>
     <component base="_dot" xOffset="103" yOffset="405"/>

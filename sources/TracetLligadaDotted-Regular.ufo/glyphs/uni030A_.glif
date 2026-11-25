@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni030A" format="2">
+  <unicode hex="030A"/>
+  <anchor x="0" y="339" name="_top"/>
+  <outline>
+    <component base="_dot" xOffset="14" yOffset="490"/>
+    <component base="_dot" xOffset="-36" yOffset="474"/>
+    <component base="_dot" xOffset="14" yOffset="406"/>
+    <component base="_dot" xOffset="44" yOffset="448"/>
+    <component base="_dot" xOffset="-36" yOffset="422"/>
+  </outline>
+</glyph>

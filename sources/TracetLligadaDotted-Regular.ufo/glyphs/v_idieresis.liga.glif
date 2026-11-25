@@ -1,6 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="v_idieresis.liga" format="2">
   <advance width="812"/>
+  <anchor x="242" y="343" name="top_1"/>
+  <anchor x="302" y="0" name="bottom_1"/>
+  <anchor x="790" y="337" name="top_2"/>
+  <anchor x="790" y="0" name="bottom_2"/>
+  <anchor x="768" y="0" name="ogonek_2"/>
   <outline>
     <contour>
       <point x="604" y="514" type="curve" smooth="yes"/>

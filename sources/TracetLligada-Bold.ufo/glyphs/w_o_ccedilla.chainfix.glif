@@ -1,6 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="w_o_ccedilla.chainfix" format="2">
   <advance width="1586"/>
+  <anchor x="374" y="357" name="top_1"/>
+  <anchor x="438" y="0" name="bottom_1"/>
+  <anchor x="1071" y="357" name="top_2"/>
+  <anchor x="1019" y="0" name="bottom_2"/>
+  <anchor x="1019" y="174" name="center_2"/>
+  <anchor x="1416" y="356" name="top_3"/>
+  <anchor x="1406" y="0" name="bottom_3"/>
   <outline>
     <contour>
       <point x="1453" y="-7" type="line"/>

@@ -2,6 +2,9 @@
 <glyph name="igrave" format="2">
   <advance width="254"/>
   <unicode hex="00EC"/>
+  <anchor x="274" y="375" name="top"/>
+  <anchor x="274" y="0" name="bottom"/>
+  <anchor x="216" y="0" name="ogonek"/>
   <outline>
     <contour>
       <point x="233" y="133" type="curve"/>

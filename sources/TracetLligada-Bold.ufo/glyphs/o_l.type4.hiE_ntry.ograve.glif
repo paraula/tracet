@@ -1,6 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o_l.type4.hiEntry.ograve" format="2">
   <advance width="712"/>
+  <anchor x="272" y="357" name="top_1"/>
+  <anchor x="232" y="0" name="bottom_1"/>
+  <anchor x="232" y="174" name="center_1"/>
+  <anchor x="596" y="707" name="top_2"/>
+  <anchor x="596" y="0" name="bottom_2"/>
+  <anchor x="592" y="437" name="slash_2"/>
+  <anchor x="709" y="707" name="caronvert_2"/>
   <outline>
     <contour>
       <point x="402" y="138" type="curve"/>

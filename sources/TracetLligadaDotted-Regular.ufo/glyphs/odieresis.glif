@@ -2,6 +2,9 @@
 <glyph name="odieresis" format="2">
   <advance width="444"/>
   <unicode hex="00F6"/>
+  <anchor x="266" y="345" name="top"/>
+  <anchor x="223" y="0" name="bottom"/>
+  <anchor x="223" y="174" name="center"/>
   <outline>
     <contour>
       <point x="186" y="467" type="curve" smooth="yes"/>

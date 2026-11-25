@@ -1,6 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ograve_b_odieresis.obvwfix.hiEntry" format="2">
   <advance width="1344"/>
+  <anchor x="276" y="357" name="top_1"/>
+  <anchor x="236" y="0" name="bottom_1"/>
+  <anchor x="236" y="174" name="center_1"/>
+  <anchor x="601" y="705" name="top_2"/>
+  <anchor x="601" y="0" name="bottom_2"/>
+  <anchor x="1160" y="357" name="top_3"/>
+  <anchor x="1120" y="0" name="bottom_3"/>
+  <anchor x="1120" y="174" name="center_3"/>
   <outline>
     <contour>
       <point x="1370" y="115" type="curve"/>

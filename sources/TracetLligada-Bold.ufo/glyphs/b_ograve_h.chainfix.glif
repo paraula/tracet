@@ -1,6 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="b_ograve_h.chainfix" format="2">
   <advance width="1422"/>
+  <anchor x="141" y="705" name="top_1"/>
+  <anchor x="141" y="0" name="bottom_1"/>
+  <anchor x="699" y="357" name="top_2"/>
+  <anchor x="659" y="0" name="bottom_2"/>
+  <anchor x="659" y="174" name="center_2"/>
+  <anchor x="1041" y="707" name="top_3"/>
+  <anchor x="1041" y="0" name="bottom_3"/>
+  <anchor x="1047" y="545" name="bar_3"/>
   <outline>
     <contour>
       <point x="694" y="-1" type="curve" smooth="yes"/>

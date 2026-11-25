@@ -1,6 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="v_odieresis_d.chainfix" format="2">
   <advance width="1457"/>
+  <anchor x="245" y="347" name="top_1"/>
+  <anchor x="308" y="0" name="bottom_1"/>
+  <anchor x="792" y="347" name="top_2"/>
+  <anchor x="751" y="0" name="bottom_2"/>
+  <anchor x="751" y="174" name="center_2"/>
+  <anchor x="1332" y="712" name="top_3"/>
+  <anchor x="1332" y="0" name="bottom_3"/>
+  <anchor x="1332" y="548" name="bar_3"/>
+  <anchor x="1380" y="712" name="caronvert_3"/>
   <outline>
     <contour>
       <point x="1352" y="271" type="curve"/>

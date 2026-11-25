@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o_acircumflex.high1" format="2">
   <advance width="899"/>
+  <anchor x="265" y="347" name="top_1"/>
+  <anchor x="224" y="0" name="bottom_1"/>
+  <anchor x="224" y="174" name="center_1"/>
+  <anchor x="689" y="339" name="top_2"/>
+  <anchor x="656" y="0" name="bottom_2"/>
+  <anchor x="800" y="0" name="ogonek_2"/>
   <outline>
     <contour>
       <point x="259" y="9" type="curve" smooth="yes"/>

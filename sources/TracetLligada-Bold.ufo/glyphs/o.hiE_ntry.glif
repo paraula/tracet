@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o.hiEntry" format="2">
   <advance width="474"/>
+  <anchor x="264" y="357" name="top"/>
+  <anchor x="232" y="0" name="bottom"/>
+  <anchor x="232" y="174" name="center"/>
   <outline>
     <contour>
       <point x="411" y="178" type="curve" smooth="yes"/>

@@ -2,6 +2,8 @@
 <glyph name="R" format="2">
   <advance width="475"/>
   <unicode hex="0052"/>
+  <anchor x="238" y="703" name="top"/>
+  <anchor x="238" y="0" name="bottom"/>
   <outline>
     <component base="_dot" xOffset="273" yOffset="267"/>
     <component base="_dot" xOffset="283" yOffset="378"/>

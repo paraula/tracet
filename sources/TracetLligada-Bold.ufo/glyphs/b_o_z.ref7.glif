@@ -1,6 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="b_o_z.ref7" format="2">
   <advance width="1287"/>
+  <anchor x="141" y="705" name="top_1"/>
+  <anchor x="141" y="0" name="bottom_1"/>
+  <anchor x="708" y="357" name="top_2"/>
+  <anchor x="655" y="0" name="bottom_2"/>
+  <anchor x="655" y="174" name="center_2"/>
+  <anchor x="1086" y="390" name="top_3"/>
+  <anchor x="1092" y="0" name="bottom_3"/>
   <outline>
     <contour>
       <point x="694" y="-1" type="curve" smooth="yes"/>

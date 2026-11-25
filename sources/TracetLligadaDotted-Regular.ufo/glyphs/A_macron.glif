@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Amacron" format="2">
+  <advance width="624"/>
+  <unicode hex="0100"/>
+  <outline>
+    <component base="_dot" xOffset="369" yOffset="829"/>
+    <component base="_dot" xOffset="255" yOffset="829"/>
+    <component base="_dot" xOffset="312" yOffset="829"/>
+    <component base="_dot" xOffset="243" yOffset="509"/>
+    <component base="_dot" xOffset="381" yOffset="509"/>
+    <component base="_dot" xOffset="263" yOffset="566"/>
+    <component base="_dot" xOffset="361" yOffset="566"/>
+    <component base="_dot" xOffset="283" yOffset="622"/>
+    <component base="_dot" xOffset="341" yOffset="622"/>
+    <component base="_dot" xOffset="312" yOffset="702"/>
+    <component base="_dot" xOffset="518" yOffset="121"/>
+    <component base="_dot" xOffset="106" yOffset="123"/>
+    <component base="_dot" xOffset="537" yOffset="66"/>
+    <component base="_dot" xOffset="87" yOffset="69"/>
+    <component base="_dot" xOffset="557" yOffset="11"/>
+    <component base="_dot" xOffset="67" yOffset="14"/>
+    <component base="_dot" xOffset="498" yOffset="176"/>
+    <component base="_dot" xOffset="125" yOffset="177"/>
+    <component base="_dot" xOffset="479" yOffset="231"/>
+    <component base="_dot" xOffset="145" yOffset="232"/>
+    <component base="_dot" xOffset="169" yOffset="282"/>
+    <component base="_dot" xOffset="226" yOffset="282"/>
+    <component base="_dot" xOffset="283" yOffset="282"/>
+    <component base="_dot" xOffset="340" yOffset="282"/>
+    <component base="_dot" xOffset="397" yOffset="282"/>
+    <component base="_dot" xOffset="454" yOffset="282"/>
+    <component base="_dot" xOffset="183" yOffset="340"/>
+    <component base="_dot" xOffset="440" yOffset="340"/>
+    <component base="_dot" xOffset="203" yOffset="396"/>
+    <component base="_dot" xOffset="420" yOffset="396"/>
+    <component base="_dot" xOffset="223" yOffset="453"/>
+    <component base="_dot" xOffset="401" yOffset="453"/>
+  </outline>
+</glyph>

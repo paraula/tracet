@@ -1,6 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="b_o_n.var56" format="2">
   <advance width="1448"/>
+  <anchor x="142" y="695" name="top_1"/>
+  <anchor x="142" y="0" name="bottom_1"/>
+  <anchor x="704" y="347" name="top_2"/>
+  <anchor x="651" y="0" name="bottom_2"/>
+  <anchor x="651" y="174" name="center_2"/>
+  <anchor x="1168" y="349" name="top_3"/>
+  <anchor x="1142" y="0" name="bottom_3"/>
   <outline>
     <contour>
       <point x="-14" y="126" type="line"/>

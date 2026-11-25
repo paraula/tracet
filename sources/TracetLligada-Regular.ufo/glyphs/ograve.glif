@@ -2,6 +2,9 @@
 <glyph name="ograve" format="2">
   <advance width="442"/>
   <unicode hex="00F2"/>
+  <anchor x="264" y="347" name="top"/>
+  <anchor x="223" y="0" name="bottom"/>
+  <anchor x="223" y="174" name="center"/>
   <outline>
     <contour>
       <point x="431" y="128" type="curve" smooth="yes"/>

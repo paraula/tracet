@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slashlong.mark" format="2">
+  <anchor x="0" y="0" name="_center"/>
+  <outline>
+    <component base="_dot"/>
+    <component base="_dot" xOffset="-211" yOffset="-215"/>
+    <component base="_dot" xOffset="-169" yOffset="-172"/>
+    <component base="_dot" xOffset="-127" yOffset="-129"/>
+    <component base="_dot" xOffset="-84" yOffset="-86"/>
+    <component base="_dot" xOffset="-42" yOffset="-43"/>
+    <component base="_dot" xOffset="42" yOffset="43"/>
+    <component base="_dot" xOffset="84" yOffset="86"/>
+    <component base="_dot" xOffset="127" yOffset="129"/>
+    <component base="_dot" xOffset="169" yOffset="172"/>
+    <component base="_dot" xOffset="211" yOffset="215"/>
+  </outline>
+</glyph>

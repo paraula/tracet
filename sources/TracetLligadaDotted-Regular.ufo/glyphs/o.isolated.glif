@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o.isolated" format="2">
   <advance width="468"/>
+  <anchor x="266" y="345" name="top"/>
+  <anchor x="223" y="0" name="bottom"/>
+  <anchor x="223" y="174" name="center"/>
   <outline>
     <component base="_dot" xOffset="422" yOffset="235"/>
     <component base="_dot" xOffset="456" yOffset="276"/>

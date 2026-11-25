@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="w_l.liga" format="2">
   <advance width="1043"/>
+  <anchor x="376" y="343" name="top_1"/>
+  <anchor x="437" y="0" name="bottom_1"/>
+  <anchor x="941" y="690" name="top_2"/>
+  <anchor x="941" y="0" name="bottom_2"/>
+  <anchor x="928" y="433" name="slash_2"/>
+  <anchor x="1036" y="690" name="caronvert_2"/>
   <outline>
     <component base="_dot" xOffset="835" yOffset="272"/>
     <component base="_dot" xOffset="626" yOffset="280"/>

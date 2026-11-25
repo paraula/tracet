@@ -1,6 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o_w.high3.hiEntry.ocircumflex" format="2">
   <advance width="1260"/>
+  <anchor x="272" y="357" name="top_1"/>
+  <anchor x="232" y="0" name="bottom_1"/>
+  <anchor x="232" y="174" name="center_1"/>
+  <anchor x="779" y="357" name="top_2"/>
+  <anchor x="843" y="0" name="bottom_2"/>
   <outline>
     <contour>
       <point x="1287" y="108" type="curve"/>

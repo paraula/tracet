@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlaut" format="2">
+  <advance width="427"/>
+  <unicode hex="02DD"/>
+  <outline>
+    <component base="_dot" xOffset="350" yOffset="489"/>
+    <component base="_dot" xOffset="77" yOffset="401"/>
+    <component base="_dot" xOffset="294" yOffset="445"/>
+    <component base="_dot" xOffset="238" yOffset="401"/>
+    <component base="_dot" xOffset="189" yOffset="489"/>
+    <component base="_dot" xOffset="133" yOffset="445"/>
+    <component base="_dot" xOffset="266" yOffset="423"/>
+    <component base="_dot" xOffset="161" yOffset="467"/>
+    <component base="_dot" xOffset="322" yOffset="467"/>
+    <component base="_dot" xOffset="105" yOffset="423"/>
+  </outline>
+</glyph>

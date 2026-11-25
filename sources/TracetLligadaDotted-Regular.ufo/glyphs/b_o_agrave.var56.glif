@@ -1,6 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="b_o_agrave.var56" format="2">
   <advance width="1364"/>
+  <anchor x="142" y="689" name="top_1"/>
+  <anchor x="142" y="0" name="bottom_1"/>
+  <anchor x="702" y="345" name="top_2"/>
+  <anchor x="659" y="0" name="bottom_2"/>
+  <anchor x="659" y="174" name="center_2"/>
+  <anchor x="1144" y="339" name="top_3"/>
+  <anchor x="1115" y="0" name="bottom_3"/>
+  <anchor x="1258" y="0" name="ogonek_3"/>
   <outline>
     <component base="_dot" xOffset="973" yOffset="268"/>
     <component base="_dot" xOffset="651" yOffset="273"/>

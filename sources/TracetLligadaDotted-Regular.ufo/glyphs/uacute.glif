@@ -2,6 +2,9 @@
 <glyph name="uacute" format="2">
   <advance width="485"/>
   <unicode hex="00FA"/>
+  <anchor x="266" y="364" name="top"/>
+  <anchor x="243" y="0" name="bottom"/>
+  <anchor x="389" y="0" name="ogonek"/>
   <outline>
     <component base="_dot" xOffset="336" yOffset="296"/>
     <component base="_dot" xOffset="336" yOffset="347"/>

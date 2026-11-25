@@ -2,6 +2,9 @@
 <glyph name="t" format="2">
   <advance width="254"/>
   <unicode hex="0074"/>
+  <anchor x="103" y="723" name="top"/>
+  <anchor x="103" y="0" name="bottom"/>
+  <anchor x="160" y="723" name="caronvert"/>
   <outline>
     <contour>
       <point x="234" y="133" type="curve"/>

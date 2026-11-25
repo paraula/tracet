@@ -1,6 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ocircumflex_b_l.var56.hiEntry" format="2">
   <advance width="1268"/>
+  <anchor x="277" y="347" name="top_1"/>
+  <anchor x="236" y="0" name="bottom_1"/>
+  <anchor x="236" y="174" name="center_1"/>
+  <anchor x="606" y="695" name="top_2"/>
+  <anchor x="606" y="0" name="bottom_2"/>
+  <anchor x="1145" y="697" name="top_3"/>
+  <anchor x="1145" y="0" name="bottom_3"/>
+  <anchor x="1139" y="434" name="slash_3"/>
+  <anchor x="1249" y="697" name="caronvert_3"/>
   <outline>
     <contour>
       <point x="410" y="155" type="curve"/>

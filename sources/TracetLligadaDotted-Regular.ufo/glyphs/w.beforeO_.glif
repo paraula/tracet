@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="w.beforeO" format="2">
   <advance width="783"/>
+  <anchor x="372" y="343" name="top"/>
+  <anchor x="433" y="0" name="bottom"/>
   <outline>
     <component base="_dot" xOffset="848" yOffset="273"/>
     <component base="_dot" xOffset="625" yOffset="279"/>

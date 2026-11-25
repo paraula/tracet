@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ring" format="2">
+  <advance width="260"/>
+  <unicode hex="02DA"/>
+  <outline>
+    <component base="_dot" xOffset="139" yOffset="490"/>
+    <component base="_dot" xOffset="90" yOffset="474"/>
+    <component base="_dot" xOffset="139" yOffset="406"/>
+    <component base="_dot" xOffset="170" yOffset="448"/>
+    <component base="_dot" xOffset="90" yOffset="422"/>
+  </outline>
+</glyph>

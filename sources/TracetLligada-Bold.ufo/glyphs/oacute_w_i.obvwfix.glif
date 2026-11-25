@@ -1,6 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oacute_w_i.obvwfix" format="2">
   <advance width="1499"/>
+  <anchor x="267" y="357" name="top_1"/>
+  <anchor x="227" y="0" name="bottom_1"/>
+  <anchor x="227" y="174" name="center_1"/>
+  <anchor x="802" y="357" name="top_2"/>
+  <anchor x="866" y="0" name="bottom_2"/>
+  <anchor x="1444" y="375" name="top_3"/>
+  <anchor x="1525" y="0" name="bottom_3"/>
+  <anchor x="1467" y="0" name="ogonek_3"/>
   <outline>
     <contour>
       <point x="1517" y="99" type="line"/>

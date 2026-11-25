@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o_acircumflex.high1.hiEntry.odieresis" format="2">
   <advance width="905"/>
+  <anchor x="273" y="347" name="top_1"/>
+  <anchor x="232" y="0" name="bottom_1"/>
+  <anchor x="232" y="174" name="center_1"/>
+  <anchor x="697" y="339" name="top_2"/>
+  <anchor x="664" y="0" name="bottom_2"/>
+  <anchor x="808" y="0" name="ogonek_2"/>
   <outline>
     <contour>
       <point x="401" y="179" type="curve" smooth="yes"/>

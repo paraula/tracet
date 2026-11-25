@@ -1,6 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="w_odieresis_idieresis.ref7" format="2">
   <advance width="1549"/>
+  <anchor x="376" y="343" name="top_1"/>
+  <anchor x="437" y="0" name="bottom_1"/>
+  <anchor x="1066" y="345" name="top_2"/>
+  <anchor x="1023" y="0" name="bottom_2"/>
+  <anchor x="1023" y="174" name="center_2"/>
+  <anchor x="1514" y="337" name="top_3"/>
+  <anchor x="1514" y="0" name="bottom_3"/>
+  <anchor x="1492" y="0" name="ogonek_3"/>
   <outline>
     <contour>
       <point x="972" y="514" type="curve" smooth="yes"/>

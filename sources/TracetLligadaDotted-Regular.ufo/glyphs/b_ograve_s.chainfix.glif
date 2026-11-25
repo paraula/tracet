@@ -1,6 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="b_ograve_s.chainfix" format="2">
   <advance width="1322"/>
+  <anchor x="142" y="689" name="top_1"/>
+  <anchor x="142" y="0" name="bottom_1"/>
+  <anchor x="698" y="345" name="top_2"/>
+  <anchor x="655" y="0" name="bottom_2"/>
+  <anchor x="655" y="174" name="center_2"/>
+  <anchor x="1066" y="379" name="top_3"/>
+  <anchor x="1118" y="0" name="bottom_3"/>
   <outline>
     <component base="_dot" xOffset="457" yOffset="266"/>
     <component base="_dot" xOffset="505" yOffset="279"/>

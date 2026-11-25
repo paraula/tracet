@@ -1,6 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="w_ograve_ccedilla.chainfix" format="2">
   <advance width="1586"/>
+  <anchor x="372" y="347" name="top_1"/>
+  <anchor x="435" y="0" name="bottom_1"/>
+  <anchor x="1060" y="347" name="top_2"/>
+  <anchor x="1019" y="0" name="bottom_2"/>
+  <anchor x="1019" y="174" name="center_2"/>
+  <anchor x="1414" y="347" name="top_3"/>
+  <anchor x="1402" y="0" name="bottom_3"/>
   <outline>
     <contour>
       <point x="1446" y="2" type="line"/>

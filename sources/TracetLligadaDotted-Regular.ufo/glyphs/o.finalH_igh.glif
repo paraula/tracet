@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o.finalHigh" format="2">
   <advance width="468"/>
+  <anchor x="266" y="345" name="top"/>
+  <anchor x="223" y="0" name="bottom"/>
+  <anchor x="223" y="174" name="center"/>
   <outline>
     <component base="_dot" xOffset="361" yOffset="278"/>
     <component base="_dot" xOffset="317" yOffset="318"/>

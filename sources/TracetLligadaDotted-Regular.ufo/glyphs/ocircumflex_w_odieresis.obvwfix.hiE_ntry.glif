@@ -1,6 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ocircumflex_w_odieresis.obvwfix.hiEntry" format="2">
   <advance width="1668"/>
+  <anchor x="278" y="345" name="top_1"/>
+  <anchor x="235" y="0" name="bottom_1"/>
+  <anchor x="235" y="174" name="center_1"/>
+  <anchor x="800" y="343" name="top_2"/>
+  <anchor x="861" y="0" name="bottom_2"/>
+  <anchor x="1482" y="345" name="top_3"/>
+  <anchor x="1439" y="0" name="bottom_3"/>
+  <anchor x="1439" y="174" name="center_3"/>
   <outline>
     <contour>
       <point x="1410" y="467" type="curve" smooth="yes"/>

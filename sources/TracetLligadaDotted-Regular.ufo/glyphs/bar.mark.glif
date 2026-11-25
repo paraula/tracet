@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bar.mark" format="2">
+  <anchor x="0" y="0" name="_bar"/>
+  <outline>
+    <component base="_dot" xOffset="-85"/>
+    <component base="_dot" xOffset="85"/>
+    <component base="_dot" xOffset="-28"/>
+    <component base="_dot" xOffset="28"/>
+  </outline>
+</glyph>

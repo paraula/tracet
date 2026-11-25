@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iogonek" format="2">
+  <advance width="277"/>
+  <unicode hex="012E"/>
+  <outline>
+    <component base="_dot" xOffset="170" yOffset="-133"/>
+    <component base="_dot" xOffset="218" yOffset="-102"/>
+    <component base="_dot" xOffset="124" yOffset="-51"/>
+    <component base="_dot" xOffset="123" yOffset="-107"/>
+    <component base="_dot" xOffset="138" yOffset="522"/>
+    <component base="_dot" xOffset="138" yOffset="577"/>
+    <component base="_dot" xOffset="138" yOffset="632"/>
+    <component base="_dot" xOffset="211" yOffset="686"/>
+    <component base="_dot" xOffset="69" yOffset="687"/>
+    <component base="_dot" xOffset="138" yOffset="687"/>
+    <component base="_dot" xOffset="138" yOffset="81"/>
+    <component base="_dot" xOffset="72" yOffset="24"/>
+    <component base="_dot" xOffset="208" yOffset="24"/>
+    <component base="_dot" xOffset="138" yOffset="26"/>
+    <component base="_dot" xOffset="138" yOffset="136"/>
+    <component base="_dot" xOffset="138" yOffset="191"/>
+    <component base="_dot" xOffset="138" yOffset="246"/>
+    <component base="_dot" xOffset="138" yOffset="301"/>
+    <component base="_dot" xOffset="138" yOffset="356"/>
+    <component base="_dot" xOffset="138" yOffset="411"/>
+    <component base="_dot" xOffset="138" yOffset="466"/>
+  </outline>
+</glyph>

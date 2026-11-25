@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o_t.high2" format="2">
   <advance width="718"/>
+  <anchor x="264" y="357" name="top_1"/>
+  <anchor x="224" y="0" name="bottom_1"/>
+  <anchor x="224" y="174" name="center_1"/>
+  <anchor x="575" y="723" name="top_2"/>
+  <anchor x="575" y="0" name="bottom_2"/>
+  <anchor x="632" y="723" name="caronvert_2"/>
   <outline>
     <contour>
       <point x="550" y="530" type="line"/>

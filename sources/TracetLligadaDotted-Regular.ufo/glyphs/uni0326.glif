@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0326" format="2">
+  <unicode hex="0326"/>
+  <anchor x="0" y="0" name="_bottom"/>
+  <outline>
+    <component base="_dot" xOffset="26" yOffset="-123"/>
+    <component base="_dot" xOffset="-26" yOffset="-208"/>
+    <component base="_dot" xOffset="6" yOffset="-169"/>
+    <component base="_dot" xOffset="17" yOffset="-77"/>
+  </outline>
+</glyph>

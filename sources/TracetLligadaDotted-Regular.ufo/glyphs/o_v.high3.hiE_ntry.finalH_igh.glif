@@ -1,6 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o_v.high3.hiEntry.finalHigh" format="2">
   <advance width="1104"/>
+  <anchor x="278" y="345" name="top_1"/>
+  <anchor x="235" y="0" name="bottom_1"/>
+  <anchor x="235" y="174" name="center_1"/>
+  <anchor x="666" y="343" name="top_2"/>
+  <anchor x="726" y="0" name="bottom_2"/>
   <outline>
     <component base="_dot" xOffset="992" yOffset="272"/>
     <component base="_dot" xOffset="482" yOffset="273"/>

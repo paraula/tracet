@@ -1,6 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="b_i.liga" format="2">
   <advance width="713"/>
+  <anchor x="138" y="695" name="top_1"/>
+  <anchor x="138" y="0" name="bottom_1"/>
+  <anchor x="658" y="365" name="top_2"/>
+  <anchor x="730" y="0" name="bottom_2"/>
+  <anchor x="670" y="0" name="ogonek_2"/>
   <outline>
     <contour>
       <point x="-15" y="124" type="curve" smooth="yes"/>

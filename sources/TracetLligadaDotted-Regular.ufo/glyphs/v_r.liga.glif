@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="v_r.liga" format="2">
   <advance width="959"/>
+  <anchor x="246" y="343" name="top_1"/>
+  <anchor x="306" y="0" name="bottom_1"/>
+  <anchor x="700" y="375" name="top_2"/>
+  <anchor x="748" y="0" name="bottom_2"/>
   <outline>
     <component base="_dot" xOffset="350" yOffset="293"/>
     <component base="_dot" xOffset="633" yOffset="294"/>

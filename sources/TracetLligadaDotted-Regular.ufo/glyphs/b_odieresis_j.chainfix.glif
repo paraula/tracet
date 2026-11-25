@@ -1,6 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="b_odieresis_j.chainfix" format="2">
   <advance width="1157"/>
+  <anchor x="142" y="689" name="top_1"/>
+  <anchor x="142" y="0" name="bottom_1"/>
+  <anchor x="706" y="345" name="top_2"/>
+  <anchor x="663" y="0" name="bottom_2"/>
+  <anchor x="663" y="174" name="center_2"/>
+  <anchor x="1020" y="337" name="top_3"/>
+  <anchor x="1020" y="0" name="bottom_3"/>
   <outline>
     <contour>
       <point x="610" y="514" type="curve" smooth="yes"/>

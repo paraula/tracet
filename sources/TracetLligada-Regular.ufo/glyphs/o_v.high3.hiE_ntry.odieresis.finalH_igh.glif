@@ -1,6 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o_v.high3.hiEntry.odieresis.finalHigh" format="2">
   <advance width="1104"/>
+  <anchor x="273" y="347" name="top_1"/>
+  <anchor x="232" y="0" name="bottom_1"/>
+  <anchor x="232" y="174" name="center_1"/>
+  <anchor x="665" y="347" name="top_2"/>
+  <anchor x="728" y="0" name="bottom_2"/>
   <outline>
     <contour>
       <point x="593" y="268" type="curve" smooth="yes"/>

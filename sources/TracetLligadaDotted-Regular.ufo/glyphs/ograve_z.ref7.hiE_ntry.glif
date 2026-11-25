@@ -1,6 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ograve_z.ref7.hiEntry" format="2">
   <advance width="869"/>
+  <anchor x="278" y="345" name="top_1"/>
+  <anchor x="235" y="0" name="bottom_1"/>
+  <anchor x="235" y="174" name="center_1"/>
+  <anchor x="670" y="378" name="top_2"/>
+  <anchor x="671" y="0" name="bottom_2"/>
   <outline>
     <component base="_dot" xOffset="805" yOffset="280"/>
     <component base="_dot" xOffset="654" yOffset="-341"/>

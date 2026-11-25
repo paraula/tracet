@@ -1,6 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="v_agrave.liga" format="2">
   <advance width="1027"/>
+  <anchor x="244" y="356" name="top_1"/>
+  <anchor x="307" y="0" name="bottom_1"/>
+  <anchor x="809" y="349" name="top_2"/>
+  <anchor x="776" y="0" name="bottom_2"/>
+  <anchor x="925" y="0" name="ogonek_2"/>
   <outline>
     <contour>
       <point x="-25" y="140" type="curve"/>

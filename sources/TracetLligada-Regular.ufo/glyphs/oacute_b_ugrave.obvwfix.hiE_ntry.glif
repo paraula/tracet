@@ -1,6 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oacute_b_ugrave.obvwfix.hiEntry" format="2">
   <advance width="1410"/>
+  <anchor x="277" y="347" name="top_1"/>
+  <anchor x="236" y="0" name="bottom_1"/>
+  <anchor x="236" y="174" name="center_1"/>
+  <anchor x="602" y="695" name="top_2"/>
+  <anchor x="602" y="0" name="bottom_2"/>
+  <anchor x="1188" y="366" name="top_3"/>
+  <anchor x="1169" y="0" name="bottom_3"/>
+  <anchor x="1314" y="0" name="ogonek_3"/>
   <outline>
     <contour>
       <point x="1426" y="114" type="line"/>

@@ -1,6 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="w_ograve.liga" format="2">
   <advance width="1247"/>
+  <anchor x="372" y="347" name="top_1"/>
+  <anchor x="435" y="0" name="bottom_1"/>
+  <anchor x="1064" y="347" name="top_2"/>
+  <anchor x="1023" y="0" name="bottom_2"/>
+  <anchor x="1023" y="174" name="center_2"/>
   <outline>
     <contour>
       <point x="1265" y="121" type="curve"/>

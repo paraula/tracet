@@ -2,6 +2,8 @@
 <glyph name="p" format="2">
   <advance width="482"/>
   <unicode hex="0070"/>
+  <anchor x="196" y="359" name="top"/>
+  <anchor x="241" y="0" name="bottom"/>
   <outline>
     <component base="_dot" xOffset="325" yOffset="277"/>
     <component base="_dot" xOffset="292" yOffset="318"/>

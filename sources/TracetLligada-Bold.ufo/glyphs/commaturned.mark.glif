@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturned.mark" format="2">
+  <anchor x="0" y="349" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-13.25" y="377.0" type="curve" smooth="yes"/>
+      <point x="7.75" y="377.0"/>
+      <point x="27.75" y="396.0"/>
+      <point x="27.75" y="417.0" type="curve" smooth="yes"/>
+      <point x="27.75" y="421.0" type="line" smooth="yes"/>
+      <point x="27.75" y="440.0"/>
+      <point x="9.75" y="459.0"/>
+      <point x="1.75" y="460.0" type="curve"/>
+      <point x="2.75" y="466.0"/>
+      <point x="10.75" y="481.0"/>
+      <point x="17.75" y="494.0" type="curve" smooth="yes"/>
+      <point x="31.75" y="518.0"/>
+      <point x="47.75" y="534.0"/>
+      <point x="47.75" y="534.0" type="curve"/>
+      <point x="57.75" y="544.0"/>
+      <point x="57.75" y="563.0"/>
+      <point x="47.75" y="572.0" type="curve"/>
+      <point x="42.75" y="577.0"/>
+      <point x="34.75" y="580.0"/>
+      <point x="28.75" y="580.0" type="curve" smooth="yes"/>
+      <point x="22.75" y="580.0"/>
+      <point x="14.75" y="577.0"/>
+      <point x="9.75" y="572.0" type="curve" smooth="yes"/>
+      <point x="6.75" y="569.0"/>
+      <point x="-70.25" y="491.0"/>
+      <point x="-43.25" y="413.0" type="curve"/>
+      <point x="-55.25" y="423.0" type="line"/>
+      <point x="-51.25" y="393.0"/>
+      <point x="-32.25" y="377.0"/>
+    </contour>
+  </outline>
+</glyph>

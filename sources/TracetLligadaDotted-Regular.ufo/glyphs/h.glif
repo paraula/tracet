@@ -2,6 +2,9 @@
 <glyph name="h" format="2">
   <advance width="484"/>
   <unicode hex="0068"/>
+  <anchor x="143" y="690" name="top"/>
+  <anchor x="143" y="0" name="bottom"/>
+  <anchor x="141" y="536" name="bar"/>
   <outline>
     <component base="_dot" xOffset="316" yOffset="280"/>
     <component base="_dot" xOffset="281" yOffset="322"/>

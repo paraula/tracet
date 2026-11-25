@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o_t.high2.hiEntry" format="2">
   <advance width="724"/>
+  <anchor x="272" y="357" name="top_1"/>
+  <anchor x="232" y="0" name="bottom_1"/>
+  <anchor x="232" y="174" name="center_1"/>
+  <anchor x="579" y="723" name="top_2"/>
+  <anchor x="579" y="0" name="bottom_2"/>
+  <anchor x="636" y="723" name="caronvert_2"/>
   <outline>
     <contour>
       <point x="505" y="530" type="line" smooth="yes"/>

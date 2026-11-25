@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o_adieresis.high1.hiEntry" format="2">
   <advance width="905"/>
+  <anchor x="278" y="345" name="top_1"/>
+  <anchor x="235" y="0" name="bottom_1"/>
+  <anchor x="235" y="174" name="center_1"/>
+  <anchor x="696" y="339" name="top_2"/>
+  <anchor x="667" y="0" name="bottom_2"/>
+  <anchor x="810" y="0" name="ogonek_2"/>
   <outline>
     <contour>
       <point x="616" y="467" type="curve" smooth="yes"/>

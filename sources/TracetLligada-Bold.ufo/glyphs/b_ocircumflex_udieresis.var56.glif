@@ -1,6 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="b_ocircumflex_udieresis.var56" format="2">
   <advance width="1403"/>
+  <anchor x="141" y="705" name="top_1"/>
+  <anchor x="141" y="0" name="bottom_1"/>
+  <anchor x="691" y="357" name="top_2"/>
+  <anchor x="651" y="0" name="bottom_2"/>
+  <anchor x="651" y="174" name="center_2"/>
+  <anchor x="1178" y="376" name="top_3"/>
+  <anchor x="1159" y="0" name="bottom_3"/>
+  <anchor x="1310" y="0" name="ogonek_3"/>
   <outline>
     <contour>
       <point x="-23" y="130" type="curve"/>

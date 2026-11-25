@@ -1,6 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="v_ograve_l.chainfix" format="2">
   <advance width="1260"/>
+  <anchor x="245" y="347" name="top_1"/>
+  <anchor x="308" y="0" name="bottom_1"/>
+  <anchor x="792" y="347" name="top_2"/>
+  <anchor x="751" y="0" name="bottom_2"/>
+  <anchor x="751" y="174" name="center_2"/>
+  <anchor x="1137" y="697" name="top_3"/>
+  <anchor x="1137" y="0" name="bottom_3"/>
+  <anchor x="1131" y="434" name="slash_3"/>
+  <anchor x="1241" y="697" name="caronvert_3"/>
   <outline>
     <contour>
       <point x="788" y="9" type="curve" smooth="yes"/>

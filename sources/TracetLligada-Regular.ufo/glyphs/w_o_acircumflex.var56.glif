@@ -1,6 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="w_o_acircumflex.var56" format="2">
   <advance width="1730"/>
+  <anchor x="372" y="347" name="top_1"/>
+  <anchor x="435" y="0" name="bottom_1"/>
+  <anchor x="1072" y="347" name="top_2"/>
+  <anchor x="1019" y="0" name="bottom_2"/>
+  <anchor x="1019" y="174" name="center_2"/>
+  <anchor x="1509" y="339" name="top_3"/>
+  <anchor x="1476" y="0" name="bottom_3"/>
+  <anchor x="1620" y="0" name="ogonek_3"/>
   <outline>
     <contour>
       <point x="1199" y="216" type="curve"/>

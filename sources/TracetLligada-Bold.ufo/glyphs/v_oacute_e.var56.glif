@@ -1,6 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="v_oacute_e.var56" format="2">
   <advance width="1363"/>
+  <anchor x="244" y="356" name="top_1"/>
+  <anchor x="307" y="0" name="bottom_1"/>
+  <anchor x="795" y="357" name="top_2"/>
+  <anchor x="755" y="0" name="bottom_2"/>
+  <anchor x="755" y="174" name="center_2"/>
+  <anchor x="1234" y="356" name="top_3"/>
+  <anchor x="1184" y="0" name="bottom_3"/>
+  <anchor x="1295" y="0" name="ogonek_3"/>
   <outline>
     <contour>
       <point x="-23" y="146" type="curve"/>

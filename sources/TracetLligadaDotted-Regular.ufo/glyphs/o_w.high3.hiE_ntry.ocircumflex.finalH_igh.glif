@@ -1,6 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o_w.high3.hiEntry.ocircumflex.finalHigh" format="2">
   <advance width="1332"/>
+  <anchor x="278" y="345" name="top_1"/>
+  <anchor x="235" y="0" name="bottom_1"/>
+  <anchor x="235" y="174" name="center_1"/>
+  <anchor x="780" y="343" name="top_2"/>
+  <anchor x="841" y="0" name="bottom_2"/>
   <outline>
     <component base="_dot" xOffset="844" yOffset="274"/>
     <component base="_dot" xOffset="483" yOffset="274"/>

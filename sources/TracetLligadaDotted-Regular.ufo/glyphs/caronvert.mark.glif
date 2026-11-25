@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caronvert.mark" format="2">
+  <anchor x="0" y="0" name="_caronvert"/>
+  <outline>
+    <component base="_dot" xOffset="40" yOffset="-14"/>
+    <component base="_dot" xOffset="14" yOffset="-116"/>
+    <component base="_dot" xOffset="44" yOffset="-67"/>
+  </outline>
+</glyph>

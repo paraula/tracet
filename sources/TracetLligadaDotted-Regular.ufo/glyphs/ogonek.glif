@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ogonek" format="2">
+  <advance width="260"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <component base="_dot" xOffset="130" yOffset="-115"/>
+    <component base="_dot" xOffset="120"/>
+    <component base="_dot" xOffset="83" yOffset="-94"/>
+    <component base="_dot" xOffset="83" yOffset="-41"/>
+    <component base="_dot" xOffset="177" yOffset="-88"/>
+  </outline>
+</glyph>

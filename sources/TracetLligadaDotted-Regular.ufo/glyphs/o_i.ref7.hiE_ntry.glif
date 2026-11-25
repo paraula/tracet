@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o_i.ref7.hiEntry" format="2">
   <advance width="768"/>
+  <anchor x="286" y="345" name="top_1"/>
+  <anchor x="243" y="0" name="bottom_1"/>
+  <anchor x="243" y="174" name="center_1"/>
+  <anchor x="730" y="337" name="top_2"/>
+  <anchor x="730" y="0" name="bottom_2"/>
+  <anchor x="708" y="0" name="ogonek_2"/>
   <outline>
     <contour>
       <point x="606" y="455" type="curve" smooth="yes"/>

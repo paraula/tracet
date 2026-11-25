@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="b_l.liga" format="2">
   <advance width="676"/>
+  <anchor x="142" y="695" name="top_1"/>
+  <anchor x="142" y="0" name="bottom_1"/>
+  <anchor x="569" y="697" name="top_2"/>
+  <anchor x="569" y="0" name="bottom_2"/>
+  <anchor x="563" y="434" name="slash_2"/>
+  <anchor x="673" y="697" name="caronvert_2"/>
   <outline>
     <contour>
       <point x="-15" y="124" type="curve" smooth="yes"/>

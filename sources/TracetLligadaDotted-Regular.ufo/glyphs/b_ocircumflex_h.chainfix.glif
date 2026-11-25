@@ -1,6 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="b_ocircumflex_h.chainfix" format="2">
   <advance width="1422"/>
+  <anchor x="142" y="689" name="top_1"/>
+  <anchor x="142" y="0" name="bottom_1"/>
+  <anchor x="698" y="345" name="top_2"/>
+  <anchor x="655" y="0" name="bottom_2"/>
+  <anchor x="655" y="174" name="center_2"/>
+  <anchor x="1047" y="690" name="top_3"/>
+  <anchor x="1047" y="0" name="bottom_3"/>
+  <anchor x="1045" y="536" name="bar_3"/>
   <outline>
     <component base="_dot" xOffset="457" yOffset="266"/>
     <component base="_dot" xOffset="505" yOffset="279"/>

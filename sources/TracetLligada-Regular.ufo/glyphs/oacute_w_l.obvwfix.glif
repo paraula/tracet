@@ -1,6 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oacute_w_l.obvwfix" format="2">
   <advance width="1464"/>
+  <anchor x="264" y="347" name="top_1"/>
+  <anchor x="223" y="0" name="bottom_1"/>
+  <anchor x="223" y="174" name="center_1"/>
+  <anchor x="800" y="347" name="top_2"/>
+  <anchor x="863" y="0" name="bottom_2"/>
+  <anchor x="1357" y="697" name="top_3"/>
+  <anchor x="1357" y="0" name="bottom_3"/>
+  <anchor x="1351" y="434" name="slash_3"/>
+  <anchor x="1461" y="697" name="caronvert_3"/>
   <outline>
     <contour>
       <point x="1369" y="343" type="curve" smooth="yes"/>
