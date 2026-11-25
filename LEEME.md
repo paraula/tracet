@@ -68,7 +68,9 @@ Tracet Pal y Tracet Pal Dotted: juego GF Latin Core completo (319/319). Enviadas
 - Se compila sin hinting (`autohintTTF: false`) para no multiplicar el tamaño.
 - Los scripts de la Pal (`componer_acentos.py`, `trazos_svg.py`, `calidad.py`, `build.py`) solo actúan sobre `TracetPal*.ufo`.
 - Los TTF de la Lligada no se suben al repositorio hasta que esté completa (`.gitignore`).
-- Falta: 153 caracteres de GF Latin Core (acentos nuevos, Æ Œ Ð Þ Ø Ł…), que deben funcionar con las uniones.
+- `scripts/lligada_acentos.py` completa el juego (317 de 319): las minúsculas acentuadas nuevas se descomponen en letra + acento combinable (ccmp), las reglas de unión ignoran los acentos y cada glifo de unión lleva anclas sobre cada letra. La i/j pierden el punto con acento. Las mayúsculas y los símbolos salen de la Pal. Después hay que pasar `puntos_componentes.py` a la Dotted.
+- Comprobado el 25-11-2026: las uniones de siempre, 0 diferencias en 57.065 textos; las 118 letras nuevas se unen igual que su letra base (26.550 combinaciones por estilo).
+- Falta: ð y þ (hay que dibujarlas en estilo ligado).
 
 ```
 cd sources
