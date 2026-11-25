@@ -60,6 +60,8 @@ Git está configurado con la dirección oculta de GitHub (`…@users.noreply.git
 
 Tracet Pal y Tracet Pal Dotted: juego GF Latin Core completo (319/319). Enviadas a Google Fonts: https://github.com/google/fonts/issues/11470
 
+Tracet Lligada y Tracet Lligada Dotted: juego GF Latin Core completo (319/319). Publicadas en GitHub el 25-11-2026 y enviadas a Google Fonts: https://github.com/google/fonts/issues/11497
+
 ## Tracet Lligada
 
 - `sources/TracetLligada-*.ufo` y `TracetLligadaDotted-Regular.ufo` salen de Paraula Lligada 26 v1.100 con `lligada_otf_a_ufo.py` (en Drive, como `otf_a_ufo.py`). Las reglas de unión de Fontself están en el `features.fea` de cada UFO.
