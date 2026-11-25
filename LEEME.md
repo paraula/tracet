@@ -8,8 +8,8 @@ No es la fuente interna de Paraula. La interna (Paraula Pal v1.200) se genera a 
 |---|---|
 | Tracet Pal (Thin, Regular, Bold, ExtraBold) | Paraula Pal |
 | Tracet Pal Dotted (Regular) | Paraula Pal Punteada |
-| Tracet Lligada (Regular, Bold) — en preparación | Paraula Lligada 26 |
-| Tracet Lligada Dotted (Regular) — en preparación | Paraula Lligada 26 Puntejada R31 |
+| Tracet Lligada (Regular, Bold) | Paraula Lligada 26 |
+| Tracet Lligada Dotted (Regular) | Paraula Lligada 26 Puntejada R31 |
 
 ## Carpetas
 
@@ -60,14 +60,13 @@ Git está configurado con la dirección oculta de GitHub (`…@users.noreply.git
 
 Tracet Pal y Tracet Pal Dotted: juego GF Latin Core completo (319/319). Enviadas a Google Fonts: https://github.com/google/fonts/issues/11470
 
-## Tracet Lligada (en preparación)
+## Tracet Lligada
 
 - `sources/TracetLligada-*.ufo` y `TracetLligadaDotted-Regular.ufo` salen de Paraula Lligada 26 v1.100 con `lligada_otf_a_ufo.py` (en Drive, como `otf_a_ufo.py`). Las reglas de unión de Fontself están en el `features.fea` de cada UFO.
 - `lligada_verificar.py` (en Drive) compara la Tracet Lligada compilada con la interna en 57.065 textos. El 24-11-2026 dio 0 diferencias en los 3 estilos: las uniones son idénticas.
 - En la Dotted, cada punto es un componente del glifo `_dot` (`scripts/puntos_componentes.py`). Así el TTF pasa de 10,8 a 5,2 MB.
 - Se compila sin hinting (`autohintTTF: false`) para no multiplicar el tamaño.
 - Los scripts de la Pal (`componer_acentos.py`, `trazos_svg.py`, `calidad.py`, `build.py`) solo actúan sobre `TracetPal*.ufo`.
-- Los TTF de la Lligada no se suben al repositorio hasta que esté completa (`.gitignore`).
 - `scripts/lligada_acentos.py` completa el juego salvo ð y þ: las minúsculas acentuadas nuevas se descomponen en letra + acento combinable (ccmp), las reglas de unión ignoran los acentos y cada glifo de unión lleva anclas sobre cada letra. La i/j pierden el punto con acento. Las mayúsculas y los símbolos salen de la Pal. Después hay que pasar `puntos_componentes.py` a la Dotted.
 - Comprobado el 25-11-2026: las uniones de siempre, 0 diferencias en 57.065 textos; las 118 letras nuevas se unen igual que su letra base (26.550 combinaciones por estilo).
 - `scripts/lligada_eth_thorn.py` añade ð y þ con los trazos de la propia Lligada: la ð es la d con el asta curvada hacia la izquierda y una barra inclinada; la þ es la h con la bajada de la p. Se unen igual que la d y la h (también en las ligaduras con la o). Va después de `lligada_acentos.py` y antes de `puntos_componentes.py`. Con esto, el juego GF Latin Core está completo (319/319).
