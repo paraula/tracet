@@ -71,6 +71,9 @@ Tracet Pal y Tracet Pal Dotted: juego GF Latin Core completo (319/319). Enviadas
 - `scripts/lligada_acentos.py` completa el juego salvo ð y þ: las minúsculas acentuadas nuevas se descomponen en letra + acento combinable (ccmp), las reglas de unión ignoran los acentos y cada glifo de unión lleva anclas sobre cada letra. La i/j pierden el punto con acento. Las mayúsculas y los símbolos salen de la Pal. Después hay que pasar `puntos_componentes.py` a la Dotted.
 - Comprobado el 25-11-2026: las uniones de siempre, 0 diferencias en 57.065 textos; las 118 letras nuevas se unen igual que su letra base (26.550 combinaciones por estilo).
 - `scripts/lligada_eth_thorn.py` añade ð y þ con los trazos de la propia Lligada: la ð es la d con el asta curvada hacia la izquierda y una barra inclinada; la þ es la h con la bajada de la p. Se unen igual que la d y la h (también en las ligaduras con la o). Va después de `lligada_acentos.py` y antes de `puntos_componentes.py`. Con esto, el juego GF Latin Core está completo (319/319).
+- `scripts/lligada_calidad.py` es el último paso: limpia los contornos, iguala la anchura de los signos matemáticos, pone un .notdef simple, quita los ~960 glifos de Fontself a los que no llega ninguna regla (también de las reglas originales) y da nombres cortos en la fuente compilada a los glifos de más de 31 caracteres. Los TTF pasan a la mitad de tamaño. Orden: `lligada_acentos.py` → `lligada_eth_thorn.py` → `puntos_componentes.py` (Dotted) → `lligada_calidad.py`.
+- `lligada_verificar.py` (Drive) entiende los nombres cortos y no compara el avance de los signos matemáticos (cambiado a propósito). 25-11-2026, después del repaso: 0 diferencias en los 3 estilos.
+- Descripción e imágenes para Google: `documentation/lligada/` (las genera `muestras.py`).
 
 ```
 cd sources

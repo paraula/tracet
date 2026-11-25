@@ -107,12 +107,8 @@
       <point x="1389" y="137"/>
       <point x="1388" y="136"/>
       <point x="1388" y="135" type="curve"/>
-      <point x="1380" y="122" type="line"/>
       <point x="1342" y="64" type="line"/>
-      <point x="1342" y="63"/>
-      <point x="1342" y="63"/>
-      <point x="1341" y="63" type="curve"/>
-      <point x="1332" y="47"/>
+      <point x="1333" y="48"/>
       <point x="1324" y="43"/>
       <point x="1309" y="47" type="curve"/>
       <point x="1294" y="52"/>
@@ -412,7 +408,6 @@
       <point x="47" y="253"/>
       <point x="7" y="189" type="curve"/>
       <point x="6" y="186" type="line"/>
-      <point x="-14" y="153" type="line"/>
       <point x="-22" y="140" type="line"/>
       <point x="-22" y="139"/>
       <point x="-23" y="138"/>
@@ -510,7 +505,6 @@
       <point x="25" y="109"/>
       <point x="26" y="110"/>
       <point x="26" y="111" type="curve"/>
-      <point x="34" y="125" type="line"/>
       <point x="53" y="157" type="line"/>
       <point x="55" y="159" type="line"/>
       <point x="62" y="171"/>
@@ -579,10 +573,7 @@
       <point x="1366" y="-1"/>
       <point x="1388" y="35" type="curve" smooth="yes"/>
       <point x="1424" y="95" type="line"/>
-      <point x="1425" y="94"/>
-      <point x="1425" y="94"/>
-      <point x="1425" y="94" type="curve"/>
-      <point x="1426" y="95"/>
+      <point x="1425" y="96"/>
       <point x="1426" y="95"/>
     </contour>
     <contour>
@@ -670,14 +661,10 @@
       <point x="580" y="631"/>
       <point x="584" y="649"/>
       <point x="590" y="651" type="curve"/>
+      <point x="590" y="651"/>
       <point x="591" y="651"/>
-      <point x="591" y="651"/>
-      <point x="591" y="651" type="curve"/>
-      <point x="591" y="651"/>
-      <point x="591" y="651"/>
-      <point x="594" y="649" type="curve"/>
-      <point x="595" y="648" type="line"/>
-      <point x="634" y="622"/>
+      <point x="594" y="649" type="curve" smooth="yes"/>
+      <point x="633" y="623"/>
       <point x="643" y="573"/>
     </contour>
     <contour>

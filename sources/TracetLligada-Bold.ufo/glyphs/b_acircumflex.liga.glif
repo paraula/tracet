@@ -12,8 +12,7 @@
       <point x="-23" y="127"/>
       <point x="-25" y="127"/>
       <point x="-25" y="124" type="curve"/>
-      <point x="-24" y="124" type="line"/>
-      <point x="-25" y="124"/>
+      <point x="-26" y="124"/>
       <point x="-26" y="123"/>
       <point x="-26" y="121" type="curve" smooth="yes"/>
       <point x="-26" y="118" type="line" smooth="yes"/>
@@ -48,8 +47,7 @@
       <point x="4" y="91"/>
       <point x="5" y="92"/>
       <point x="5" y="93" type="curve"/>
-      <point x="5" y="92" type="line"/>
-      <point x="6" y="92"/>
+      <point x="6" y="93"/>
       <point x="11" y="92"/>
       <point x="9" y="101" type="curve"/>
       <point x="12" y="94"/>
@@ -66,8 +64,7 @@
       <point x="24" y="104" type="curve"/>
       <point x="33" y="118" type="line"/>
       <point x="63" y="172" type="line"/>
-      <point x="63" y="171" type="line" smooth="yes"/>
-      <point x="64" y="125"/>
+      <point x="64" y="126"/>
       <point x="78" y="84"/>
       <point x="104" y="51" type="curve" smooth="yes"/>
       <point x="132" y="14"/>
@@ -120,8 +117,7 @@
       <point x="953" y="129"/>
       <point x="952" y="130"/>
       <point x="951" y="130" type="curve"/>
-      <point x="952" y="130" type="line"/>
-      <point x="952" y="132"/>
+      <point x="951" y="132"/>
       <point x="951" y="133"/>
       <point x="950" y="134" type="curve"/>
       <point x="948" y="135"/>
@@ -162,8 +158,6 @@
       <point x="908" y="149"/>
       <point x="904" y="145"/>
       <point x="901" y="142" type="curve"/>
-      <point x="902" y="142" type="line"/>
-      <point x="901" y="141" type="line"/>
       <point x="892" y="126" type="line"/>
       <point x="847" y="52" type="line"/>
       <point x="844" y="46"/>
@@ -229,7 +223,6 @@
       <point x="63" y="651"/>
       <point x="63" y="587" type="curve" smooth="yes"/>
       <point x="63" y="282" type="line"/>
-      <point x="-15" y="145" type="line"/>
       <point x="-24" y="130" type="line"/>
       <point x="-20" y="128"/>
       <point x="-20" y="128"/>
@@ -290,8 +283,7 @@
       <point x="117" y="631"/>
       <point x="121" y="649"/>
       <point x="127" y="651" type="curve"/>
-      <point x="127" y="652" type="line"/>
-      <point x="128" y="652"/>
+      <point x="128" y="651"/>
       <point x="129" y="651"/>
       <point x="134" y="647" type="curve"/>
       <point x="137" y="654" type="line"/>

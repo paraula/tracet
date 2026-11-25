@@ -52,7 +52,6 @@
       <point x="63" y="648"/>
       <point x="64" y="588" type="curve" smooth="yes"/>
       <point x="64" y="282" type="line"/>
-      <point x="-15" y="145" type="line"/>
       <point x="-23" y="132" type="line"/>
       <point x="-28" y="120"/>
       <point x="-25" y="101"/>
@@ -60,7 +59,6 @@
       <point x="-2" y="88"/>
       <point x="17" y="92"/>
       <point x="25" y="105" type="curve" smooth="yes"/>
-      <point x="33" y="118" type="line"/>
       <point x="64" y="173" type="line"/>
       <point x="64" y="170" type="line" smooth="yes"/>
       <point x="65" y="77"/>
@@ -85,18 +83,9 @@
     </contour>
     <contour>
       <point x="126" y="651" type="curve"/>
-      <point x="126" y="652"/>
-      <point x="126" y="652"/>
-      <point x="126" y="652" type="curve"/>
-      <point x="126" y="652"/>
-      <point x="126" y="651"/>
-      <point x="127" y="651" type="curve" smooth="yes"/>
-      <point x="128" y="651"/>
+      <point x="127" y="651"/>
       <point x="129" y="651"/>
       <point x="130" y="652" type="curve"/>
-      <point x="131" y="652"/>
-      <point x="131" y="652"/>
-      <point x="130" y="651" type="curve"/>
       <point x="132" y="649" type="line"/>
       <point x="154" y="635"/>
       <point x="164" y="616"/>

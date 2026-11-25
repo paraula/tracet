@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ograve_b_l.var56.hiEntry" format="2">
   <advance width="1268"/>
-  <anchor x="276" y="357" name="top_1"/>
-  <anchor x="236" y="0" name="bottom_1"/>
-  <anchor x="236" y="174" name="center_1"/>
+  <anchor x="280" y="357" name="top_1"/>
+  <anchor x="240" y="0" name="bottom_1"/>
+  <anchor x="240" y="174" name="center_1"/>
   <anchor x="609" y="705" name="top_2"/>
   <anchor x="609" y="0" name="bottom_2"/>
   <anchor x="1144" y="707" name="top_3"/>
@@ -24,8 +24,7 @@
       <point x="645" y="-4"/>
       <point x="689" y="-7" type="curve"/>
       <point x="691" y="-8" type="line"/>
-      <point x="692" y="-7" type="line"/>
-      <point x="791" y="-5"/>
+      <point x="790" y="-6"/>
       <point x="855" y="59"/>
       <point x="877" y="177" type="curve" smooth="yes"/>
       <point x="883" y="206"/>
@@ -47,7 +46,6 @@
       <point x="1182" y="-20"/>
       <point x="1220" y="-5"/>
       <point x="1243" y="35" type="curve" smooth="yes"/>
-      <point x="1283" y="100" type="line"/>
       <point x="1292" y="114" type="line"/>
       <point x="1292" y="115"/>
       <point x="1292" y="116"/>
@@ -145,7 +143,6 @@
       <point x="1243" y="145"/>
       <point x="1243" y="145"/>
       <point x="1242" y="144" type="curve"/>
-      <point x="1234" y="130" type="line"/>
       <point x="1193" y="64" type="line" smooth="yes"/>
       <point x="1183" y="46"/>
       <point x="1172" y="42"/>
@@ -184,8 +181,8 @@
       <point x="1085" y="757"/>
       <point x="1068" y="712"/>
       <point x="1068" y="643" type="curve" smooth="yes"/>
-      <point x="1069" y="357" type="line"/>
-      <point x="1056" y="350"/>
+      <point x="1068" y="357" type="line"/>
+      <point x="1055" y="350"/>
       <point x="1033" y="341"/>
       <point x="1006" y="333" type="curve" smooth="yes"/>
       <point x="971" y="322"/>
@@ -327,10 +324,7 @@
       <point x="1125" y="692"/>
       <point x="1130" y="712"/>
       <point x="1137" y="714" type="curve"/>
-      <point x="1137" y="715"/>
-      <point x="1138" y="715"/>
-      <point x="1138" y="715" type="curve"/>
-      <point x="1138" y="715"/>
+      <point x="1137" y="714"/>
       <point x="1139" y="714"/>
       <point x="1142" y="712" type="curve"/>
       <point x="1142" y="711"/>
@@ -359,11 +353,9 @@
       <point x="588" y="694"/>
       <point x="593" y="714"/>
       <point x="600" y="716" type="curve"/>
-      <point x="600" y="717" type="line"/>
-      <point x="601" y="717"/>
+      <point x="601" y="716"/>
       <point x="601" y="716"/>
       <point x="604" y="714" type="curve"/>
-      <point x="605" y="713" type="line"/>
       <point x="606" y="713" type="line"/>
       <point x="649" y="685"/>
       <point x="658" y="630"/>

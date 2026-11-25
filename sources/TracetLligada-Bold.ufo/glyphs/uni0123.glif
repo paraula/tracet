@@ -4,6 +4,6 @@
   <unicode hex="0123"/>
   <outline>
     <component base="g"/>
-    <component base="commaturned.mark" xOffset="207" yOffset="9"/>
+    <component base="commaturned.mark" xOffset="206" yOffset="9"/>
   </outline>
 </glyph>
