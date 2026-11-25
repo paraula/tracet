@@ -2,6 +2,7 @@
 Tracet Lligada: completa el juego GF Latin Core sin romper las uniones.
 
   python scripts/lligada_acentos.py sources/TracetLligada-Regular.ufo [...]
+  python scripts/lligada_eth_thorn.py sources/TracetLligada-Regular.ufo [...]
   python scripts/puntos_componentes.py sources/TracetLligadaDotted-Regular.ufo
 
 La Lligada tiene ~2.150 glifos de unión (o_a.high1, b_o_a.obvwfix…). En lugar
@@ -679,7 +680,8 @@ def BoundsPen_bounds(c):
 def main(path):
     L = Lligada(path)
     for name in list(L.u.keys()):                  # empezar limpio si se vuelve a ejecutar
-        if name.endswith(".dotless") or name in EXTRA_MARKS:
+        parts = name.split(".")[0].split("_")
+        if name.endswith(".dotless") or name in EXTRA_MARKS or "eth" in parts or "thorn" in parts:
             del L.u[name]
     n = L.anchors()
     a_top = L.marks()

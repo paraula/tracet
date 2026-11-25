@@ -2,7 +2,7 @@
 <glyph name="B" format="2">
   <advance width="492"/>
   <unicode hex="0042"/>
-  <anchor x="246" y="703" name="top"/>
+  <anchor x="246" y="706" name="top"/>
   <anchor x="246" y="0" name="bottom"/>
   <outline>
     <component base="_dot" xOffset="394" yOffset="301"/>

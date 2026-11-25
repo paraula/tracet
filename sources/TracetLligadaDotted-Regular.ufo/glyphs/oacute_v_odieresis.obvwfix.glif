@@ -1,43 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oacute_v_odieresis.obvwfix" format="2">
   <advance width="1413"/>
-  <anchor x="274" y="345" name="top_1"/>
-  <anchor x="231" y="0" name="bottom_1"/>
-  <anchor x="231" y="174" name="center_1"/>
-  <anchor x="690" y="343" name="top_2"/>
+  <anchor x="274" y="348" name="top_1"/>
+  <anchor x="232" y="0" name="bottom_1"/>
+  <anchor x="232" y="174" name="center_1"/>
+  <anchor x="690" y="346" name="top_2"/>
   <anchor x="750" y="0" name="bottom_2"/>
-  <anchor x="1230" y="345" name="top_3"/>
-  <anchor x="1187" y="0" name="bottom_3"/>
-  <anchor x="1187" y="174" name="center_3"/>
+  <anchor x="1230" y="348" name="top_3"/>
+  <anchor x="1188" y="0" name="bottom_3"/>
+  <anchor x="1188" y="174" name="center_3"/>
   <outline>
-    <contour>
-      <point x="1155" y="467" type="curve" smooth="yes"/>
-      <point x="1155" y="478"/>
-      <point x="1146" y="487"/>
-      <point x="1135" y="487" type="curve" smooth="yes"/>
-      <point x="1123" y="487"/>
-      <point x="1115" y="478"/>
-      <point x="1115" y="467" type="curve" smooth="yes"/>
-      <point x="1115" y="456"/>
-      <point x="1123" y="447"/>
-      <point x="1135" y="447" type="curve" smooth="yes"/>
-      <point x="1146" y="447"/>
-      <point x="1155" y="456"/>
-    </contour>
-    <contour>
-      <point x="1265" y="467" type="curve" smooth="yes"/>
-      <point x="1265" y="478"/>
-      <point x="1256" y="487"/>
-      <point x="1245" y="487" type="curve" smooth="yes"/>
-      <point x="1233" y="487"/>
-      <point x="1225" y="478"/>
-      <point x="1225" y="467" type="curve" smooth="yes"/>
-      <point x="1225" y="456"/>
-      <point x="1233" y="447"/>
-      <point x="1245" y="447" type="curve" smooth="yes"/>
-      <point x="1256" y="447"/>
-      <point x="1265" y="456"/>
-    </contour>
     <component base="_dot" xOffset="988" yOffset="266"/>
     <component base="_dot" xOffset="452" yOffset="273"/>
     <component base="_dot" xOffset="789" yOffset="280"/>
@@ -113,5 +85,7 @@
     <component base="_dot" xOffset="1254" yOffset="229"/>
     <component base="_dot" xOffset="1063" yOffset="230"/>
     <component base="_dot" xOffset="1342" yOffset="241"/>
+    <component base="_dot" xOffset="1135" yOffset="467"/>
+    <component base="_dot" xOffset="1245" yOffset="467"/>
   </outline>
 </glyph>

@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o_v_ugrave.obvwfix.hiEntry" format="2">
   <advance width="1475"/>
-  <anchor x="282" y="345" name="top_1"/>
-  <anchor x="239" y="0" name="bottom_1"/>
-  <anchor x="239" y="174" name="center_1"/>
-  <anchor x="686" y="343" name="top_2"/>
+  <anchor x="282" y="348" name="top_1"/>
+  <anchor x="240" y="0" name="bottom_1"/>
+  <anchor x="240" y="174" name="center_1"/>
+  <anchor x="686" y="346" name="top_2"/>
   <anchor x="746" y="0" name="bottom_2"/>
-  <anchor x="1258" y="364" name="top_3"/>
+  <anchor x="1258" y="367" name="top_3"/>
   <anchor x="1235" y="0" name="bottom_3"/>
-  <anchor x="1381" y="0" name="ogonek_3"/>
+  <anchor x="1382" y="0" name="ogonek_3"/>
   <outline>
     <component base="_dot" xOffset="270" yOffset="266"/>
     <component base="_dot" xOffset="994" yOffset="272"/>

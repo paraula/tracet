@@ -1,26 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="w_edieresis.liga" format="2">
   <advance width="1209"/>
-  <anchor x="376" y="343" name="top_1"/>
+  <anchor x="376" y="346" name="top_1"/>
   <anchor x="437" y="0" name="bottom_1"/>
-  <anchor x="1079" y="345" name="top_2"/>
+  <anchor x="1079" y="348" name="top_2"/>
   <anchor x="1027" y="0" name="bottom_2"/>
-  <anchor x="1132" y="0" name="ogonek_2"/>
+  <anchor x="1134" y="0" name="ogonek_2"/>
   <outline>
-    <contour>
-      <point x="1114" y="467" type="curve" smooth="yes"/>
-      <point x="1114" y="478"/>
-      <point x="1105" y="487"/>
-      <point x="1094" y="487" type="curve" smooth="yes"/>
-      <point x="1082" y="487"/>
-      <point x="1074" y="478"/>
-      <point x="1074" y="467" type="curve" smooth="yes"/>
-      <point x="1074" y="455"/>
-      <point x="1082" y="447"/>
-      <point x="1094" y="447" type="curve" smooth="yes"/>
-      <point x="1105" y="447"/>
-      <point x="1114" y="455"/>
-    </contour>
     <component base="_dot" xOffset="907" yOffset="272"/>
     <component base="_dot" xOffset="617" yOffset="295"/>
     <component base="_dot" xOffset="449" yOffset="296"/>
@@ -81,5 +67,6 @@
     <component base="_dot" xOffset="1082" yOffset="23"/>
     <component base="_dot" xOffset="1209" yOffset="118"/>
     <component base="_dot" xOffset="1128" yOffset="246"/>
+    <component base="_dot" xOffset="1094" yOffset="467"/>
   </outline>
 </glyph>

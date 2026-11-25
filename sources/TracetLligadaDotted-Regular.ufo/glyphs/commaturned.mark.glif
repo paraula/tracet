@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="commaturned.mark" format="2">
-  <anchor x="0" y="339" name="_top"/>
+  <anchor x="0" y="342" name="_top"/>
   <outline>
     <component base="_dot" xOffset="-26" yOffset="450"/>
     <component base="_dot" xOffset="26" yOffset="535"/>

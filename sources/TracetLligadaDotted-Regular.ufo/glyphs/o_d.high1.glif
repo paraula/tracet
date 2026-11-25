@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o_d.high1" format="2">
   <advance width="892"/>
-  <anchor x="270" y="345" name="top_1"/>
-  <anchor x="227" y="0" name="bottom_1"/>
-  <anchor x="227" y="174" name="center_1"/>
-  <anchor x="777" y="707" name="top_2"/>
+  <anchor x="270" y="348" name="top_1"/>
+  <anchor x="228" y="0" name="bottom_1"/>
+  <anchor x="228" y="174" name="center_1"/>
+  <anchor x="777" y="710" name="top_2"/>
   <anchor x="777" y="0" name="bottom_2"/>
-  <anchor x="777" y="545" name="bar_2"/>
-  <anchor x="824" y="707" name="caronvert_2"/>
+  <anchor x="777" y="547" name="bar_2"/>
+  <anchor x="827" y="710" name="caronvert_2"/>
   <outline>
     <component base="_dot" xOffset="362" yOffset="279"/>
     <component base="_dot" xOffset="573" yOffset="287"/>

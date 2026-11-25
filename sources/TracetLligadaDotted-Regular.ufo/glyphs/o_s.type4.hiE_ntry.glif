@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o_s.type4.hiEntry" format="2">
   <advance width="862"/>
-  <anchor x="274" y="345" name="top_1"/>
-  <anchor x="231" y="0" name="bottom_1"/>
-  <anchor x="231" y="174" name="center_1"/>
-  <anchor x="618" y="379" name="top_2"/>
+  <anchor x="274" y="348" name="top_1"/>
+  <anchor x="232" y="0" name="bottom_1"/>
+  <anchor x="232" y="174" name="center_1"/>
+  <anchor x="618" y="382" name="top_2"/>
   <anchor x="670" y="0" name="bottom_2"/>
   <outline>
     <component base="_dot" xOffset="560" yOffset="267"/>

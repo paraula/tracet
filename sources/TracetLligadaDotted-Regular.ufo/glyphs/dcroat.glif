@@ -4,6 +4,6 @@
   <unicode hex="0111"/>
   <outline>
     <component base="d"/>
-    <component base="bar.mark" xOffset="361" yOffset="545"/>
+    <component base="bar.mark" xOffset="361" yOffset="547"/>
   </outline>
 </glyph>

@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="w_r.liga" format="2">
   <advance width="1225"/>
-  <anchor x="376" y="343" name="top_1"/>
-  <anchor x="437" y="0" name="bottom_1"/>
-  <anchor x="968" y="375" name="top_2"/>
+  <anchor x="372" y="346" name="top_1"/>
+  <anchor x="433" y="0" name="bottom_1"/>
+  <anchor x="968" y="378" name="top_2"/>
   <anchor x="1016" y="0" name="bottom_2"/>
   <outline>
     <component base="_dot" xOffset="449" yOffset="292"/>

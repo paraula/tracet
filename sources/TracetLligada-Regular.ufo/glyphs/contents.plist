@@ -1032,6 +1032,8 @@
     <string>eogonek.glif</string>
     <key>equal</key>
     <string>equal.glif</string>
+    <key>eth</key>
+    <string>eth.glif</string>
     <key>exclam</key>
     <string>exclam.glif</string>
     <key>exclamdown</key>
@@ -1412,6 +1414,18 @@
     <string>o_egrave.type4.hiE_ntry.odieresis.glif</string>
     <key>o_egrave.type4.hiEntry.ograve</key>
     <string>o_egrave.type4.hiE_ntry.ograve.glif</string>
+    <key>o_eth.high1</key>
+    <string>o_eth.high1.glif</string>
+    <key>o_eth.high1.hiEntry</key>
+    <string>o_eth.high1.hiE_ntry.glif</string>
+    <key>o_eth.high1.hiEntry.oacute</key>
+    <string>o_eth.high1.hiE_ntry.oacute.glif</string>
+    <key>o_eth.high1.hiEntry.ocircumflex</key>
+    <string>o_eth.high1.hiE_ntry.ocircumflex.glif</string>
+    <key>o_eth.high1.hiEntry.odieresis</key>
+    <string>o_eth.high1.hiE_ntry.odieresis.glif</string>
+    <key>o_eth.high1.hiEntry.ograve</key>
+    <string>o_eth.high1.hiE_ntry.ograve.glif</string>
     <key>o_f.type4</key>
     <string>o_f.type4.glif</string>
     <key>o_f.type4.hiEntry</key>
@@ -1636,6 +1650,18 @@
     <string>o_t.high2.hiE_ntry.odieresis.glif</string>
     <key>o_t.high2.hiEntry.ograve</key>
     <string>o_t.high2.hiE_ntry.ograve.glif</string>
+    <key>o_thorn.type4</key>
+    <string>o_thorn.type4.glif</string>
+    <key>o_thorn.type4.hiEntry</key>
+    <string>o_thorn.type4.hiE_ntry.glif</string>
+    <key>o_thorn.type4.hiEntry.oacute</key>
+    <string>o_thorn.type4.hiE_ntry.oacute.glif</string>
+    <key>o_thorn.type4.hiEntry.ocircumflex</key>
+    <string>o_thorn.type4.hiE_ntry.ocircumflex.glif</string>
+    <key>o_thorn.type4.hiEntry.odieresis</key>
+    <string>o_thorn.type4.hiE_ntry.odieresis.glif</string>
+    <key>o_thorn.type4.hiEntry.ograve</key>
+    <string>o_thorn.type4.hiE_ntry.ograve.glif</string>
     <key>o_u.high2</key>
     <string>o_u.high2.glif</string>
     <key>o_u.high2.hiEntry</key>
@@ -3646,6 +3672,8 @@
     <string>t.glif</string>
     <key>tcaron</key>
     <string>tcaron.glif</string>
+    <key>thorn</key>
+    <string>thorn.glif</string>
     <key>three</key>
     <string>three.glif</string>
     <key>tilde</key>

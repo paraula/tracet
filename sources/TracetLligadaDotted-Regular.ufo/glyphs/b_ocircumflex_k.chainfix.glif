@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="b_ocircumflex_k.chainfix" format="2">
   <advance width="1401"/>
-  <anchor x="142" y="689" name="top_1"/>
-  <anchor x="142" y="0" name="bottom_1"/>
-  <anchor x="698" y="345" name="top_2"/>
-  <anchor x="655" y="0" name="bottom_2"/>
-  <anchor x="655" y="174" name="center_2"/>
-  <anchor x="1023" y="690" name="top_3"/>
+  <anchor x="145" y="692" name="top_1"/>
+  <anchor x="145" y="0" name="bottom_1"/>
+  <anchor x="698" y="348" name="top_2"/>
+  <anchor x="656" y="0" name="bottom_2"/>
+  <anchor x="656" y="174" name="center_2"/>
+  <anchor x="1023" y="693" name="top_3"/>
   <anchor x="1023" y="0" name="bottom_3"/>
   <outline>
     <component base="_dot" xOffset="457" yOffset="266"/>

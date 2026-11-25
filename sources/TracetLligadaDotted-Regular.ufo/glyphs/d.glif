@@ -2,10 +2,10 @@
 <glyph name="d" format="2">
   <advance width="478"/>
   <unicode hex="0064"/>
-  <anchor x="361" y="707" name="top"/>
+  <anchor x="361" y="710" name="top"/>
   <anchor x="361" y="0" name="bottom"/>
-  <anchor x="361" y="545" name="bar"/>
-  <anchor x="408" y="707" name="caronvert"/>
+  <anchor x="361" y="547" name="bar"/>
+  <anchor x="411" y="710" name="caronvert"/>
   <outline>
     <component base="_dot" xOffset="354" yOffset="114"/>
     <component base="_dot" xOffset="81" yOffset="124"/>

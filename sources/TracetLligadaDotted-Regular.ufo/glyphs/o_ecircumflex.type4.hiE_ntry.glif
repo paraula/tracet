@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o_ecircumflex.type4.hiEntry" format="2">
   <advance width="810"/>
-  <anchor x="274" y="345" name="top_1"/>
-  <anchor x="231" y="0" name="bottom_1"/>
-  <anchor x="231" y="174" name="center_1"/>
-  <anchor x="695" y="345" name="top_2"/>
+  <anchor x="274" y="348" name="top_1"/>
+  <anchor x="232" y="0" name="bottom_1"/>
+  <anchor x="232" y="174" name="center_1"/>
+  <anchor x="695" y="348" name="top_2"/>
   <anchor x="643" y="0" name="bottom_2"/>
-  <anchor x="748" y="0" name="ogonek_2"/>
+  <anchor x="750" y="0" name="ogonek_2"/>
   <outline>
     <component base="_dot" xOffset="532" yOffset="266"/>
     <component base="_dot" xOffset="371" yOffset="272"/>

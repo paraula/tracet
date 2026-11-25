@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="w_ugrave.liga" format="2">
   <advance width="1311"/>
-  <anchor x="372" y="343" name="top_1"/>
+  <anchor x="372" y="346" name="top_1"/>
   <anchor x="433" y="0" name="bottom_1"/>
-  <anchor x="1094" y="364" name="top_2"/>
+  <anchor x="1094" y="367" name="top_2"/>
   <anchor x="1071" y="0" name="bottom_2"/>
-  <anchor x="1217" y="0" name="ogonek_2"/>
+  <anchor x="1218" y="0" name="ogonek_2"/>
   <outline>
     <component base="_dot" xOffset="831" yOffset="272"/>
     <component base="_dot" xOffset="626" yOffset="280"/>

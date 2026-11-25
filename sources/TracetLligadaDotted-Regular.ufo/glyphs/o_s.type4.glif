@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o_s.type4" format="2">
   <advance width="856"/>
-  <anchor x="266" y="345" name="top_1"/>
-  <anchor x="223" y="0" name="bottom_1"/>
-  <anchor x="223" y="174" name="center_1"/>
-  <anchor x="614" y="379" name="top_2"/>
-  <anchor x="666" y="0" name="bottom_2"/>
+  <anchor x="266" y="348" name="top_1"/>
+  <anchor x="224" y="0" name="bottom_1"/>
+  <anchor x="224" y="174" name="center_1"/>
+  <anchor x="610" y="382" name="top_2"/>
+  <anchor x="662" y="0" name="bottom_2"/>
   <outline>
     <component base="_dot" xOffset="554" yOffset="266"/>
     <component base="_dot" xOffset="366" yOffset="268"/>

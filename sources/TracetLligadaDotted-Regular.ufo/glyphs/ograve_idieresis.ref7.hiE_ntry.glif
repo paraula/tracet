@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ograve_idieresis.ref7.hiEntry" format="2">
   <advance width="768"/>
-  <anchor x="286" y="345" name="top_1"/>
-  <anchor x="243" y="0" name="bottom_1"/>
-  <anchor x="243" y="174" name="center_1"/>
-  <anchor x="734" y="337" name="top_2"/>
-  <anchor x="734" y="0" name="bottom_2"/>
-  <anchor x="712" y="0" name="ogonek_2"/>
+  <anchor x="286" y="348" name="top_1"/>
+  <anchor x="244" y="0" name="bottom_1"/>
+  <anchor x="244" y="174" name="center_1"/>
+  <anchor x="733" y="340" name="top_2"/>
+  <anchor x="733" y="0" name="bottom_2"/>
+  <anchor x="714" y="0" name="ogonek_2"/>
   <outline>
     <contour>
       <point x="560" y="514" type="curve" smooth="yes"/>

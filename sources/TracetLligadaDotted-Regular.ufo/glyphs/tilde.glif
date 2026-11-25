@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tilde" format="2">
-  <advance width="373"/>
+  <advance width="379"/>
   <unicode hex="02DC"/>
   <outline>
-    <component base="_dot" xOffset="242" yOffset="409"/>
-    <component base="_dot" xOffset="186" yOffset="416"/>
-    <component base="_dot" xOffset="77" yOffset="417"/>
-    <component base="_dot" xOffset="296" yOffset="424"/>
-    <component base="_dot" xOffset="132" yOffset="427"/>
+    <component base="_dot" xOffset="135" yOffset="427"/>
+    <component base="_dot" xOffset="245" yOffset="409"/>
+    <component base="_dot" xOffset="189" yOffset="416"/>
+    <component base="_dot" xOffset="80" yOffset="417"/>
+    <component base="_dot" xOffset="299" yOffset="424"/>
   </outline>
 </glyph>

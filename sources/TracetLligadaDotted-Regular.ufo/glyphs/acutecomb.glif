@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acutecomb" format="2">
   <unicode hex="0301"/>
-  <anchor x="0" y="339" name="_top"/>
+  <anchor x="0" y="342" name="_top"/>
   <outline>
+    <component base="_dot" yOffset="452"/>
+    <component base="_dot" xOffset="46" yOffset="480"/>
     <component base="_dot" xOffset="90" yOffset="507"/>
     <component base="_dot" xOffset="-90" yOffset="397"/>
     <component base="_dot" xOffset="-46" yOffset="425"/>
-    <component base="_dot" yOffset="452"/>
-    <component base="_dot" xOffset="46" yOffset="480"/>
   </outline>
 </glyph>

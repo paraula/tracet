@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ograve.hiEntry" format="2">
   <advance width="474"/>
-  <anchor x="278" y="345" name="top"/>
-  <anchor x="235" y="0" name="bottom"/>
-  <anchor x="235" y="174" name="center"/>
+  <anchor x="278" y="348" name="top"/>
+  <anchor x="236" y="0" name="bottom"/>
+  <anchor x="236" y="174" name="center"/>
   <outline>
     <component base="_dot" xOffset="369" yOffset="275"/>
     <component base="_dot" xOffset="330" yOffset="315"/>

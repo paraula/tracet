@@ -2,7 +2,7 @@
 <glyph name="q" format="2">
   <advance width="468"/>
   <unicode hex="0071"/>
-  <anchor x="208" y="345" name="top"/>
+  <anchor x="208" y="348" name="top"/>
   <anchor x="234" y="0" name="bottom"/>
   <outline>
     <contour>

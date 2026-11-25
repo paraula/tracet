@@ -4560,6 +4560,50 @@
       <string>hungarumlaut</string>
       <string>cedilla</string>
       <string>ogonek</string>
+      <string>eth</string>
+      <string>o_eth.high1</string>
+      <string>o_eth.high1.hiEntry</string>
+      <string>o_eth.high1.hiEntry.oacute</string>
+      <string>o_eth.high1.hiEntry.ocircumflex</string>
+      <string>o_eth.high1.hiEntry.odieresis</string>
+      <string>o_eth.high1.hiEntry.ograve</string>
+      <string>thorn</string>
+      <string>o_thorn.type4</string>
+      <string>o_thorn.type4.hiEntry</string>
+      <string>o_thorn.type4.hiEntry.oacute</string>
+      <string>o_thorn.type4.hiEntry.ocircumflex</string>
+      <string>o_thorn.type4.hiEntry.odieresis</string>
+      <string>o_thorn.type4.hiEntry.ograve</string>
+      <string>dotjoin88.eth</string>
+      <string>dotjoin96.thorn</string>
+      <string>dotjoin525.eth</string>
+      <string>dotjoin526.eth</string>
+      <string>dotjoin527.eth</string>
+      <string>dotjoin528.eth</string>
+      <string>dotjoin557.thorn</string>
+      <string>dotjoin558.thorn</string>
+      <string>dotjoin559.thorn</string>
+      <string>dotjoin560.thorn</string>
+      <string>dotjoin748.eth</string>
+      <string>dotjoin756.thorn</string>
+      <string>dotjoin1185.eth</string>
+      <string>dotjoin1186.eth</string>
+      <string>dotjoin1187.eth</string>
+      <string>dotjoin1188.eth</string>
+      <string>dotjoin1217.thorn</string>
+      <string>dotjoin1218.thorn</string>
+      <string>dotjoin1219.thorn</string>
+      <string>dotjoin1220.thorn</string>
+      <string>dotjoin1408.eth</string>
+      <string>dotjoin1416.thorn</string>
+      <string>dotjoin1845.eth</string>
+      <string>dotjoin1846.eth</string>
+      <string>dotjoin1847.eth</string>
+      <string>dotjoin1848.eth</string>
+      <string>dotjoin1877.thorn</string>
+      <string>dotjoin1878.thorn</string>
+      <string>dotjoin1879.thorn</string>
+      <string>dotjoin1880.thorn</string>
     </array>
     <key>public.openTypeCategories</key>
     <dict>
@@ -4626,6 +4670,8 @@
       <key>adieresis</key>
       <string>base</string>
       <key>agrave</key>
+      <string>base</string>
+      <key>atilde</key>
       <string>base</string>
       <key>b</key>
       <string>base</string>
@@ -5323,6 +5369,8 @@
       <string>mark</string>
       <key>c</key>
       <string>base</string>
+      <key>cacute</key>
+      <string>base</string>
       <key>caronvert.mark</key>
       <string>mark</string>
       <key>ccedilla</key>
@@ -5342,6 +5390,8 @@
       <key>edieresis</key>
       <string>base</string>
       <key>egrave</key>
+      <string>base</string>
+      <key>eth</key>
       <string>base</string>
       <key>f</key>
       <string>base</string>
@@ -5371,9 +5421,13 @@
       <string>base</string>
       <key>l</key>
       <string>base</string>
+      <key>lacute</key>
+      <string>base</string>
       <key>m</key>
       <string>base</string>
       <key>n</key>
+      <string>base</string>
+      <key>nacute</key>
       <string>base</string>
       <key>ntilde</key>
       <string>base</string>
@@ -5669,6 +5723,18 @@
       <string>ligature</string>
       <key>o_egrave.type4.hiEntry.ograve</key>
       <string>ligature</string>
+      <key>o_eth.high1</key>
+      <string>ligature</string>
+      <key>o_eth.high1.hiEntry</key>
+      <string>ligature</string>
+      <key>o_eth.high1.hiEntry.oacute</key>
+      <string>ligature</string>
+      <key>o_eth.high1.hiEntry.ocircumflex</key>
+      <string>ligature</string>
+      <key>o_eth.high1.hiEntry.odieresis</key>
+      <string>ligature</string>
+      <key>o_eth.high1.hiEntry.ograve</key>
+      <string>ligature</string>
       <key>o_f.type4</key>
       <string>ligature</string>
       <key>o_f.type4.hiEntry</key>
@@ -5892,6 +5958,18 @@
       <key>o_t.high2.hiEntry.odieresis</key>
       <string>ligature</string>
       <key>o_t.high2.hiEntry.ograve</key>
+      <string>ligature</string>
+      <key>o_thorn.type4</key>
+      <string>ligature</string>
+      <key>o_thorn.type4.hiEntry</key>
+      <string>ligature</string>
+      <key>o_thorn.type4.hiEntry.oacute</key>
+      <string>ligature</string>
+      <key>o_thorn.type4.hiEntry.ocircumflex</key>
+      <string>ligature</string>
+      <key>o_thorn.type4.hiEntry.odieresis</key>
+      <string>ligature</string>
+      <key>o_thorn.type4.hiEntry.ograve</key>
       <string>ligature</string>
       <key>o_u.high2</key>
       <string>ligature</string>
@@ -7805,19 +7883,29 @@
       <string>ligature</string>
       <key>ograve_z.ref7.hiEntry</key>
       <string>ligature</string>
+      <key>otilde</key>
+      <string>base</string>
       <key>p</key>
       <string>base</string>
       <key>q</key>
       <string>base</string>
       <key>r</key>
       <string>base</string>
+      <key>racute</key>
+      <string>base</string>
       <key>s</key>
+      <string>base</string>
+      <key>sacute</key>
+      <string>base</string>
+      <key>scedilla</key>
       <string>base</string>
       <key>slash.mark</key>
       <string>mark</string>
       <key>slashlong.mark</key>
       <string>mark</string>
       <key>t</key>
+      <string>base</string>
+      <key>thorn</key>
       <string>base</string>
       <key>tildecomb</key>
       <string>mark</string>
@@ -9237,11 +9325,29 @@
       <string>ligature</string>
       <key>w_ugrave.liga</key>
       <string>ligature</string>
+      <key>wacute</key>
+      <string>base</string>
+      <key>wcircumflex</key>
+      <string>base</string>
+      <key>wdieresis</key>
+      <string>base</string>
+      <key>wgrave</key>
+      <string>base</string>
       <key>x</key>
       <string>base</string>
       <key>y</key>
       <string>base</string>
+      <key>yacute</key>
+      <string>base</string>
+      <key>ycircumflex</key>
+      <string>base</string>
+      <key>ydieresis</key>
+      <string>base</string>
+      <key>ygrave</key>
+      <string>base</string>
       <key>z</key>
+      <string>base</string>
+      <key>zacute</key>
       <string>base</string>
     </dict>
     <key>public.openTypeMeta</key>

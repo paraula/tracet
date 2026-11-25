@@ -1420,12 +1420,20 @@
     <string>dotjoin1184.glif</string>
     <key>dotjoin1185</key>
     <string>dotjoin1185.glif</string>
+    <key>dotjoin1185.eth</key>
+    <string>dotjoin1185.eth.glif</string>
     <key>dotjoin1186</key>
     <string>dotjoin1186.glif</string>
+    <key>dotjoin1186.eth</key>
+    <string>dotjoin1186.eth.glif</string>
     <key>dotjoin1187</key>
     <string>dotjoin1187.glif</string>
+    <key>dotjoin1187.eth</key>
+    <string>dotjoin1187.eth.glif</string>
     <key>dotjoin1188</key>
     <string>dotjoin1188.glif</string>
+    <key>dotjoin1188.eth</key>
+    <string>dotjoin1188.eth.glif</string>
     <key>dotjoin1189</key>
     <string>dotjoin1189.glif</string>
     <key>dotjoin119</key>
@@ -1492,14 +1500,22 @@
     <string>dotjoin1216.glif</string>
     <key>dotjoin1217</key>
     <string>dotjoin1217.glif</string>
+    <key>dotjoin1217.thorn</key>
+    <string>dotjoin1217.thorn.glif</string>
     <key>dotjoin1218</key>
     <string>dotjoin1218.glif</string>
+    <key>dotjoin1218.thorn</key>
+    <string>dotjoin1218.thorn.glif</string>
     <key>dotjoin1219</key>
     <string>dotjoin1219.glif</string>
+    <key>dotjoin1219.thorn</key>
+    <string>dotjoin1219.thorn.glif</string>
     <key>dotjoin122</key>
     <string>dotjoin122.glif</string>
     <key>dotjoin1220</key>
     <string>dotjoin1220.glif</string>
+    <key>dotjoin1220.thorn</key>
+    <string>dotjoin1220.thorn.glif</string>
     <key>dotjoin1221</key>
     <string>dotjoin1221.glif</string>
     <key>dotjoin1222</key>
@@ -1916,6 +1932,8 @@
     <string>dotjoin1407.glif</string>
     <key>dotjoin1408</key>
     <string>dotjoin1408.glif</string>
+    <key>dotjoin1408.eth</key>
+    <string>dotjoin1408.eth.glif</string>
     <key>dotjoin1409</key>
     <string>dotjoin1409.glif</string>
     <key>dotjoin141</key>
@@ -1934,6 +1952,8 @@
     <string>dotjoin1415.glif</string>
     <key>dotjoin1416</key>
     <string>dotjoin1416.glif</string>
+    <key>dotjoin1416.thorn</key>
+    <string>dotjoin1416.thorn.glif</string>
     <key>dotjoin1417</key>
     <string>dotjoin1417.glif</string>
     <key>dotjoin1418</key>
@@ -2886,12 +2906,20 @@
     <string>dotjoin1844.glif</string>
     <key>dotjoin1845</key>
     <string>dotjoin1845.glif</string>
+    <key>dotjoin1845.eth</key>
+    <string>dotjoin1845.eth.glif</string>
     <key>dotjoin1846</key>
     <string>dotjoin1846.glif</string>
+    <key>dotjoin1846.eth</key>
+    <string>dotjoin1846.eth.glif</string>
     <key>dotjoin1847</key>
     <string>dotjoin1847.glif</string>
+    <key>dotjoin1847.eth</key>
+    <string>dotjoin1847.eth.glif</string>
     <key>dotjoin1848</key>
     <string>dotjoin1848.glif</string>
+    <key>dotjoin1848.eth</key>
+    <string>dotjoin1848.eth.glif</string>
     <key>dotjoin1849</key>
     <string>dotjoin1849.glif</string>
     <key>dotjoin185</key>
@@ -2956,14 +2984,22 @@
     <string>dotjoin1876.glif</string>
     <key>dotjoin1877</key>
     <string>dotjoin1877.glif</string>
+    <key>dotjoin1877.thorn</key>
+    <string>dotjoin1877.thorn.glif</string>
     <key>dotjoin1878</key>
     <string>dotjoin1878.glif</string>
+    <key>dotjoin1878.thorn</key>
+    <string>dotjoin1878.thorn.glif</string>
     <key>dotjoin1879</key>
     <string>dotjoin1879.glif</string>
+    <key>dotjoin1879.thorn</key>
+    <string>dotjoin1879.thorn.glif</string>
     <key>dotjoin188</key>
     <string>dotjoin188.glif</string>
     <key>dotjoin1880</key>
     <string>dotjoin1880.glif</string>
+    <key>dotjoin1880.thorn</key>
+    <string>dotjoin1880.thorn.glif</string>
     <key>dotjoin1881</key>
     <string>dotjoin1881.glif</string>
     <key>dotjoin1882</key>
@@ -3912,12 +3948,20 @@
     <string>dotjoin524.glif</string>
     <key>dotjoin525</key>
     <string>dotjoin525.glif</string>
+    <key>dotjoin525.eth</key>
+    <string>dotjoin525.eth.glif</string>
     <key>dotjoin526</key>
     <string>dotjoin526.glif</string>
+    <key>dotjoin526.eth</key>
+    <string>dotjoin526.eth.glif</string>
     <key>dotjoin527</key>
     <string>dotjoin527.glif</string>
+    <key>dotjoin527.eth</key>
+    <string>dotjoin527.eth.glif</string>
     <key>dotjoin528</key>
     <string>dotjoin528.glif</string>
+    <key>dotjoin528.eth</key>
+    <string>dotjoin528.eth.glif</string>
     <key>dotjoin529</key>
     <string>dotjoin529.glif</string>
     <key>dotjoin53</key>
@@ -3982,14 +4026,22 @@
     <string>dotjoin556.glif</string>
     <key>dotjoin557</key>
     <string>dotjoin557.glif</string>
+    <key>dotjoin557.thorn</key>
+    <string>dotjoin557.thorn.glif</string>
     <key>dotjoin558</key>
     <string>dotjoin558.glif</string>
+    <key>dotjoin558.thorn</key>
+    <string>dotjoin558.thorn.glif</string>
     <key>dotjoin559</key>
     <string>dotjoin559.glif</string>
+    <key>dotjoin559.thorn</key>
+    <string>dotjoin559.thorn.glif</string>
     <key>dotjoin56</key>
     <string>dotjoin56.glif</string>
     <key>dotjoin560</key>
     <string>dotjoin560.glif</string>
+    <key>dotjoin560.thorn</key>
+    <string>dotjoin560.thorn.glif</string>
     <key>dotjoin561</key>
     <string>dotjoin561.glif</string>
     <key>dotjoin562</key>
@@ -4406,6 +4458,8 @@
     <string>dotjoin747.glif</string>
     <key>dotjoin748</key>
     <string>dotjoin748.glif</string>
+    <key>dotjoin748.eth</key>
+    <string>dotjoin748.eth.glif</string>
     <key>dotjoin749</key>
     <string>dotjoin749.glif</string>
     <key>dotjoin75</key>
@@ -4424,6 +4478,8 @@
     <string>dotjoin755.glif</string>
     <key>dotjoin756</key>
     <string>dotjoin756.glif</string>
+    <key>dotjoin756.thorn</key>
+    <string>dotjoin756.thorn.glif</string>
     <key>dotjoin757</key>
     <string>dotjoin757.glif</string>
     <key>dotjoin758</key>
@@ -4698,6 +4754,8 @@
     <string>dotjoin879.glif</string>
     <key>dotjoin88</key>
     <string>dotjoin88.glif</string>
+    <key>dotjoin88.eth</key>
+    <string>dotjoin88.eth.glif</string>
     <key>dotjoin880</key>
     <string>dotjoin880.glif</string>
     <key>dotjoin881</key>
@@ -4876,6 +4934,8 @@
     <string>dotjoin959.glif</string>
     <key>dotjoin96</key>
     <string>dotjoin96.glif</string>
+    <key>dotjoin96.thorn</key>
+    <string>dotjoin96.thorn.glif</string>
     <key>dotjoin960</key>
     <string>dotjoin960.glif</string>
     <key>dotjoin961</key>
@@ -4994,6 +5054,8 @@
     <string>eogonek.glif</string>
     <key>equal</key>
     <string>equal.glif</string>
+    <key>eth</key>
+    <string>eth.glif</string>
     <key>exclam</key>
     <string>exclam.glif</string>
     <key>exclamdown</key>
@@ -5378,6 +5440,18 @@
     <string>o_egrave.type4.hiE_ntry.odieresis.glif</string>
     <key>o_egrave.type4.hiEntry.ograve</key>
     <string>o_egrave.type4.hiE_ntry.ograve.glif</string>
+    <key>o_eth.high1</key>
+    <string>o_eth.high1.glif</string>
+    <key>o_eth.high1.hiEntry</key>
+    <string>o_eth.high1.hiE_ntry.glif</string>
+    <key>o_eth.high1.hiEntry.oacute</key>
+    <string>o_eth.high1.hiE_ntry.oacute.glif</string>
+    <key>o_eth.high1.hiEntry.ocircumflex</key>
+    <string>o_eth.high1.hiE_ntry.ocircumflex.glif</string>
+    <key>o_eth.high1.hiEntry.odieresis</key>
+    <string>o_eth.high1.hiE_ntry.odieresis.glif</string>
+    <key>o_eth.high1.hiEntry.ograve</key>
+    <string>o_eth.high1.hiE_ntry.ograve.glif</string>
     <key>o_f.type4</key>
     <string>o_f.type4.glif</string>
     <key>o_f.type4.hiEntry</key>
@@ -5602,6 +5676,18 @@
     <string>o_t.high2.hiE_ntry.odieresis.glif</string>
     <key>o_t.high2.hiEntry.ograve</key>
     <string>o_t.high2.hiE_ntry.ograve.glif</string>
+    <key>o_thorn.type4</key>
+    <string>o_thorn.type4.glif</string>
+    <key>o_thorn.type4.hiEntry</key>
+    <string>o_thorn.type4.hiE_ntry.glif</string>
+    <key>o_thorn.type4.hiEntry.oacute</key>
+    <string>o_thorn.type4.hiE_ntry.oacute.glif</string>
+    <key>o_thorn.type4.hiEntry.ocircumflex</key>
+    <string>o_thorn.type4.hiE_ntry.ocircumflex.glif</string>
+    <key>o_thorn.type4.hiEntry.odieresis</key>
+    <string>o_thorn.type4.hiE_ntry.odieresis.glif</string>
+    <key>o_thorn.type4.hiEntry.ograve</key>
+    <string>o_thorn.type4.hiE_ntry.ograve.glif</string>
     <key>o_u.high2</key>
     <string>o_u.high2.glif</string>
     <key>o_u.high2.hiEntry</key>
@@ -7612,6 +7698,8 @@
     <string>t.glif</string>
     <key>tcaron</key>
     <string>tcaron.glif</string>
+    <key>thorn</key>
+    <string>thorn.glif</string>
     <key>three</key>
     <string>three.glif</string>
     <key>tilde</key>

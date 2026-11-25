@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gravecomb" format="2">
   <unicode hex="0300"/>
-  <anchor x="0" y="339" name="_top"/>
+  <anchor x="0" y="342" name="_top"/>
   <outline>
+    <component base="_dot" xOffset="-68" yOffset="452"/>
+    <component base="_dot" xOffset="-114" yOffset="480"/>
     <component base="_dot" xOffset="-160" yOffset="507"/>
     <component base="_dot" xOffset="22" yOffset="397"/>
     <component base="_dot" xOffset="-24" yOffset="425"/>
-    <component base="_dot" xOffset="-68" yOffset="452"/>
-    <component base="_dot" xOffset="-114" yOffset="480"/>
   </outline>
 </glyph>

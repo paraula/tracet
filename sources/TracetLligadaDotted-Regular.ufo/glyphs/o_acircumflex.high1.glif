@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o_acircumflex.high1" format="2">
   <advance width="899"/>
-  <anchor x="270" y="345" name="top_1"/>
-  <anchor x="227" y="0" name="bottom_1"/>
-  <anchor x="227" y="174" name="center_1"/>
-  <anchor x="688" y="339" name="top_2"/>
+  <anchor x="270" y="348" name="top_1"/>
+  <anchor x="228" y="0" name="bottom_1"/>
+  <anchor x="228" y="174" name="center_1"/>
+  <anchor x="688" y="342" name="top_2"/>
   <anchor x="659" y="0" name="bottom_2"/>
-  <anchor x="802" y="0" name="ogonek_2"/>
+  <anchor x="804" y="0" name="ogonek_2"/>
   <outline>
     <component base="_dot" xOffset="361" yOffset="279"/>
     <component base="_dot" xOffset="773" yOffset="286"/>

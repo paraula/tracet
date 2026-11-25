@@ -1,43 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="v_o_udieresis.var56" format="2">
   <advance width="1506"/>
-  <anchor x="246" y="343" name="top_1"/>
+  <anchor x="246" y="346" name="top_1"/>
   <anchor x="306" y="0" name="bottom_1"/>
-  <anchor x="802" y="345" name="top_2"/>
-  <anchor x="759" y="0" name="bottom_2"/>
-  <anchor x="759" y="174" name="center_2"/>
-  <anchor x="1286" y="364" name="top_3"/>
+  <anchor x="802" y="348" name="top_2"/>
+  <anchor x="760" y="0" name="bottom_2"/>
+  <anchor x="760" y="174" name="center_2"/>
+  <anchor x="1286" y="367" name="top_3"/>
   <anchor x="1263" y="0" name="bottom_3"/>
-  <anchor x="1409" y="0" name="ogonek_3"/>
+  <anchor x="1410" y="0" name="ogonek_3"/>
   <outline>
-    <contour>
-      <point x="1194" y="468" type="curve" smooth="yes"/>
-      <point x="1194" y="479"/>
-      <point x="1185" y="488"/>
-      <point x="1174" y="488" type="curve" smooth="yes"/>
-      <point x="1162" y="488"/>
-      <point x="1154" y="479"/>
-      <point x="1154" y="468" type="curve" smooth="yes"/>
-      <point x="1154" y="457"/>
-      <point x="1162" y="448"/>
-      <point x="1174" y="448" type="curve" smooth="yes"/>
-      <point x="1185" y="448"/>
-      <point x="1194" y="457"/>
-    </contour>
-    <contour>
-      <point x="1304" y="468" type="curve" smooth="yes"/>
-      <point x="1304" y="479"/>
-      <point x="1295" y="488"/>
-      <point x="1284" y="488" type="curve" smooth="yes"/>
-      <point x="1272" y="488"/>
-      <point x="1264" y="479"/>
-      <point x="1264" y="468" type="curve" smooth="yes"/>
-      <point x="1264" y="457"/>
-      <point x="1272" y="448"/>
-      <point x="1284" y="448" type="curve" smooth="yes"/>
-      <point x="1295" y="448"/>
-      <point x="1304" y="457"/>
-    </contour>
     <component base="_dot" xOffset="753" yOffset="273"/>
     <component base="_dot" xOffset="587" yOffset="273"/>
     <component base="_dot" xOffset="358" yOffset="279"/>
@@ -110,5 +82,7 @@
     <component base="_dot" xOffset="1123" yOffset="144"/>
     <component base="_dot" xOffset="1354" yOffset="145"/>
     <component base="_dot" xOffset="1356" yOffset="246"/>
+    <component base="_dot" xOffset="1174" yOffset="468"/>
+    <component base="_dot" xOffset="1284" yOffset="468"/>
   </outline>
 </glyph>

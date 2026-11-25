@@ -4,42 +4,109 @@
   <unicode hex="0172"/>
   <outline>
     <contour>
-      <point x="365.0" y="40.0" type="curve" smooth="yes"/>
-      <point x="375.0" y="40.0"/>
-      <point x="382.0" y="47.0"/>
-      <point x="382.0" y="57.0" type="curve" smooth="yes"/>
-      <point x="382.0" y="66.0"/>
-      <point x="375.0" y="74.0"/>
-      <point x="365.0" y="74.0" type="curve" smooth="yes"/>
-      <point x="356.0" y="74.0"/>
-      <point x="348.0" y="66.0"/>
-      <point x="348.0" y="57.0" type="curve" smooth="yes"/>
-      <point x="348.0" y="50.49943923950195"/>
-      <point x="351.3805847167969" y="45.2666015625"/>
-      <point x="356.2188720703125" y="42.40026092529297" type="curve"/>
-      <point x="354.95416259765625" y="42.690818786621094"/>
-      <point x="353.6371154785156" y="42.844329833984375"/>
-      <point x="352.2841796875" y="42.844329833984375" type="curve" smooth="yes"/>
-      <point x="342.6189270019531" y="42.844329833984375"/>
-      <point x="334.7841796875" y="35.00958251953125"/>
-      <point x="334.7841796875" y="25.344329833984375" type="curve" smooth="yes"/>
-      <point x="334.7841796875" y="15.679080963134766"/>
-      <point x="342.6189270019531" y="7.844330310821533"/>
-      <point x="352.2841796875" y="7.844330310821533" type="curve" smooth="yes"/>
-      <point x="361.9494323730469" y="7.844330310821533"/>
-      <point x="369.7841796875" y="15.679080963134766"/>
-      <point x="369.7841796875" y="25.344329833984375" type="curve" smooth="yes"/>
-      <point x="369.7841796875" y="31.77189064025879"/>
-      <point x="366.31927490234375" y="37.389915466308594"/>
-      <point x="361.15533447265625" y="40.43253707885742" type="curve"/>
-      <point x="362.40130615234375" y="40.148292541503906"/>
-      <point x="363.6900634765625" y="40.0"/>
+      <point x="365.0" y="37.0" type="curve" smooth="yes"/>
+      <point x="376.0" y="37.0"/>
+      <point x="385.0" y="46.0"/>
+      <point x="385.0" y="57.0" type="curve" smooth="yes"/>
+      <point x="385.0" y="68.0"/>
+      <point x="376.0" y="77.0"/>
+      <point x="365.0" y="77.0" type="curve" smooth="yes"/>
+      <point x="353.0" y="77.0"/>
+      <point x="345.0" y="68.0"/>
+      <point x="345.0" y="57.0" type="curve" smooth="yes"/>
+      <point x="345.0" y="49.63692092895508"/>
+      <point x="348.58447265625" y="43.169960021972656"/>
+      <point x="354.5537109375" y="39.698524475097656" type="curve"/>
+      <point x="353.8108215332031" y="39.79471969604492"/>
+      <point x="353.05328369140625" y="39.844329833984375"/>
+      <point x="352.2841796875" y="39.844329833984375" type="curve" smooth="yes"/>
+      <point x="342.6189270019531" y="39.844329833984375"/>
+      <point x="334.7841796875" y="32.00958251953125"/>
+      <point x="334.7841796875" y="22.344329833984375" type="curve" smooth="yes"/>
+      <point x="334.7841796875" y="12.679080963134766"/>
+      <point x="342.6189270019531" y="4.844330310821533"/>
+      <point x="352.2841796875" y="4.844330310821533" type="curve" smooth="yes"/>
+      <point x="361.9494323730469" y="4.844330310821533"/>
+      <point x="369.7841796875" y="12.679080963134766"/>
+      <point x="369.7841796875" y="22.344329833984375" type="curve" smooth="yes"/>
+      <point x="369.7841796875" y="28.666975021362305"/>
+      <point x="366.43145751953125" y="34.20629119873047"/>
+      <point x="361.4068298339844" y="37.281490325927734" type="curve"/>
+      <point x="362.5587463378906" y="37.09642028808594"/>
+      <point x="363.7579345703125" y="37.0"/>
     </contour>
-    <component base="_dot" xOffset="307" yOffset="-8"/>
-    <component base="_dot" xOffset="276" yOffset="-107"/>
-    <component base="_dot" xOffset="370" yOffset="-100"/>
-    <component base="_dot" xOffset="273" yOffset="-53"/>
-    <component base="_dot" xOffset="323" yOffset="-130"/>
+    <contour>
+      <point x="324.2872314453125" y="-10.939210891723633" type="curve" smooth="yes"/>
+      <point x="324.2872314453125" y="-1.273961067199707"/>
+      <point x="316.4524841308594" y="6.560789108276367"/>
+      <point x="306.7872314453125" y="6.560789108276367" type="curve" smooth="yes"/>
+      <point x="297.1219787597656" y="6.560789108276367"/>
+      <point x="289.2872314453125" y="-1.273961067199707"/>
+      <point x="289.2872314453125" y="-10.939210891723633" type="curve" smooth="yes"/>
+      <point x="289.2872314453125" y="-20.604461669921875"/>
+      <point x="297.1219787597656" y="-28.439212799072266"/>
+      <point x="306.7872314453125" y="-28.439212799072266" type="curve" smooth="yes"/>
+      <point x="316.4524841308594" y="-28.439212799072266"/>
+      <point x="324.2872314453125" y="-20.604461669921875"/>
+    </contour>
+    <contour>
+      <point x="293.9555358886719" y="-110.2164306640625" type="curve" smooth="yes"/>
+      <point x="293.9555358886719" y="-100.55117797851562"/>
+      <point x="286.12078857421875" y="-92.7164306640625"/>
+      <point x="276.4555358886719" y="-92.7164306640625" type="curve" smooth="yes"/>
+      <point x="266.790283203125" y="-92.7164306640625"/>
+      <point x="258.9555358886719" y="-100.55117797851562"/>
+      <point x="258.9555358886719" y="-110.2164306640625" type="curve" smooth="yes"/>
+      <point x="258.9555358886719" y="-119.88168334960938"/>
+      <point x="266.790283203125" y="-127.7164306640625"/>
+      <point x="276.4555358886719" y="-127.7164306640625" type="curve" smooth="yes"/>
+      <point x="286.12078857421875" y="-127.7164306640625"/>
+      <point x="293.9555358886719" y="-119.88168334960938"/>
+    </contour>
+    <contour>
+      <point x="387.42340087890625" y="-103.1683349609375" type="curve" smooth="yes"/>
+      <point x="387.42340087890625" y="-93.50308227539062"/>
+      <point x="379.5886535644531" y="-85.6683349609375"/>
+      <point x="369.92340087890625" y="-85.6683349609375" type="curve" smooth="yes"/>
+      <point x="360.2581481933594" y="-85.6683349609375"/>
+      <point x="352.42340087890625" y="-93.50308227539062"/>
+      <point x="352.42340087890625" y="-103.1683349609375" type="curve" smooth="yes"/>
+      <point x="352.42340087890625" y="-112.83358001708984"/>
+      <point x="360.2581481933594" y="-120.6683349609375"/>
+      <point x="369.92340087890625" y="-120.6683349609375" type="curve" smooth="yes"/>
+      <point x="379.5886535644531" y="-120.6683349609375"/>
+      <point x="387.42340087890625" y="-112.83358001708984"/>
+    </contour>
+    <contour>
+      <point x="290.97039794921875" y="-55.9223747253418" type="curve" smooth="yes"/>
+      <point x="290.97039794921875" y="-46.25712585449219"/>
+      <point x="283.1356506347656" y="-38.4223747253418"/>
+      <point x="273.47039794921875" y="-38.4223747253418" type="curve" smooth="yes"/>
+      <point x="263.8051452636719" y="-38.4223747253418"/>
+      <point x="255.97039794921875" y="-46.25712585449219"/>
+      <point x="255.97039794921875" y="-55.9223747253418" type="curve" smooth="yes"/>
+      <point x="255.97039794921875" y="-65.5876235961914"/>
+      <point x="263.8051452636719" y="-73.42237091064453"/>
+      <point x="273.47039794921875" y="-73.42237091064453" type="curve" smooth="yes"/>
+      <point x="283.1356506347656" y="-73.42237091064453"/>
+      <point x="290.97039794921875" y="-65.5876235961914"/>
+    </contour>
+    <contour>
+      <point x="340.58740234375" y="-133.3708038330078" type="curve" smooth="yes"/>
+      <point x="340.58740234375" y="-123.70555114746094"/>
+      <point x="332.7526550292969" y="-115.87080383300781"/>
+      <point x="323.08740234375" y="-115.87080383300781" type="curve" smooth="yes"/>
+      <point x="313.42218017578125" y="-115.87080383300781"/>
+      <point x="305.58740234375" y="-123.70555114746094"/>
+      <point x="305.58740234375" y="-133.3708038330078" type="curve" smooth="yes"/>
+      <point x="305.58740234375" y="-143.0360565185547"/>
+      <point x="313.42218017578125" y="-150.8708038330078"/>
+      <point x="323.08740234375" y="-150.8708038330078" type="curve" smooth="yes"/>
+      <point x="332.7526550292969" y="-150.8708038330078"/>
+      <point x="340.58740234375" y="-143.0360565185547"/>
+    </contour>
+    <component base="_dot" xOffset="67" yOffset="475"/>
+    <component base="_dot" xOffset="449" yOffset="477"/>
     <component base="_dot" xOffset="67" yOffset="531"/>
     <component base="_dot" xOffset="449" yOffset="533"/>
     <component base="_dot" xOffset="67" yOffset="587"/>
@@ -48,25 +115,23 @@
     <component base="_dot" xOffset="449" yOffset="645"/>
     <component base="_dot" xOffset="67" yOffset="699"/>
     <component base="_dot" xOffset="449" yOffset="701"/>
-    <component base="_dot" xOffset="153" yOffset="57"/>
-    <component base="_dot" xOffset="112" yOffset="94"/>
-    <component base="_dot" xOffset="406" yOffset="95"/>
-    <component base="_dot" xOffset="259" yOffset="26"/>
-    <component base="_dot" xOffset="204" yOffset="33"/>
-    <component base="_dot" xOffset="314" yOffset="34"/>
-    <component base="_dot" xOffset="82" yOffset="142"/>
-    <component base="_dot" xOffset="435" yOffset="143"/>
-    <component base="_dot" xOffset="68" yOffset="195"/>
-    <component base="_dot" xOffset="448" yOffset="197"/>
-    <component base="_dot" xOffset="67" yOffset="251"/>
-    <component base="_dot" xOffset="449" yOffset="253"/>
     <component base="_dot" xOffset="67" yOffset="307"/>
     <component base="_dot" xOffset="449" yOffset="309"/>
     <component base="_dot" xOffset="67" yOffset="363"/>
     <component base="_dot" xOffset="449" yOffset="365"/>
     <component base="_dot" xOffset="67" yOffset="419"/>
     <component base="_dot" xOffset="449" yOffset="421"/>
-    <component base="_dot" xOffset="67" yOffset="475"/>
-    <component base="_dot" xOffset="449" yOffset="477"/>
+    <component base="_dot" xOffset="259" yOffset="26"/>
+    <component base="_dot" xOffset="204" yOffset="33"/>
+    <component base="_dot" xOffset="314" yOffset="34"/>
+    <component base="_dot" xOffset="153" yOffset="57"/>
+    <component base="_dot" xOffset="112" yOffset="94"/>
+    <component base="_dot" xOffset="406" yOffset="95"/>
+    <component base="_dot" xOffset="67" yOffset="251"/>
+    <component base="_dot" xOffset="449" yOffset="253"/>
+    <component base="_dot" xOffset="82" yOffset="142"/>
+    <component base="_dot" xOffset="435" yOffset="143"/>
+    <component base="_dot" xOffset="68" yOffset="195"/>
+    <component base="_dot" xOffset="448" yOffset="197"/>
   </outline>
 </glyph>

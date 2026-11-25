@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oacute_iacute.ref7.hiEntry" format="2">
   <advance width="768"/>
-  <anchor x="286" y="345" name="top_1"/>
-  <anchor x="243" y="0" name="bottom_1"/>
-  <anchor x="243" y="174" name="center_1"/>
-  <anchor x="738" y="337" name="top_2"/>
-  <anchor x="738" y="0" name="bottom_2"/>
-  <anchor x="716" y="0" name="ogonek_2"/>
+  <anchor x="286" y="348" name="top_1"/>
+  <anchor x="244" y="0" name="bottom_1"/>
+  <anchor x="244" y="174" name="center_1"/>
+  <anchor x="737" y="340" name="top_2"/>
+  <anchor x="737" y="0" name="bottom_2"/>
+  <anchor x="718" y="0" name="ogonek_2"/>
   <outline>
     <component base="_dot" xOffset="376" yOffset="122"/>
     <component base="_dot" xOffset="606" yOffset="148"/>

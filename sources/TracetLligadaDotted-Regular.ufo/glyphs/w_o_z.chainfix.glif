@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="w_o_z.chainfix" format="2">
   <advance width="1706"/>
-  <anchor x="376" y="343" name="top_1"/>
+  <anchor x="376" y="346" name="top_1"/>
   <anchor x="437" y="0" name="bottom_1"/>
-  <anchor x="1058" y="345" name="top_2"/>
-  <anchor x="1015" y="0" name="bottom_2"/>
-  <anchor x="1015" y="174" name="center_2"/>
-  <anchor x="1518" y="378" name="top_3"/>
+  <anchor x="1062" y="348" name="top_2"/>
+  <anchor x="1020" y="0" name="bottom_2"/>
+  <anchor x="1020" y="174" name="center_2"/>
+  <anchor x="1518" y="381" name="top_3"/>
   <anchor x="1519" y="0" name="bottom_3"/>
   <outline>
     <component base="_dot" xOffset="853" yOffset="275"/>

@@ -3,34 +3,6 @@
   <advance width="624"/>
   <unicode hex="00C4"/>
   <outline>
-    <contour>
-      <point x="389" y="803" type="curve" smooth="yes"/>
-      <point x="389" y="814"/>
-      <point x="380" y="823"/>
-      <point x="369" y="823" type="curve" smooth="yes"/>
-      <point x="358" y="823"/>
-      <point x="349" y="814"/>
-      <point x="349" y="803" type="curve" smooth="yes"/>
-      <point x="349" y="792"/>
-      <point x="358" y="783"/>
-      <point x="369" y="783" type="curve" smooth="yes"/>
-      <point x="380" y="783"/>
-      <point x="389" y="792"/>
-    </contour>
-    <contour>
-      <point x="269" y="803" type="curve" smooth="yes"/>
-      <point x="269" y="814"/>
-      <point x="260" y="823"/>
-      <point x="249" y="823" type="curve" smooth="yes"/>
-      <point x="237" y="823"/>
-      <point x="229" y="814"/>
-      <point x="229" y="803" type="curve" smooth="yes"/>
-      <point x="229" y="792"/>
-      <point x="237" y="783"/>
-      <point x="249" y="783" type="curve" smooth="yes"/>
-      <point x="260" y="783"/>
-      <point x="269" y="792"/>
-    </contour>
     <component base="_dot" xOffset="283" yOffset="288"/>
     <component base="_dot" xOffset="340" yOffset="288"/>
     <component base="_dot" xOffset="397" yOffset="288"/>
@@ -60,5 +32,7 @@
     <component base="_dot" xOffset="106" yOffset="129"/>
     <component base="_dot" xOffset="67" yOffset="19"/>
     <component base="_dot" xOffset="86" yOffset="74"/>
+    <component base="_dot" xOffset="369" yOffset="803"/>
+    <component base="_dot" xOffset="249" yOffset="803"/>
   </outline>
 </glyph>

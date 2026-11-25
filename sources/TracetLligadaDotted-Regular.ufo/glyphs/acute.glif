@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acute" format="2">
-  <advance width="335"/>
+  <advance width="341"/>
   <unicode hex="00B4"/>
   <outline>
-    <component base="_dot" xOffset="258" yOffset="507"/>
-    <component base="_dot" xOffset="77" yOffset="397"/>
-    <component base="_dot" xOffset="122" yOffset="425"/>
-    <component base="_dot" xOffset="168" yOffset="452"/>
-    <component base="_dot" xOffset="213" yOffset="480"/>
+    <component base="_dot" xOffset="171" yOffset="452"/>
+    <component base="_dot" xOffset="216" yOffset="480"/>
+    <component base="_dot" xOffset="261" yOffset="507"/>
+    <component base="_dot" xOffset="80" yOffset="397"/>
+    <component base="_dot" xOffset="125" yOffset="425"/>
   </outline>
 </glyph>

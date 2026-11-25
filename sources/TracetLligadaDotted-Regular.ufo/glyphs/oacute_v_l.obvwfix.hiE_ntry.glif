@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oacute_v_l.obvwfix.hiEntry" format="2">
   <advance width="1208"/>
-  <anchor x="282" y="345" name="top_1"/>
-  <anchor x="239" y="0" name="bottom_1"/>
-  <anchor x="239" y="174" name="center_1"/>
-  <anchor x="690" y="343" name="top_2"/>
+  <anchor x="282" y="348" name="top_1"/>
+  <anchor x="240" y="0" name="bottom_1"/>
+  <anchor x="240" y="174" name="center_1"/>
+  <anchor x="690" y="346" name="top_2"/>
   <anchor x="750" y="0" name="bottom_2"/>
-  <anchor x="1105" y="690" name="top_3"/>
+  <anchor x="1105" y="693" name="top_3"/>
   <anchor x="1105" y="0" name="bottom_3"/>
-  <anchor x="1092" y="433" name="slash_3"/>
-  <anchor x="1200" y="690" name="caronvert_3"/>
+  <anchor x="1093" y="434" name="slash_3"/>
+  <anchor x="1202" y="693" name="caronvert_3"/>
   <outline>
     <component base="_dot" xOffset="270" yOffset="266"/>
     <component base="_dot" xOffset="999" yOffset="268"/>

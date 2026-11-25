@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="v_o_u.var56" format="2">
   <advance width="1506"/>
-  <anchor x="246" y="343" name="top_1"/>
+  <anchor x="246" y="346" name="top_1"/>
   <anchor x="306" y="0" name="bottom_1"/>
-  <anchor x="802" y="345" name="top_2"/>
-  <anchor x="759" y="0" name="bottom_2"/>
-  <anchor x="759" y="174" name="center_2"/>
-  <anchor x="1286" y="364" name="top_3"/>
+  <anchor x="802" y="348" name="top_2"/>
+  <anchor x="760" y="0" name="bottom_2"/>
+  <anchor x="760" y="174" name="center_2"/>
+  <anchor x="1286" y="367" name="top_3"/>
   <anchor x="1263" y="0" name="bottom_3"/>
-  <anchor x="1409" y="0" name="ogonek_3"/>
+  <anchor x="1410" y="0" name="ogonek_3"/>
   <outline>
     <component base="_dot" xOffset="753" yOffset="273"/>
     <component base="_dot" xOffset="587" yOffset="273"/>

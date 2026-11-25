@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="b.beforeO" format="2">
   <advance width="417"/>
-  <anchor x="142" y="689" name="top"/>
-  <anchor x="142" y="0" name="bottom"/>
+  <anchor x="141" y="692" name="top"/>
+  <anchor x="141" y="0" name="bottom"/>
   <outline>
     <component base="_dot" xOffset="483" yOffset="272"/>
     <component base="_dot" xOffset="542" yOffset="290"/>

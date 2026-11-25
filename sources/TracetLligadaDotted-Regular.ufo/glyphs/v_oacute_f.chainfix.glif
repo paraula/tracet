@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="v_oacute_f.chainfix" format="2">
   <advance width="1290"/>
-  <anchor x="246" y="343" name="top_1"/>
+  <anchor x="246" y="346" name="top_1"/>
   <anchor x="306" y="0" name="bottom_1"/>
-  <anchor x="794" y="345" name="top_2"/>
-  <anchor x="751" y="0" name="bottom_2"/>
-  <anchor x="751" y="174" name="center_2"/>
-  <anchor x="1136" y="692" name="top_3"/>
+  <anchor x="794" y="348" name="top_2"/>
+  <anchor x="752" y="0" name="bottom_2"/>
+  <anchor x="752" y="174" name="center_2"/>
+  <anchor x="1136" y="695" name="top_3"/>
   <anchor x="1136" y="0" name="bottom_3"/>
   <outline>
     <component base="_dot" xOffset="587" yOffset="274"/>

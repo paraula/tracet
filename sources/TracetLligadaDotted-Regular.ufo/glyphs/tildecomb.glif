@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tildecomb" format="2">
   <unicode hex="0303"/>
-  <anchor x="0" y="339" name="_top"/>
+  <anchor x="0" y="342" name="_top"/>
   <outline>
+    <component base="_dot" xOffset="-54" yOffset="427"/>
     <component base="_dot" xOffset="56" yOffset="409"/>
     <component base="_dot" yOffset="416"/>
-    <component base="_dot" xOffset="-110" yOffset="417"/>
+    <component base="_dot" xOffset="-109" yOffset="417"/>
     <component base="_dot" xOffset="110" yOffset="424"/>
-    <component base="_dot" xOffset="-54" yOffset="427"/>
   </outline>
 </glyph>

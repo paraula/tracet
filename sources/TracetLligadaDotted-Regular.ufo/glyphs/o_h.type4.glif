@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o_h.type4" format="2">
   <advance width="951"/>
-  <anchor x="266" y="345" name="top_1"/>
-  <anchor x="223" y="0" name="bottom_1"/>
-  <anchor x="223" y="174" name="center_1"/>
-  <anchor x="595" y="690" name="top_2"/>
+  <anchor x="266" y="348" name="top_1"/>
+  <anchor x="224" y="0" name="bottom_1"/>
+  <anchor x="224" y="174" name="center_1"/>
+  <anchor x="595" y="693" name="top_2"/>
   <anchor x="595" y="0" name="bottom_2"/>
-  <anchor x="593" y="536" name="bar_2"/>
+  <anchor x="593" y="537" name="bar_2"/>
   <outline>
     <component base="_dot" xOffset="364" yOffset="273"/>
     <component base="_dot" xOffset="777" yOffset="288"/>

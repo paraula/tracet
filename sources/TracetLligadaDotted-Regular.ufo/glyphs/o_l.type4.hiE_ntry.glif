@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o_l.type4.hiEntry" format="2">
   <advance width="712"/>
-  <anchor x="274" y="345" name="top_1"/>
-  <anchor x="231" y="0" name="bottom_1"/>
-  <anchor x="231" y="174" name="center_1"/>
-  <anchor x="601" y="690" name="top_2"/>
+  <anchor x="274" y="348" name="top_1"/>
+  <anchor x="232" y="0" name="bottom_1"/>
+  <anchor x="232" y="174" name="center_1"/>
+  <anchor x="601" y="693" name="top_2"/>
   <anchor x="601" y="0" name="bottom_2"/>
-  <anchor x="588" y="433" name="slash_2"/>
-  <anchor x="696" y="690" name="caronvert_2"/>
+  <anchor x="589" y="434" name="slash_2"/>
+  <anchor x="698" y="693" name="caronvert_2"/>
   <outline>
     <component base="_dot" xOffset="371" yOffset="272"/>
     <component base="_dot" xOffset="551" yOffset="286"/>

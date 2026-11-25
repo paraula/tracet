@@ -1,41 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o_adieresis.high1.hiEntry.ograve" format="2">
   <advance width="905"/>
-  <anchor x="278" y="345" name="top_1"/>
-  <anchor x="235" y="0" name="bottom_1"/>
-  <anchor x="235" y="174" name="center_1"/>
-  <anchor x="696" y="339" name="top_2"/>
+  <anchor x="278" y="348" name="top_1"/>
+  <anchor x="236" y="0" name="bottom_1"/>
+  <anchor x="236" y="174" name="center_1"/>
+  <anchor x="696" y="342" name="top_2"/>
   <anchor x="667" y="0" name="bottom_2"/>
-  <anchor x="810" y="0" name="ogonek_2"/>
+  <anchor x="812" y="0" name="ogonek_2"/>
   <outline>
-    <contour>
-      <point x="616" y="467" type="curve" smooth="yes"/>
-      <point x="616" y="478"/>
-      <point x="607" y="487"/>
-      <point x="596" y="487" type="curve" smooth="yes"/>
-      <point x="584" y="487"/>
-      <point x="576" y="478"/>
-      <point x="576" y="467" type="curve" smooth="yes"/>
-      <point x="576" y="456"/>
-      <point x="584" y="447"/>
-      <point x="596" y="447" type="curve" smooth="yes"/>
-      <point x="607" y="447"/>
-      <point x="616" y="456"/>
-    </contour>
-    <contour>
-      <point x="726" y="467" type="curve" smooth="yes"/>
-      <point x="726" y="478"/>
-      <point x="717" y="487"/>
-      <point x="706" y="487" type="curve" smooth="yes"/>
-      <point x="694" y="487"/>
-      <point x="686" y="478"/>
-      <point x="686" y="467" type="curve" smooth="yes"/>
-      <point x="686" y="456"/>
-      <point x="694" y="447"/>
-      <point x="706" y="447" type="curve" smooth="yes"/>
-      <point x="717" y="447"/>
-      <point x="726" y="456"/>
-    </contour>
     <component base="_dot" xOffset="369" yOffset="275"/>
     <component base="_dot" xOffset="779" yOffset="286"/>
     <component base="_dot" xOffset="581" yOffset="289"/>
@@ -85,5 +57,7 @@
     <component base="_dot" xOffset="181" yOffset="22"/>
     <component base="_dot" xOffset="134" yOffset="49"/>
     <component base="_dot" xOffset="106" yOffset="96"/>
+    <component base="_dot" xOffset="596" yOffset="467"/>
+    <component base="_dot" xOffset="706" yOffset="467"/>
   </outline>
 </glyph>

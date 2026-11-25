@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ograve_ocircumflex.ref7" format="2">
   <advance width="930"/>
-  <anchor x="278" y="345" name="top_1"/>
-  <anchor x="235" y="0" name="bottom_1"/>
-  <anchor x="235" y="174" name="center_1"/>
-  <anchor x="722" y="345" name="top_2"/>
-  <anchor x="679" y="0" name="bottom_2"/>
-  <anchor x="679" y="174" name="center_2"/>
+  <anchor x="278" y="348" name="top_1"/>
+  <anchor x="236" y="0" name="bottom_1"/>
+  <anchor x="236" y="174" name="center_1"/>
+  <anchor x="722" y="348" name="top_2"/>
+  <anchor x="680" y="0" name="bottom_2"/>
+  <anchor x="680" y="174" name="center_2"/>
   <outline>
     <component base="_dot" xOffset="561" yOffset="269"/>
     <component base="_dot" xOffset="672" yOffset="271"/>

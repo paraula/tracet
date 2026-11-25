@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ograve_w_o.obvwfix" format="2">
   <advance width="1668"/>
-  <anchor x="270" y="345" name="top_1"/>
-  <anchor x="227" y="0" name="bottom_1"/>
-  <anchor x="227" y="174" name="center_1"/>
-  <anchor x="800" y="343" name="top_2"/>
-  <anchor x="861" y="0" name="bottom_2"/>
-  <anchor x="1482" y="345" name="top_3"/>
-  <anchor x="1439" y="0" name="bottom_3"/>
-  <anchor x="1439" y="174" name="center_3"/>
+  <anchor x="270" y="348" name="top_1"/>
+  <anchor x="228" y="0" name="bottom_1"/>
+  <anchor x="228" y="174" name="center_1"/>
+  <anchor x="804" y="346" name="top_2"/>
+  <anchor x="865" y="0" name="bottom_2"/>
+  <anchor x="1486" y="348" name="top_3"/>
+  <anchor x="1444" y="0" name="bottom_3"/>
+  <anchor x="1444" y="174" name="center_3"/>
   <outline>
     <component base="_dot" xOffset="396" yOffset="268"/>
     <component base="_dot" xOffset="285" yOffset="270"/>

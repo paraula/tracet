@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="b_iacute.liga" format="2">
   <advance width="713"/>
-  <anchor x="142" y="689" name="top_1"/>
-  <anchor x="142" y="0" name="bottom_1"/>
-  <anchor x="694" y="337" name="top_2"/>
-  <anchor x="694" y="0" name="bottom_2"/>
-  <anchor x="672" y="0" name="ogonek_2"/>
+  <anchor x="141" y="692" name="top_1"/>
+  <anchor x="141" y="0" name="bottom_1"/>
+  <anchor x="693" y="340" name="top_2"/>
+  <anchor x="693" y="0" name="bottom_2"/>
+  <anchor x="674" y="0" name="ogonek_2"/>
   <outline>
     <component base="_dot" xOffset="99" yOffset="116"/>
     <component base="_dot" xOffset="91" yOffset="174"/>

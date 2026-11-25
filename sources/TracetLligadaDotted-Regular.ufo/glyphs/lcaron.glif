@@ -4,6 +4,6 @@
   <unicode hex="013E"/>
   <outline>
     <component base="l"/>
-    <component base="caronvert.mark" xOffset="236" yOffset="690"/>
+    <component base="caronvert.mark" xOffset="238" yOffset="693"/>
   </outline>
 </glyph>

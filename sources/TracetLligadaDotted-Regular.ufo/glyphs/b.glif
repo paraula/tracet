@@ -2,8 +2,8 @@
 <glyph name="b" format="2">
   <advance width="498"/>
   <unicode hex="0062"/>
-  <anchor x="142" y="689" name="top"/>
-  <anchor x="142" y="0" name="bottom"/>
+  <anchor x="141" y="692" name="top"/>
+  <anchor x="141" y="0" name="bottom"/>
   <outline>
     <component base="_dot" xOffset="304" yOffset="292"/>
     <component base="_dot" xOffset="263" yOffset="326"/>

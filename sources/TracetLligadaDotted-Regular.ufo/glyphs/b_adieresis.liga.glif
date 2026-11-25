@@ -1,40 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="b_adieresis.liga" format="2">
   <advance width="928"/>
-  <anchor x="142" y="689" name="top_1"/>
-  <anchor x="142" y="0" name="bottom_1"/>
-  <anchor x="708" y="339" name="top_2"/>
+  <anchor x="145" y="692" name="top_1"/>
+  <anchor x="145" y="0" name="bottom_1"/>
+  <anchor x="708" y="342" name="top_2"/>
   <anchor x="679" y="0" name="bottom_2"/>
-  <anchor x="822" y="0" name="ogonek_2"/>
+  <anchor x="824" y="0" name="ogonek_2"/>
   <outline>
-    <contour>
-      <point x="749" y="467" type="curve" smooth="yes"/>
-      <point x="749" y="478"/>
-      <point x="740" y="487"/>
-      <point x="729" y="487" type="curve" smooth="yes"/>
-      <point x="717" y="487"/>
-      <point x="709" y="478"/>
-      <point x="709" y="467" type="curve" smooth="yes"/>
-      <point x="709" y="456"/>
-      <point x="717" y="447"/>
-      <point x="729" y="447" type="curve" smooth="yes"/>
-      <point x="740" y="447"/>
-      <point x="749" y="456"/>
-    </contour>
-    <contour>
-      <point x="639" y="467" type="curve" smooth="yes"/>
-      <point x="639" y="478"/>
-      <point x="630" y="487"/>
-      <point x="619" y="487" type="curve" smooth="yes"/>
-      <point x="608" y="487"/>
-      <point x="599" y="478"/>
-      <point x="599" y="467" type="curve" smooth="yes"/>
-      <point x="599" y="456"/>
-      <point x="608" y="447"/>
-      <point x="619" y="447" type="curve" smooth="yes"/>
-      <point x="630" y="447"/>
-      <point x="639" y="456"/>
-    </contour>
     <component base="_dot" xOffset="487" yOffset="274"/>
     <component base="_dot" xOffset="549" yOffset="283"/>
     <component base="_dot" xOffset="796" yOffset="295"/>
@@ -94,5 +66,7 @@
     <component base="_dot" xOffset="229" yOffset="19"/>
     <component base="_dot" xOffset="172" yOffset="28"/>
     <component base="_dot" xOffset="127" yOffset="65"/>
+    <component base="_dot" xOffset="729" yOffset="467"/>
+    <component base="_dot" xOffset="619" yOffset="467"/>
   </outline>
 </glyph>
