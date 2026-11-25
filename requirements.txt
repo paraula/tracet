@@ -2,3 +2,10 @@ gftools[qa]
 fontmake
 ufoLib2
 skia-pathops
+
+# helper scripts in scripts/ (not needed to build)
+numpy
+scipy
+pillow
+uharfbuzz
+freetype-py
